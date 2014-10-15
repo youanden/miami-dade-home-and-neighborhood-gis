@@ -1,0 +1,1630 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.21505677352016, 
+          25.863999139367895
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI-DADE", 
+        "FOLIO": "3031020000400", 
+        "NAME": "COLONIAL ACRES  MOBILE HOME PARK", 
+        "LON": -80.21506, 
+        "ZIPCODE": 33150, 
+        "TOTUNIT": 296, 
+        "PHONE": "305-696-6231", 
+        "POINT_X": 914282.6077888269, 
+        "POINT_Y": 557032.069376491, 
+        "ADDRESS": "9674 NW 10TH AVE", 
+        "LAT": 25.864, 
+        "TYPE": "MHP", 
+        "TOTSQFT": 1211603.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.20134939309308, 
+          25.84865923965673
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI-DADE", 
+        "FOLIO": "3031120000070", 
+        "NAME": "LITTLE RIVER MOBILE HOME PARK", 
+        "LON": -80.20135, 
+        "ZIPCODE": 33150, 
+        "TOTUNIT": 76, 
+        "PHONE": "305-758-8888", 
+        "POINT_X": 918824.136435412, 
+        "POINT_Y": 551483.646418236, 
+        "ADDRESS": "215 NW 79TH ST", 
+        "LAT": 25.84866, 
+        "TYPE": "MHP", 
+        "TOTSQFT": 120661.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.31333897176854, 
+          25.85169189788966
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "HIALEAH", 
+        "FOLIO": "0430110150001", 
+        "NAME": "PALMETTO TRAILER ESTATES", 
+        "LON": -80.31334, 
+        "ZIPCODE": 33012, 
+        "TOTUNIT": 95, 
+        "PHONE": null, 
+        "POINT_X": 881986.437473163, 
+        "POINT_Y": 552377.749944992, 
+        "ADDRESS": "3205 W 16TH AVE", 
+        "LAT": 25.85169, 
+        "TYPE": "RV", 
+        "TOTSQFT": 0.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.40022649966431, 
+          25.531914978034678
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI-DADE", 
+        "FOLIO": "3069260000050", 
+        "NAME": "PRINCETONIAN MOBILE HOME PARK", 
+        "LON": -80.40023, 
+        "ZIPCODE": 33032, 
+        "TOTUNIT": 190, 
+        "PHONE": "(305) 257-3251", 
+        "POINT_X": 853938.8124661631, 
+        "POINT_Y": 436014.094221324, 
+        "ADDRESS": "12900 SW 253rd Ter", 
+        "LAT": 25.53191, 
+        "TYPE": "MHP", 
+        "TOTSQFT": 1612591.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.37888288294741, 
+          25.772747501696205
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI-DADE", 
+        "FOLIO": "3040060012440", 
+        "NAME": "LIL ABNER MOBILE HOME PARK", 
+        "LON": -80.37888, 
+        "ZIPCODE": 33172, 
+        "TOTUNIT": 908, 
+        "PHONE": "305-221-7411", 
+        "POINT_X": 860566.132872913, 
+        "POINT_Y": 523577.385629825, 
+        "ADDRESS": "11239 NW 4TH TER", 
+        "LAT": 25.77275, 
+        "TYPE": "MHP", 
+        "TOTSQFT": 144619.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.18614327099965, 
+          25.910605190022874
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI-DADE", 
+        "FOLIO": "3022190000410", 
+        "NAME": "SHADY OAK TRAILER PARK", 
+        "LON": -80.18614, 
+        "ZIPCODE": 33161, 
+        "TOTUNIT": 25, 
+        "PHONE": "954-922-8803", 
+        "POINT_X": 923685.6749406611, 
+        "POINT_Y": 574029.973372743, 
+        "ADDRESS": "14701 NE 6TH AVE", 
+        "LAT": 25.91061, 
+        "TYPE": "MHP", 
+        "TOTSQFT": 89925.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.19844862724881, 
+          25.848770731805942
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI-DADE", 
+        "FOLIO": "3031120000010", 
+        "NAME": "TRINIDAD COURT", 
+        "LON": -80.19845, 
+        "ZIPCODE": 33150, 
+        "TOTUNIT": 173, 
+        "PHONE": "786-505-5239", 
+        "POINT_X": 919777.921929412, 
+        "POINT_Y": 551529.979330823, 
+        "ADDRESS": "7930 NW MIAMI CT", 
+        "LAT": 25.84877, 
+        "TYPE": "MHP", 
+        "TOTSQFT": 160542.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.21667682802439, 
+          25.84787085976901
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI-DADE", 
+        "FOLIO": "3031110000170", 
+        "NAME": "WESTLAND MOBILE HOME PARK", 
+        "LON": -80.21668, 
+        "ZIPCODE": 33150, 
+        "TOTUNIT": 114, 
+        "PHONE": "305-876-1440", 
+        "POINT_X": 913784.8121964971, 
+        "POINT_Y": 551166.750398487, 
+        "ADDRESS": "1175 NW 79TH ST", 
+        "LAT": 25.84787, 
+        "TYPE": "MHP", 
+        "TOTSQFT": 201120.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.28296473415827, 
+          25.955736736469223
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI-DADE", 
+        "FOLIO": "3011310010290", 
+        "NAME": "HONEY HILL MOBILE HOME PARK", 
+        "LON": -80.28296, 
+        "ZIPCODE": 33055, 
+        "TOTUNIT": 438, 
+        "PHONE": "305-625-9255", 
+        "POINT_X": 891769.061936747, 
+        "POINT_Y": 590248.12531957, 
+        "ADDRESS": "4955 NW 199TH ST", 
+        "LAT": 25.95574, 
+        "TYPE": "MHP", 
+        "TOTSQFT": 2086959.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.43488749020926, 
+          25.50150651228059
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI-DADE", 
+        "FOLIO": "3079040000090", 
+        "NAME": "PALM GARDENS MOBILE HOME PARK", 
+        "LON": -80.43489, 
+        "ZIPCODE": 33033, 
+        "TOTUNIT": 279, 
+        "PHONE": "305-247-8915", 
+        "POINT_X": 842556.249929495, 
+        "POINT_Y": 424912.28145124, 
+        "ADDRESS": "28501 SW 152ND AVE", 
+        "LAT": 25.50151, 
+        "TYPE": "MHP", 
+        "TOTSQFT": 1588764.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.2165011048922, 
+          25.84580745998178
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI-DADE", 
+        "FOLIO": "3031110240030", 
+        "NAME": "NEW AVOCADO TRAILER PARK", 
+        "LON": -80.2165, 
+        "ZIPCODE": 33150, 
+        "TOTUNIT": 73, 
+        "PHONE": "305-262-5755", 
+        "POINT_X": 913847.0774919131, 
+        "POINT_Y": 550417.11279016, 
+        "ADDRESS": "1170 NW 79TH ST", 
+        "LAT": 25.84581, 
+        "TYPE": "MHP", 
+        "TOTSQFT": 99316.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.47300763662723, 
+          25.549717055792186
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI-DADE", 
+        "FOLIO": "3069190000150", 
+        "NAME": "SILVER PALM MOBILE HOME PARK", 
+        "LON": -80.47301, 
+        "ZIPCODE": 33170, 
+        "TOTUNIT": 112, 
+        "PHONE": "305-248-8443", 
+        "POINT_X": 829913.500280663, 
+        "POINT_Y": 442382.406615905, 
+        "ADDRESS": "17350 SW 232ND ST", 
+        "LAT": 25.54972, 
+        "TYPE": "MHP", 
+        "TOTSQFT": 396831.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.48172383112836, 
+          25.439219960238525
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI-DADE", 
+        "FOLIO": "3078250140001", 
+        "NAME": "GATEWAY WEST MHP", 
+        "LON": -80.48172, 
+        "ZIPCODE": 33034, 
+        "TOTUNIT": 111, 
+        "PHONE": "305-246-0435", 
+        "POINT_X": 827196.124809913, 
+        "POINT_Y": 402212.063400321, 
+        "ADDRESS": "35303 SW 180TH AVE", 
+        "LAT": 25.43922, 
+        "TYPE": "MHP", 
+        "TOTSQFT": 93262.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.40675081250187, 
+          25.50089848106828
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI-DADE", 
+        "FOLIO": "3079020000061", 
+        "NAME": "PINE ISLE MOBILE HOME PARK", 
+        "LON": -80.40675, 
+        "ZIPCODE": 33033, 
+        "TOTUNIT": 317, 
+        "PHONE": "305-248-0783", 
+        "POINT_X": 851837.687075246, 
+        "POINT_Y": 424731.68765232, 
+        "ADDRESS": "28600 SW 132ND AVE", 
+        "LAT": 25.5009, 
+        "TYPE": "MHP", 
+        "TOTSQFT": 3543606.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.42942069596718, 
+          25.50420069783719
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI-DADE", 
+        "FOLIO": "3079040000020", 
+        "NAME": "LEISURE EAST (PALM GARDENS RV PARK)", 
+        "LON": -80.42942, 
+        "ZIPCODE": 33033, 
+        "TOTUNIT": 39, 
+        "PHONE": "305-247-8915", 
+        "POINT_X": 844355.1872764941, 
+        "POINT_Y": 425899.156117909, 
+        "ADDRESS": "28300 SW 147TH AVE", 
+        "LAT": 25.5042, 
+        "TYPE": "MHP", 
+        "TOTSQFT": 183823.2
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.16854247510621, 
+          25.880958887684876
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI-DADE", 
+        "FOLIO": "3022320000151", 
+        "NAME": "BISCAYNE BREEZE PARK", 
+        "LON": -80.16854, 
+        "ZIPCODE": 33181, 
+        "TOTUNIT": 60, 
+        "PHONE": "305-895-0112", 
+        "POINT_X": 929539.698337577, 
+        "POINT_Y": 563290.610665157, 
+        "ADDRESS": "11380 BISCAYNE BLVD", 
+        "LAT": 25.88096, 
+        "TYPE": "MHP", 
+        "TOTSQFT": 230144.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.24028223795058, 
+          25.79205820068295
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI", 
+        "FOLIO": "0131330160010", 
+        "NAME": "FLAGAMI PARADISE TRAILER PARK", 
+        "LON": -80.24028, 
+        "ZIPCODE": 33125, 
+        "TOTUNIT": 100, 
+        "PHONE": "305-788-0985", 
+        "POINT_X": 906138.373749245, 
+        "POINT_Y": 530835.137518488, 
+        "ADDRESS": "2750 NW SOUTH RIVER DR", 
+        "LAT": 25.79206, 
+        "TYPE": "MHP", 
+        "TOTSQFT": 166834.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.47896947323612, 
+          25.456263232403888
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "FLORIDA CITY", 
+        "FOLIO": "1678240110010", 
+        "NAME": "FLORIDA CITY CAMP SITE & RV PARK", 
+        "LON": -80.47897, 
+        "ZIPCODE": 33034, 
+        "TOTUNIT": 145, 
+        "PHONE": "305-248-7889", 
+        "POINT_X": 828080.86582258, 
+        "POINT_Y": 408409.76983691, 
+        "ADDRESS": "601 NW 3RD AVE", 
+        "LAT": 25.45626, 
+        "TYPE": "MHP", 
+        "TOTSQFT": 638590.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.27372680663673, 
+          25.85267380920008
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "HIALEAH", 
+        "FOLIO": "0431050050040", 
+        "NAME": "HIALEAH TRAILER PARK", 
+        "LON": -80.27373, 
+        "ZIPCODE": 33013, 
+        "TOTUNIT": 32, 
+        "PHONE": "305-696-2278", 
+        "POINT_X": 895012.000332747, 
+        "POINT_Y": 552804.68773941, 
+        "ADDRESS": "425 E 33RD ST", 
+        "LAT": 25.85267, 
+        "TYPE": "MHP", 
+        "TOTSQFT": 22080.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.47483939843387, 
+          25.46834060826168
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "HOMESTEAD", 
+        "FOLIO": "1079180081020", 
+        "NAME": "HOMESTEAD TRAILER PARK", 
+        "LON": -80.47484, 
+        "ZIPCODE": 33030, 
+        "TOTUNIT": 50, 
+        "PHONE": "305-247-4021", 
+        "POINT_X": 829426.312606744, 
+        "POINT_Y": 412804.500220656, 
+        "ADDRESS": "31 SE 2ND RD", 
+        "LAT": 25.46834, 
+        "TYPE": "MHP", 
+        "TOTSQFT": 79500.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.1866990512802, 
+          25.853516539153816
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "EL PORTAL", 
+        "FOLIO": "1832070200260", 
+        "NAME": "LITTLE FARM MOBILE COURT", 
+        "LON": -80.1867, 
+        "ZIPCODE": 33138, 
+        "TOTUNIT": 210, 
+        "PHONE": "305-759-1283", 
+        "POINT_X": 923631.562516078, 
+        "POINT_Y": 553278.687119491, 
+        "ADDRESS": "8500 BISCAYNE BLVD", 
+        "LAT": 25.85352, 
+        "TYPE": "MHP", 
+        "TOTSQFT": 191228.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.19015111690078, 
+          25.83183599084526
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI", 
+        "FOLIO": "0132180150210", 
+        "NAME": "MAGIC CITY TRAILER PARK", 
+        "LON": -80.19015, 
+        "ZIPCODE": 33137, 
+        "TOTUNIT": 95, 
+        "PHONE": "305-759-0336", 
+        "POINT_X": 922544.812721077, 
+        "POINT_Y": 545391.4378021581, 
+        "ADDRESS": "6001 NE 2ND AVE", 
+        "LAT": 25.83184, 
+        "TYPE": "MHP", 
+        "TOTSQFT": 265965.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.471272649381, 
+          25.44614616776568
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "FLORIDA CITY", 
+        "FOLIO": "1679300010190", 
+        "NAME": "SOUTHERN COMFORT R V RESORT LLC", 
+        "LON": -80.47127, 
+        "ZIPCODE": 33034, 
+        "TOTUNIT": 359, 
+        "PHONE": "305-248-6909", 
+        "POINT_X": 830635.062813912, 
+        "POINT_Y": 404742.844099909, 
+        "ADDRESS": "345 E PALM DR", 
+        "LAT": 25.44615, 
+        "TYPE": "RV", 
+        "TOTSQFT": 217800.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.29364184583136, 
+          25.762524088235544
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "WEST MIAMI", 
+        "FOLIO": "1540120000160", 
+        "NAME": "WESTHAVEN TRAILER PARK", 
+        "LON": -80.29364, 
+        "ZIPCODE": 33144, 
+        "TOTUNIT": 105, 
+        "PHONE": "305-266-0488", 
+        "POINT_X": 888638.3132769951, 
+        "POINT_Y": 520002.875062324, 
+        "ADDRESS": "6020 SW 8TH ST", 
+        "LAT": 25.76252, 
+        "TYPE": "MHP", 
+        "TOTSQFT": 260924.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.47222876054138, 
+          25.464649393076986
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "HOMESTEAD", 
+        "FOLIO": "1079180000200", 
+        "NAME": "AQUARIUS MOBILE HOME PARK", 
+        "LON": -80.47223, 
+        "ZIPCODE": 33030, 
+        "TOTUNIT": 187, 
+        "PHONE": "305-248-9383", 
+        "POINT_X": 830292.936529662, 
+        "POINT_Y": 411466.372975655, 
+        "ADDRESS": "451 SE 8TH ST", 
+        "LAT": 25.46465, 
+        "TYPE": "MHP", 
+        "TOTSQFT": 653400.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.31151328984402, 
+          25.849274010740693
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "HIALEAH", 
+        "FOLIO": "0430110020190", 
+        "NAME": "HOLIDAY ACRES MOBILE HOME PARK INC", 
+        "LON": -80.31151, 
+        "ZIPCODE": 33012, 
+        "TOTUNIT": 84, 
+        "PHONE": "305-822-4611", 
+        "POINT_X": 882591.4657906629, 
+        "POINT_Y": 551502.0758433271, 
+        "ADDRESS": "1401 W 29TH ST", 
+        "LAT": 25.84927, 
+        "TYPE": "MHP", 
+        "TOTSQFT": 114630.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.1995153263365, 
+          25.848672810616048
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI-DADE", 
+        "FOLIO": "3031120000060", 
+        "NAME": "SUNNYLAND TRAILER PARK", 
+        "LON": -80.19952, 
+        "ZIPCODE": 33150, 
+        "TOTUNIT": 105, 
+        "PHONE": "786-505-5239", 
+        "POINT_X": 919427.31239441, 
+        "POINT_Y": 551492.2494194059, 
+        "ADDRESS": "129 NW 79TH ST", 
+        "LAT": 25.84867, 
+        "TYPE": "MHP", 
+        "TOTSQFT": 176505.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.24331568101978, 
+          25.843572501785673
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI-DADE", 
+        "FOLIO": "3031090080470", 
+        "NAME": "PALM LAKE MOBILE HOME PARK", 
+        "LON": -80.24332, 
+        "ZIPCODE": 33147, 
+        "TOTUNIT": 118, 
+        "PHONE": "305-696-1920", 
+        "POINT_X": 905032.5383624961, 
+        "POINT_Y": 549553.0990982429, 
+        "ADDRESS": "7600 NW 27TH AVE", 
+        "LAT": 25.84357, 
+        "TYPE": "MHP", 
+        "TOTSQFT": 301391.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.24486758528153, 
+          25.84456745652999
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI-DADE", 
+        "FOLIO": "3031090000180", 
+        "NAME": "J. BAR J.", 
+        "LON": -80.24487, 
+        "ZIPCODE": 33147, 
+        "TOTUNIT": 97, 
+        "PHONE": "305-691-2432", 
+        "POINT_X": 904520.036434747, 
+        "POINT_Y": 549911.797199741, 
+        "ADDRESS": "2980 NW 79TH ST", 
+        "LAT": 25.84457, 
+        "TYPE": "MHP", 
+        "TOTSQFT": 217799.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.24528988340774, 
+          25.808290050319584
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI-DADE", 
+        "FOLIO": "3021380120010", 
+        "NAME": "ALL STAR 36 STREET", 
+        "LON": -80.24529, 
+        "ZIPCODE": 33142, 
+        "TOTUNIT": 73, 
+        "PHONE": "305-557-1122", 
+        "POINT_X": 904456.811823662, 
+        "POINT_Y": 536725.375409909, 
+        "ADDRESS": "3010 NW 36TH ST", 
+        "LAT": 25.80829, 
+        "TYPE": "MHP", 
+        "TOTSQFT": 169109.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.18849481475301, 
+          25.911184339956808
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI-DADE", 
+        "FOLIO": "3022190000740", 
+        "NAME": "SIX AVENUE TRAILER PARK", 
+        "LON": -80.18849, 
+        "ZIPCODE": 33161, 
+        "TOTUNIT": 14, 
+        "PHONE": "305-835-9627", 
+        "POINT_X": 922911.374980077, 
+        "POINT_Y": 574235.687856324, 
+        "ADDRESS": "14752 NE 6TH AVE", 
+        "LAT": 25.91118, 
+        "TYPE": "MHP", 
+        "TOTSQFT": 87120.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.25513499715235, 
+          25.81262757120297
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI-DADE", 
+        "FOLIO": "3031210000970", 
+        "NAME": "CARLEY'S MHP", 
+        "LON": -80.25513, 
+        "ZIPCODE": 33142, 
+        "TOTUNIT": 70, 
+        "PHONE": "305-635-5134", 
+        "POINT_X": 901208.854080744, 
+        "POINT_Y": 538283.45890791, 
+        "ADDRESS": "4111 NW 37TH AVE", 
+        "LAT": 25.81263, 
+        "TYPE": "MHP", 
+        "TOTSQFT": 261795.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.1483322112737, 
+          25.95690143624069
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI-DADE", 
+        "FOLIO": "3022030050040", 
+        "NAME": "DIXIE MOBILE COURT", 
+        "LON": -80.14833, 
+        "ZIPCODE": 33180, 
+        "TOTUNIT": 47, 
+        "PHONE": "305-933-4219", 
+        "POINT_X": 936005.528253663, 
+        "POINT_Y": 590936.548483409, 
+        "ADDRESS": "19640 W DIXIE HWY", 
+        "LAT": 25.9569, 
+        "TYPE": "MHP", 
+        "TOTSQFT": 93832.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.24094608508095, 
+          25.797546681639815
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI-DADE", 
+        "FOLIO": "3031280180010", 
+        "NAME": "RIVER PARK TRAILER", 
+        "LON": -80.24095, 
+        "ZIPCODE": 33142, 
+        "TOTUNIT": 88, 
+        "PHONE": "305-635-4803", 
+        "POINT_X": 905908.437857412, 
+        "POINT_Y": 532828.749672987, 
+        "ADDRESS": "2260 NW 27TH AVE", 
+        "LAT": 25.79755, 
+        "TYPE": "MHP", 
+        "TOTSQFT": 216598.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.15744262364652, 
+          25.90089921712752
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "NORTH MIAMI BEACH", 
+        "FOLIO": null, 
+        "NAME": "HIGHLAND VILLAGE MOBILE HOME PARK", 
+        "LON": -80.15744, 
+        "ZIPCODE": 33181, 
+        "TOTUNIT": 500, 
+        "PHONE": null, 
+        "POINT_X": 933142.812850494, 
+        "POINT_Y": 570561.687658407, 
+        "ADDRESS": "13565 NE 21ST AVE", 
+        "LAT": 25.9009, 
+        "TYPE": "MHP", 
+        "TOTSQFT": 1829898.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.46130211745246, 
+          25.472223255687307
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "HOMESTEAD", 
+        "FOLIO": "1079180142250", 
+        "NAME": "COCOWALK ESTATES", 
+        "LON": -80.4613, 
+        "ZIPCODE": 33030, 
+        "TOTUNIT": 223, 
+        "PHONE": "305-245-8125", 
+        "POINT_X": 833886.874551747, 
+        "POINT_Y": 414233.437651493, 
+        "ADDRESS": "220 NE 12TH AVE", 
+        "LAT": 25.47222, 
+        "TYPE": "MHP", 
+        "TOTSQFT": 0.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.47302512877437, 
+          25.547947840754425
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI-DADE", 
+        "FOLIO": "3069190000151", 
+        "NAME": "REDLAND MOBILE HOME PARK", 
+        "LON": -80.47303, 
+        "ZIPCODE": 33170, 
+        "TOTUNIT": 80, 
+        "PHONE": "305-247-7707", 
+        "POINT_X": 829910.283751663, 
+        "POINT_Y": 441739.375421658, 
+        "ADDRESS": "17360 SW 232ND ST", 
+        "LAT": 25.54795, 
+        "TYPE": "MHP", 
+        "TOTSQFT": 397702.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.21237950578153, 
+          25.849827536696893
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI-DADE", 
+        "FOLIO": "3031110000180", 
+        "NAME": "ROVELL TRAILER PARK", 
+        "LON": -80.21238, 
+        "ZIPCODE": 33150, 
+        "TOTUNIT": 138, 
+        "PHONE": "305-693-4396", 
+        "POINT_X": 915193.901897997, 
+        "POINT_Y": 551886.390691489, 
+        "ADDRESS": "939 NW 81ST ST", 
+        "LAT": 25.84983, 
+        "TYPE": "MHP", 
+        "TOTSQFT": 351000.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.25475226182543, 
+          25.80965127345928
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI-DADE", 
+        "FOLIO": "3031210001200", 
+        "NAME": "FRONTON TRAILER PARK", 
+        "LON": -80.25475, 
+        "ZIPCODE": 33142, 
+        "TOTUNIT": 57, 
+        "PHONE": "305-634-4211", 
+        "POINT_X": 901340.8958114131, 
+        "POINT_Y": 537202.390860073, 
+        "ADDRESS": "3617 NW 36TH ST", 
+        "LAT": 25.80965, 
+        "TYPE": "MHP", 
+        "TOTSQFT": 104544.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.29043359210834, 
+          25.95651582998628
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI-DADE", 
+        "FOLIO": "3011310020020", 
+        "NAME": "ROYAL COUNTRY MOBILE HOME PARK", 
+        "LON": -80.29043, 
+        "ZIPCODE": 33055, 
+        "TOTUNIT": 864, 
+        "PHONE": "305-621-2270", 
+        "POINT_X": 889313.342110664, 
+        "POINT_Y": 590517.929898076, 
+        "ADDRESS": "5555 NW 202ND TER", 
+        "LAT": 25.95652, 
+        "TYPE": "MHP", 
+        "TOTSQFT": 3145467.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.22072834669181, 
+          25.84577882216776
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI-DADE", 
+        "FOLIO": "3031110160130", 
+        "NAME": "TROPICAL VILLAGE", 
+        "LON": -80.22073, 
+        "ZIPCODE": 33147, 
+        "TOTUNIT": 108, 
+        "PHONE": "305-696-0059", 
+        "POINT_X": 912456.812555913, 
+        "POINT_Y": 550398.4373025751, 
+        "ADDRESS": "1398 NW 79TH ST", 
+        "LAT": 25.84578, 
+        "TYPE": "MHP", 
+        "TOTSQFT": 257989.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.43904147541933, 
+          25.94152701397479
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI-DADE", 
+        "FOLIO": "3029090010021", 
+        "NAME": "JONES FISHING CAMP TRAILER", 
+        "LON": -80.43904, 
+        "ZIPCODE": 33018, 
+        "TOTUNIT": 57, 
+        "PHONE": "786-308-7597", 
+        "POINT_X": 840506.562099747, 
+        "POINT_Y": 584833.0626589061, 
+        "ADDRESS": "14601 NW 185TH ST", 
+        "LAT": 25.94153, 
+        "TYPE": "MHP", 
+        "TOTSQFT": 333234.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.25507563692301, 
+          25.843666425010795
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI-DADE", 
+        "FOLIO": "3031090070010", 
+        "NAME": "MIAMI HEIGHTS TRAILER PARK", 
+        "LON": -80.25508, 
+        "ZIPCODE": 33147, 
+        "TOTUNIT": 127, 
+        "PHONE": "305-696-0121", 
+        "POINT_X": 901164.476216745, 
+        "POINT_Y": 549565.141725071, 
+        "ADDRESS": "3520 NW 79TH ST", 
+        "LAT": 25.84367, 
+        "TYPE": "MHP", 
+        "TOTSQFT": 406851.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.48648350995246, 
+          25.58159040890679
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI-DADE", 
+        "FOLIO": "3068010010010", 
+        "NAME": "AMERICANA VILLAGE CONDO ASSOC. MHP", 
+        "LON": -80.48648, 
+        "ZIPCODE": 33187, 
+        "TOTUNIT": 528, 
+        "PHONE": "305-253-6025", 
+        "POINT_X": 825425.688062079, 
+        "POINT_Y": 453949.156120159, 
+        "ADDRESS": "19800 SW 180TH AVE", 
+        "LAT": 25.58159, 
+        "TYPE": "MHP", 
+        "TOTSQFT": 3600.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.47818038404981, 
+          25.43730921845347
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI-DADE", 
+        "FOLIO": "3078250110001", 
+        "NAME": "GATEWAY ESTATES MHP", 
+        "LON": -80.47818, 
+        "ZIPCODE": 33034, 
+        "TOTUNIT": 220, 
+        "PHONE": "305-247-8500", 
+        "POINT_X": 828368.18808258, 
+        "POINT_Y": 401522.188139655, 
+        "ADDRESS": "35250 SW 177TH CT", 
+        "LAT": 25.43731, 
+        "TYPE": "MHP", 
+        "TOTSQFT": 217800.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.49547541590177, 
+          25.444499573953575
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI-DADE", 
+        "FOLIO": "3078260110010", 
+        "NAME": "GOLD COASTER TRAILER PARK", 
+        "LON": -80.49548, 
+        "ZIPCODE": 33034, 
+        "TOTUNIT": 430, 
+        "PHONE": "305-248-5462", 
+        "POINT_X": 822650.8120501641, 
+        "POINT_Y": 404113.469046325, 
+        "ADDRESS": "34850 SW 187TH AVE", 
+        "LAT": 25.4445, 
+        "TYPE": "MHP", 
+        "TOTSQFT": 3543606.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.45234202946087, 
+          25.575344707539426
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI-DADE", 
+        "FOLIO": "3069080000090", 
+        "NAME": "MIAMI-EVERGLADES KAMPGROUND", 
+        "LON": -80.45234, 
+        "ZIPCODE": 33187, 
+        "TOTUNIT": 298, 
+        "PHONE": "305-233-5300", 
+        "POINT_X": 836688.562845994, 
+        "POINT_Y": 451724.187472992, 
+        "ADDRESS": "20675 SW 162ND AVE", 
+        "LAT": 25.57534, 
+        "TYPE": "RV", 
+        "TOTSQFT": 1038866.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.3082394284579, 
+          25.76005324924952
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI-DADE", 
+        "FOLIO": "3040110120010", 
+        "NAME": "MIAMI TERRACE MOBILE HOME PARK", 
+        "LON": -80.30824, 
+        "ZIPCODE": 33144, 
+        "TOTUNIT": 89, 
+        "PHONE": "305-261-0551", 
+        "POINT_X": 883838.624057494, 
+        "POINT_Y": 519079.344429076, 
+        "ADDRESS": "1040 SW 70TH AVE", 
+        "LAT": 25.76005, 
+        "TYPE": "MHP", 
+        "TOTSQFT": 148833.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.31484608512453, 
+          25.84759341681066
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MEDLEY", 
+        "FOLIO": "2230110020590", 
+        "NAME": "MEDLEY MOBILE HOME PARK", 
+        "LON": -80.31485, 
+        "ZIPCODE": 33166, 
+        "TOTUNIT": 217, 
+        "PHONE": "305-885-7070", 
+        "POINT_X": 881498.550981745, 
+        "POINT_Y": 550885.51113157, 
+        "ADDRESS": "8181 NW SOUTH RIVER DR", 
+        "LAT": 25.84759, 
+        "TYPE": "MHP", 
+        "TOTSQFT": 431680.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.39241111400497, 
+          25.60312781002314
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI-DADE", 
+        "FOLIO": "3059360000030", 
+        "NAME": "LARRY/PENNY THOMPSON", 
+        "LON": -80.39241, 
+        "ZIPCODE": 33177, 
+        "TOTUNIT": 240, 
+        "PHONE": "305-232-1049", 
+        "POINT_X": 856397.499149829, 
+        "POINT_Y": 461907.87871974, 
+        "ADDRESS": "12451 SW 184TH  ST", 
+        "LAT": 25.60313, 
+        "TYPE": "RV", 
+        "TOTSQFT": 12066871.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.31348160140531, 
+          25.848499630980147
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "HIALEAH", 
+        "FOLIO": "0430110020160", 
+        "NAME": "SUNNY GARDENS TRAILER PARK", 
+        "LON": -80.31348, 
+        "ZIPCODE": 33012, 
+        "TOTUNIT": 93, 
+        "PHONE": "305-822-5921", 
+        "POINT_X": 881945.5920824109, 
+        "POINT_Y": 551217.229628243, 
+        "ADDRESS": "2901 W 16TH AVE", 
+        "LAT": 25.8485, 
+        "TYPE": "MHP", 
+        "TOTSQFT": 190200.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.5809118409002, 
+          25.75937058230714
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI-DADE", 
+        "FOLIO": "3047120010070", 
+        "NAME": "GATOR PARK MHP", 
+        "LON": -80.58091, 
+        "ZIPCODE": 33194, 
+        "TOTUNIT": 20, 
+        "PHONE": "305-559-2255", 
+        "POINT_X": 794096.250392996, 
+        "POINT_Y": 518453.124880992, 
+        "ADDRESS": "24050 SW 8TH ST", 
+        "LAT": 25.75937, 
+        "TYPE": "RV", 
+        "TOTSQFT": 3182834.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.31381810088648, 
+          25.85030303596019
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "HIALEAH", 
+        "FOLIO": "0430110020210", 
+        "NAME": "HIBISCUS MOBILE HOME PARK INC", 
+        "LON": -80.31382, 
+        "ZIPCODE": 33012, 
+        "TOTUNIT": 34, 
+        "PHONE": "305-822-2612", 
+        "POINT_X": 881831.499462828, 
+        "POINT_Y": 551872.124971993, 
+        "ADDRESS": "3131 W 16TH AVE", 
+        "LAT": 25.8503, 
+        "TYPE": "MHP", 
+        "TOTSQFT": 89100.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.40460761318815, 
+          25.755296816162726
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI-DADE", 
+        "FOLIO": "3049110000010", 
+        "NAME": "UNIVERSITY LAKES MOBILE HOME", 
+        "LON": -80.40461, 
+        "ZIPCODE": 33184, 
+        "TOTUNIT": 1153, 
+        "PHONE": "305-226-4251", 
+        "POINT_X": 852129.000140913, 
+        "POINT_Y": 517195.75009916, 
+        "ADDRESS": "12850 SW 14TH ST", 
+        "LAT": 25.7553, 
+        "TYPE": "MHP", 
+        "TOTSQFT": 6661195.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.3118688291149, 
+          25.848537106253826
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "HIALEAH", 
+        "FOLIO": "0430110020180", 
+        "NAME": "STRAWBERRY VILLAGE TRAILER PARK", 
+        "LON": -80.31187, 
+        "ZIPCODE": 33012, 
+        "TOTUNIT": 39, 
+        "PHONE": "305-821-0628", 
+        "POINT_X": 882475.9374784121, 
+        "POINT_Y": 551233.624936655, 
+        "ADDRESS": "1451 W 29TH ST", 
+        "LAT": 25.84854, 
+        "TYPE": "MHP", 
+        "TOTSQFT": 114630.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.37078772418995, 
+          25.867006371601565
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MEDLEY", 
+        "FOLIO": "2230050010030", 
+        "NAME": "MEDLEY LAKESIDE RETIREMENT PARK", 
+        "LON": -80.37079, 
+        "ZIPCODE": 33178, 
+        "TOTUNIT": 86, 
+        "PHONE": "305-888-3322", 
+        "POINT_X": 863066.312255744, 
+        "POINT_Y": 557849.375156574, 
+        "ADDRESS": "10601 NW 105TH WAY", 
+        "LAT": 25.86701, 
+        "TYPE": "MHP", 
+        "TOTSQFT": 435600.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.29430471601091, 
+          25.76215002816443
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "WEST MIAMI", 
+        "FOLIO": "1540120000200", 
+        "NAME": "SUNNYSIDE MOTEL & TRAILER PK INC", 
+        "LON": -80.2943, 
+        "ZIPCODE": 33144, 
+        "TOTUNIT": 21, 
+        "PHONE": "305-266-1727", 
+        "POINT_X": 888420.87506358, 
+        "POINT_Y": 519865.750336573, 
+        "ADDRESS": "6024 SW 8TH ST", 
+        "LAT": 25.76215, 
+        "TYPE": "MHP", 
+        "TOTSQFT": 260924.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.2465723178416, 
+          25.763697494682972
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI", 
+        "FOLIO": "0141090130140", 
+        "NAME": "SILVER COURT TRAILER PARK", 
+        "LON": -80.24657, 
+        "ZIPCODE": 33135, 
+        "TOTUNIT": 236, 
+        "PHONE": "305-649-8941", 
+        "POINT_X": 904127.610710412, 
+        "POINT_Y": 520515.14667557203, 
+        "ADDRESS": "3170 SW 8TH ST", 
+        "LAT": 25.7637, 
+        "TYPE": "MHP", 
+        "TOTSQFT": 168142.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.46801363256584, 
+          25.471189170822456
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "HOMESTEAD", 
+        "FOLIO": "1079180010060", 
+        "NAME": "BOARDWALK MHP", 
+        "LON": -80.46801, 
+        "ZIPCODE": 33030, 
+        "TOTUNIT": 318, 
+        "PHONE": "305-248-2487", 
+        "POINT_X": 831674.158832829, 
+        "POINT_Y": 413848.713027239, 
+        "ADDRESS": "100 NE 6TH AVE", 
+        "LAT": 25.47119, 
+        "TYPE": "MHP", 
+        "TOTSQFT": 761864.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.36307699627909, 
+          25.8865527002172
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "HIALEAH GARDENS", 
+        "FOLIO": "2720290010400", 
+        "NAME": "COURTLY MANOR MOBILE HOME PARK", 
+        "LON": -80.36308, 
+        "ZIPCODE": 33018, 
+        "TOTUNIT": 525, 
+        "PHONE": "305-821-1400", 
+        "POINT_X": 865567.374838911, 
+        "POINT_Y": 564965.972799987, 
+        "ADDRESS": "12401 W OKEECHOBEE RD", 
+        "LAT": 25.88655, 
+        "TYPE": "MHP", 
+        "TOTSQFT": 611439.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.26678539894655, 
+          25.76323160361336
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI-DADE", 
+        "FOLIO": "3041080140010", 
+        "NAME": "GABLES TRAILER PARK", 
+        "LON": -80.26679, 
+        "ZIPCODE": 33134, 
+        "TOTUNIT": 93, 
+        "PHONE": "305-542-1199", 
+        "POINT_X": 897475.9852341639, 
+        "POINT_Y": 520308.29669557506, 
+        "ADDRESS": "825 SW 44TH AVE", 
+        "LAT": 25.76323, 
+        "TYPE": "MHP", 
+        "TOTSQFT": 107158.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.30914381338444, 
+          25.84662998091842
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "HIALEAH", 
+        "FOLIO": "0430110020890", 
+        "NAME": "WYNKEN BLYNKEN & NOD MOBILE HOME PARK", 
+        "LON": -80.30914, 
+        "ZIPCODE": 33010, 
+        "TOTUNIT": 206, 
+        "PHONE": "305-887-6570", 
+        "POINT_X": 883375.7988676621, 
+        "POINT_Y": 550545.155184992, 
+        "ADDRESS": "2775 W OKEECHOBEE RD", 
+        "LAT": 25.84663, 
+        "TYPE": "MHP", 
+        "TOTSQFT": 182952.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.24579994971174, 
+          25.810120241866823
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI-DADE", 
+        "FOLIO": "3031210220010", 
+        "NAME": "ROYAL DUKE", 
+        "LON": -80.2458, 
+        "ZIPCODE": 33142, 
+        "TOTUNIT": 199, 
+        "PHONE": "305-633-2001", 
+        "POINT_X": 904285.18782308, 
+        "POINT_Y": 537389.625065655, 
+        "ADDRESS": "3620 NW 30TH AVE", 
+        "LAT": 25.81012, 
+        "TYPE": "MHP", 
+        "TOTSQFT": 154202.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.26415312538228, 
+          25.955882578009263
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI GARDENS", 
+        "FOLIO": "3411320020010", 
+        "NAME": "RIVIERA MOBILE HOME PARK", 
+        "LON": -80.26415, 
+        "ZIPCODE": 33055, 
+        "TOTUNIT": 155, 
+        "PHONE": "305-624-5888", 
+        "POINT_X": 897950.0630261641, 
+        "POINT_Y": 590335.4378089911, 
+        "ADDRESS": "19900 NW 37TH AVE", 
+        "LAT": 25.95588, 
+        "TYPE": "MHP", 
+        "TOTSQFT": 888188.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.25352097619242, 
+          25.811964896132945
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI-DADE", 
+        "FOLIO": "3031210001020", 
+        "NAME": "BLUE BELLE TRAILER PARK", 
+        "LON": -80.25352, 
+        "ZIPCODE": 33142, 
+        "TOTUNIT": 150, 
+        "PHONE": "305-635-1755", 
+        "POINT_X": 901741.212267995, 
+        "POINT_Y": 538045.608661823, 
+        "ADDRESS": "3586 NW 41ST ST", 
+        "LAT": 25.81196, 
+        "TYPE": "MHP", 
+        "TOTSQFT": 204732.0
+      }
+    }
+  ]
+}

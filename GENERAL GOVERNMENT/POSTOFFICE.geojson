@@ -1,0 +1,1955 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.33295050982845, 
+          25.875830971616786
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "HIALEAH", 
+        "NAME": "EL MERCADO PS", 
+        "POBOXZIP2": 0, 
+        "POBOXZIP3": 0, 
+        "LON": -80.33295, 
+        "ZIPCODE": 33016, 
+        "PHONE": "(800) 275-8777", 
+        "POBOXZIP": 0, 
+        "POINT_X": 875492.115160003, 
+        "POINT_Y": 561118.2111385909, 
+        "ADDRESS": "2440 W 60TH ST", 
+        "LAT": 25.87583, 
+        "POID": "PO1", 
+        "UNIT": null
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.31942462795371, 
+          25.855075987857482
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "HIALEAH", 
+        "NAME": "PROMENADE", 
+        "POBOXZIP2": 0, 
+        "POBOXZIP3": 0, 
+        "LON": -80.31942, 
+        "ZIPCODE": 33012, 
+        "PHONE": "(305) 252-9870", 
+        "POBOXZIP": 0, 
+        "POINT_X": 879978.638995338, 
+        "POINT_Y": 553597.3324795889, 
+        "ADDRESS": "3690 W 18TH AVE", 
+        "LAT": 25.85508, 
+        "POID": "PO2", 
+        "UNIT": null
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.32259284748235, 
+          25.88638622111452
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "HIALEAH", 
+        "NAME": "HIALEAH C/ANNEX", 
+        "POBOXZIP2": 0, 
+        "POBOXZIP3": 0, 
+        "LON": -80.32259, 
+        "ZIPCODE": 33014, 
+        "PHONE": "(800) 275-8777", 
+        "POBOXZIP": 0, 
+        "POINT_X": 878878.006026004, 
+        "POINT_Y": 564972.118785091, 
+        "ADDRESS": "7000 W 19TH CT", 
+        "LAT": 25.88639, 
+        "POID": "PO3", 
+        "UNIT": null
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.27945345824418, 
+          25.85172977240906
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "HIALEAH", 
+        "NAME": "BRIGHT", 
+        "POBOXZIP2": 0, 
+        "POBOXZIP3": 0, 
+        "LON": -80.27945, 
+        "ZIPCODE": 33013, 
+        "PHONE": "(305) 882-0952", 
+        "POBOXZIP": 0, 
+        "POINT_X": 893130.52837392, 
+        "POINT_Y": 552451.19271151, 
+        "ADDRESS": "3200 E 2ND AVE", 
+        "LAT": 25.85173, 
+        "POID": "PO4", 
+        "UNIT": null
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.1237490834422, 
+          25.856213631810434
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI BEACH", 
+        "NAME": "NORMANDY", 
+        "POBOXZIP2": 0, 
+        "POBOXZIP3": 0, 
+        "LON": -80.12375, 
+        "ZIPCODE": 33141, 
+        "PHONE": "(305) 864-8155", 
+        "POBOXZIP": 0, 
+        "POINT_X": 944327.933852922, 
+        "POINT_Y": 554392.131414928, 
+        "ADDRESS": "525 71 ST", 
+        "LAT": 25.85621, 
+        "POID": "PO5", 
+        "UNIT": null
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.15639217924311, 
+          25.927589495307977
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "NORTH MIAMI BEACH", 
+        "NAME": "NO.MIAMI BCH", 
+        "POBOXZIP2": 33280, 
+        "POBOXZIP3": 0, 
+        "LON": -80.15639, 
+        "ZIPCODE": 33160, 
+        "PHONE": "(305) 947-6454", 
+        "POBOXZIP": 0, 
+        "POINT_X": 933425.714843754, 
+        "POINT_Y": 580265.1771096741, 
+        "ADDRESS": "16400 W DIXIE HWY", 
+        "LAT": 25.92759, 
+        "POID": "PO6", 
+        "UNIT": null
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.19371877776986, 
+          25.865687056774735
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI SHORES", 
+        "NAME": "MIAMI SHORES FU", 
+        "POBOXZIP2": 0, 
+        "POBOXZIP3": 0, 
+        "LON": -80.19372, 
+        "ZIPCODE": 33153, 
+        "PHONE": "(305) 754-0886", 
+        "POBOXZIP": 0, 
+        "POINT_X": 921295.782738838, 
+        "POINT_Y": 557688.0874214249, 
+        "ADDRESS": "9825 NE 2ND AVE", 
+        "LAT": 25.86569, 
+        "POID": "PO7", 
+        "UNIT": null
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.1985654772267, 
+          25.77933769705169
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI", 
+        "NAME": "FLAGLER", 
+        "POBOXZIP2": 0, 
+        "POBOXZIP3": 0, 
+        "LON": -80.19857, 
+        "ZIPCODE": 33101, 
+        "PHONE": "(305) 373-7562", 
+        "POBOXZIP": 0, 
+        "POINT_X": 919893.216974422, 
+        "POINT_Y": 526293.026524007, 
+        "ADDRESS": "500 NW 2ND AVE", 
+        "LAT": 25.77934, 
+        "POID": "PO8", 
+        "UNIT": null
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.28363028737257, 
+          25.821459292137988
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI SPRINGS", 
+        "NAME": "MIAMI SPRINGS FU", 
+        "POBOXZIP2": 0, 
+        "POBOXZIP3": 0, 
+        "LON": -80.28363, 
+        "ZIPCODE": 33266, 
+        "PHONE": "(305) 882-1042", 
+        "POBOXZIP": 0, 
+        "POINT_X": 891816.8164344211, 
+        "POINT_Y": 541441.418143176, 
+        "ADDRESS": "107 WESTWARD DR", 
+        "LAT": 25.82146, 
+        "POID": "PO9", 
+        "UNIT": null
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.39000812726553, 
+          25.559080201904532
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI", 
+        "NAME": "GOULDS FU", 
+        "POBOXZIP2": 0, 
+        "POBOXZIP3": 0, 
+        "LON": -80.39001, 
+        "ZIPCODE": 33170, 
+        "PHONE": "(305) 258-3122", 
+        "POBOXZIP": 0, 
+        "POINT_X": 857263.017760005, 
+        "POINT_Y": 445902.516045511, 
+        "ADDRESS": "22350 OLD DIXIE HWY", 
+        "LAT": 25.55908, 
+        "POID": "PO10", 
+        "UNIT": null
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.32345255973115, 
+          25.66573496498019
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI", 
+        "NAME": "PINECREST PS", 
+        "POBOXZIP2": 33296, 
+        "POBOXZIP3": 0, 
+        "LON": -80.32345, 
+        "ZIPCODE": 33256, 
+        "PHONE": "(305) 625-8851", 
+        "POBOXZIP": 33255, 
+        "POINT_X": 879007.1662007531, 
+        "POINT_Y": 484772.709302343, 
+        "ADDRESS": "11301 S DIXIE HWY", 
+        "LAT": 25.66573, 
+        "POID": "PO11", 
+        "UNIT": null
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.35073626352562, 
+          25.604424283040153
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI", 
+        "NAME": "PERRINE PS", 
+        "POBOXZIP2": 0, 
+        "POBOXZIP3": 0, 
+        "LON": -80.35074, 
+        "ZIPCODE": 33257, 
+        "PHONE": "(305) 971-4349", 
+        "POBOXZIP": 0, 
+        "POINT_X": 870129.491698921, 
+        "POINT_Y": 462444.181452923, 
+        "ADDRESS": "9833 E HIBISCUS ST", 
+        "LAT": 25.60442, 
+        "POID": "PO12", 
+        "UNIT": null
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.38709264549156, 
+          25.69104539741768
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "KENDALL", 
+        "NAME": "TOWN & COUNTRY", 
+        "POBOXZIP2": 0, 
+        "POBOXZIP3": 0, 
+        "LON": -80.38709, 
+        "ZIPCODE": 33283, 
+        "PHONE": "(305) 596-5485", 
+        "POBOXZIP": 0, 
+        "POINT_X": 858002.288263086, 
+        "POINT_Y": 493869.681593925, 
+        "ADDRESS": "8266 MILLS DR", 
+        "LAT": 25.69105, 
+        "POID": "PO13", 
+        "UNIT": "9-10"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.31925344119698, 
+          25.79669000483246
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI", 
+        "NAME": "CFS", 
+        "POBOXZIP2": 0, 
+        "POBOXZIP3": 0, 
+        "LON": -80.31925, 
+        "ZIPCODE": 33122, 
+        "PHONE": "(800) 275-8777", 
+        "POBOXZIP": 0, 
+        "POINT_X": 880144.781051505, 
+        "POINT_Y": 532376.487782262, 
+        "ADDRESS": "7500 NW 25TH ST", 
+        "LAT": 25.79669, 
+        "POID": "PO14", 
+        "UNIT": null
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.13252840768445, 
+          25.78454801225864
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI BEACH", 
+        "NAME": "MIAMI BEACH", 
+        "POBOXZIP2": 0, 
+        "POBOXZIP3": 0, 
+        "LON": -80.13253, 
+        "ZIPCODE": 33119, 
+        "PHONE": "(305) 672-2447", 
+        "POBOXZIP": 0, 
+        "POINT_X": 941612.4392839221, 
+        "POINT_Y": 528324.480794422, 
+        "ADDRESS": "1300 WASHINGTON AVE", 
+        "LAT": 25.78455, 
+        "POID": "PO15", 
+        "UNIT": null
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.12845970775936, 
+          25.813137413224453
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI BEACH", 
+        "NAME": "OCEANVIEW", 
+        "POBOXZIP2": 0, 
+        "POBOXZIP3": 0, 
+        "LON": -80.12846, 
+        "ZIPCODE": 33140, 
+        "PHONE": "(305) 538-2708", 
+        "POBOXZIP": 0, 
+        "POINT_X": 942882.531231921, 
+        "POINT_Y": 538724.760518759, 
+        "ADDRESS": "445 W 40TH ST", 
+        "LAT": 25.81314, 
+        "POID": "PO16", 
+        "UNIT": null
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.30525640886881, 
+          25.866139300592934
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "HIALEAH", 
+        "NAME": "PALM VILLAGE PS", 
+        "POBOXZIP2": 0, 
+        "POBOXZIP3": 0, 
+        "LON": -80.30526, 
+        "ZIPCODE": 33012, 
+        "PHONE": "(305) 825-8716", 
+        "POBOXZIP": 0, 
+        "POINT_X": 884616.829522088, 
+        "POINT_Y": 557642.85063526, 
+        "ADDRESS": "1050 W 49TH ST", 
+        "LAT": 25.86614, 
+        "POID": "PO17", 
+        "UNIT": null
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.31467159933084, 
+          25.79428502654614
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI", 
+        "NAME": "MIAMI P&DC (VMF)", 
+        "POBOXZIP2": 33222, 
+        "POBOXZIP3": 33247, 
+        "LON": -80.31467, 
+        "ZIPCODE": 33152, 
+        "PHONE": "(305) 470-0691", 
+        "POBOXZIP": 33102, 
+        "POINT_X": 881656.885966919, 
+        "POINT_Y": 531510.191942677, 
+        "ADDRESS": "2200 NW 72ND AVE", 
+        "LAT": 25.79429, 
+        "POID": "PO18", 
+        "UNIT": null
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.38463119070651, 
+          25.795545758724984
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI", 
+        "NAME": "INT'L SVC CTR", 
+        "POBOXZIP2": 0, 
+        "POBOXZIP3": 0, 
+        "LON": -80.38463, 
+        "ZIPCODE": 33112, 
+        "PHONE": "(800) 275-8777", 
+        "POBOXZIP": 0, 
+        "POINT_X": 858635.700054005, 
+        "POINT_Y": 531854.715859927, 
+        "ADDRESS": "11698 NW 25TH ST", 
+        "LAT": 25.79555, 
+        "POID": "PO19", 
+        "UNIT": null
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.27865427895874, 
+          25.795139619958842
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI", 
+        "NAME": "MIAMI INT'L AIRPORT TERMINAL", 
+        "POBOXZIP2": 0, 
+        "POBOXZIP3": 0, 
+        "LON": -80.27865, 
+        "ZIPCODE": 33122, 
+        "PHONE": "(800) 275-8777", 
+        "POBOXZIP": 0, 
+        "POINT_X": 893506.16738642, 
+        "POINT_Y": 531884.11179851, 
+        "ADDRESS": "MIAMI INTERNATIONAL AIRPRT", 
+        "LAT": 25.79514, 
+        "POID": "PO20", 
+        "UNIT": null
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.16149756697043, 
+          25.685865680325776
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "KEY BISCAYNE", 
+        "NAME": "KEY BISCAYNE", 
+        "POBOXZIP2": 0, 
+        "POBOXZIP3": 0, 
+        "LON": -80.1615, 
+        "ZIPCODE": 33149, 
+        "PHONE": "(305) 361-7884", 
+        "POBOXZIP": 0, 
+        "POINT_X": 932307.501857087, 
+        "POINT_Y": 492394.999503925, 
+        "ADDRESS": "951 CRANDON BLVD", 
+        "LAT": 25.68587, 
+        "POID": "PO21", 
+        "UNIT": null
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.20977148461876, 
+          25.831988737366196
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI", 
+        "NAME": "EDISON CENTER FU", 
+        "POBOXZIP2": 0, 
+        "POBOXZIP3": 0, 
+        "LON": -80.20977, 
+        "ZIPCODE": 33151, 
+        "PHONE": "(800) 275-8777", 
+        "POBOXZIP": 0, 
+        "POINT_X": 916090.624842089, 
+        "POINT_Y": 545407.687113509, 
+        "ADDRESS": "760 NW 62ND ST", 
+        "LAT": 25.83199, 
+        "POID": "PO22", 
+        "UNIT": null
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.25073132060466, 
+          25.73475219278487
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI", 
+        "NAME": "HIBISCUS CAR ANX", 
+        "POBOXZIP2": 0, 
+        "POBOXZIP3": 0, 
+        "LON": -80.25073, 
+        "ZIPCODE": 33146, 
+        "PHONE": "(305) 529-4538", 
+        "POBOXZIP": 0, 
+        "POINT_X": 902818.562803589, 
+        "POINT_Y": 509986.812745422, 
+        "ADDRESS": "3500 S DIXIE HWY", 
+        "LAT": 25.73475, 
+        "POID": "PO23", 
+        "UNIT": null
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.38269801116812, 
+          25.73420466568559
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI", 
+        "NAME": "OLYMPIA HGTS", 
+        "POBOXZIP2": 0, 
+        "POBOXZIP3": 0, 
+        "LON": -80.3827, 
+        "ZIPCODE": 33175, 
+        "PHONE": "(305) 225-6749", 
+        "POBOXZIP": 33265, 
+        "POINT_X": 859376.187090088, 
+        "POINT_Y": 509562.84410517704, 
+        "ADDRESS": "3801 SW 117TH AVE", 
+        "LAT": 25.7342, 
+        "POID": "PO24", 
+        "UNIT": null
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.35981698556984, 
+          25.595207220030353
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI", 
+        "NAME": "QUAIL HEIGHTS", 
+        "POBOXZIP2": 0, 
+        "POBOXZIP3": 0, 
+        "LON": -80.35982, 
+        "ZIPCODE": 33197, 
+        "PHONE": "(305) 258-9462", 
+        "POBOXZIP": 0, 
+        "POINT_X": 867153.062612422, 
+        "POINT_Y": 459079.687853843, 
+        "ADDRESS": "10360 SW 186TH ST", 
+        "LAT": 25.59521, 
+        "POID": "PO25", 
+        "UNIT": null
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.37372464332171, 
+          25.67131622168537
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI", 
+        "NAME": "SNAPPER CREEK", 
+        "POBOXZIP2": 0, 
+        "POBOXZIP3": 0, 
+        "LON": -80.37372, 
+        "ZIPCODE": 33116, 
+        "PHONE": "(305) 270-0335", 
+        "POBOXZIP": 0, 
+        "POINT_X": 862438.5625270051, 
+        "POINT_Y": 486719.687363759, 
+        "ADDRESS": "11000 SW 104TH ST", 
+        "LAT": 25.67132, 
+        "POID": "PO26", 
+        "UNIT": null
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.3813928361563, 
+          25.69799817045717
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI", 
+        "NAME": "SUNSET", 
+        "POBOXZIP2": 0, 
+        "POBOXZIP3": 0, 
+        "LON": -80.38139, 
+        "ZIPCODE": 33183, 
+        "PHONE": "(305) 270-2091", 
+        "POBOXZIP": 33283, 
+        "POINT_X": 859867.500083838, 
+        "POINT_Y": 496405.437349178, 
+        "ADDRESS": "7501 SW 117 AVE", 
+        "LAT": 25.698, 
+        "POID": "PO27", 
+        "UNIT": null
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.31444145222703, 
+          25.898178822871262
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "HIALEAH", 
+        "NAME": "HIALEAH LAKES", 
+        "POBOXZIP2": 0, 
+        "POBOXZIP3": 0, 
+        "LON": -80.31444, 
+        "ZIPCODE": 33018, 
+        "PHONE": "(305) 827-0768", 
+        "POBOXZIP": 33002, 
+        "POINT_X": 881535.625054587, 
+        "POINT_Y": 569272.250276677, 
+        "ADDRESS": "1500 W 84TH ST", 
+        "LAT": 25.89818, 
+        "POID": "PO28", 
+        "UNIT": null
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.26209456723338, 
+          25.943487542595893
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "CAROL CITY", 
+        "NAME": "CAROL CITY", 
+        "POBOXZIP2": 0, 
+        "POBOXZIP3": 0, 
+        "LON": -80.26209, 
+        "ZIPCODE": 33056, 
+        "PHONE": "(305) 620-2519", 
+        "POBOXZIP": 33055, 
+        "POINT_X": 898651.874942753, 
+        "POINT_Y": 585834.000289589, 
+        "ADDRESS": "18690 NW 37TH AVE", 
+        "LAT": 25.94349, 
+        "POID": "PO29", 
+        "UNIT": null
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.19472332668028, 
+          25.851945588870347
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI", 
+        "NAME": "LITTLE RIVER", 
+        "POBOXZIP2": 0, 
+        "POBOXZIP3": 0, 
+        "LON": -80.19472, 
+        "ZIPCODE": 33138, 
+        "PHONE": "(305) 754-1329", 
+        "POBOXZIP": 33238, 
+        "POINT_X": 920996.0628658381, 
+        "POINT_Y": 552691.4373097571, 
+        "ADDRESS": "140 NE 84TH ST", 
+        "LAT": 25.85195, 
+        "POID": "PO30", 
+        "UNIT": null
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.14835230915223, 
+          25.950473251132248
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "NORTH MIAMI", 
+        "NAME": "OJUS FU", 
+        "POBOXZIP2": 0, 
+        "POBOXZIP3": 0, 
+        "LON": -80.14835, 
+        "ZIPCODE": 33180, 
+        "PHONE": "(305) 947-6454", 
+        "POBOXZIP": 33163, 
+        "POINT_X": 936014.12469317, 
+        "POINT_Y": 588600.000335008, 
+        "ADDRESS": "18901 W DIXIE HWY", 
+        "LAT": 25.95047, 
+        "POID": "PO31", 
+        "UNIT": null
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.20610488142172, 
+          25.945535014037574
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI", 
+        "NAME": "NORLAND", 
+        "POBOXZIP2": 0, 
+        "POBOXZIP3": 0, 
+        "LON": -80.2061, 
+        "ZIPCODE": 33169, 
+        "PHONE": "(305) 652-2818", 
+        "POBOXZIP": 33269, 
+        "POINT_X": 917046.999897838, 
+        "POINT_Y": 586685.812562339, 
+        "ADDRESS": "18640 NW 2ND AVE", 
+        "LAT": 25.94554, 
+        "POID": "PO32", 
+        "UNIT": null
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.15643790803867, 
+          25.908324415944037
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "NORTH MIAMI", 
+        "NAME": "NORTH MIAMI", 
+        "POBOXZIP2": 0, 
+        "POBOXZIP3": 0, 
+        "LON": -80.15644, 
+        "ZIPCODE": 33181, 
+        "PHONE": "(305) 354-4612", 
+        "POBOXZIP": 33124, 
+        "POINT_X": 933455.74988867, 
+        "POINT_Y": 573262.6871776731, 
+        "ADDRESS": "14311 BISCAYNE BLVD", 
+        "LAT": 25.90832, 
+        "POID": "PO33", 
+        "UNIT": null
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.1910464677647, 
+          25.928948833980083
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "NORTH MIAMI", 
+        "NAME": "ULETA FU", 
+        "POBOXZIP2": 0, 
+        "POBOXZIP3": 0, 
+        "LON": -80.19105, 
+        "ZIPCODE": 33162, 
+        "PHONE": "(800) 275-8777", 
+        "POBOXZIP": 33164, 
+        "POINT_X": 922032.750425004, 
+        "POINT_Y": 580687.4377480891, 
+        "ADDRESS": "16750 NE 4TH PL", 
+        "LAT": 25.92895, 
+        "POID": "PO34", 
+        "UNIT": null
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.25989811669933, 
+          25.748066356783305
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "CORAL GABLES", 
+        "NAME": "CORAL GABLES", 
+        "POBOXZIP2": 33234, 
+        "POBOXZIP3": 0, 
+        "LON": -80.2599, 
+        "ZIPCODE": 33134, 
+        "PHONE": "(305) 443-2532", 
+        "POBOXZIP": 33114, 
+        "POINT_X": 899773.687659755, 
+        "POINT_Y": 514808.96911159204, 
+        "ADDRESS": "251 VALENCIA AVE", 
+        "LAT": 25.74807, 
+        "POID": "PO35", 
+        "UNIT": null
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.19070914104368, 
+          25.763224496640845
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI", 
+        "NAME": "BRICKELL PS", 
+        "POBOXZIP2": 0, 
+        "POBOXZIP3": 0, 
+        "LON": -80.19071, 
+        "ZIPCODE": 33131, 
+        "PHONE": "(305) 377-9124", 
+        "POBOXZIP": 33231, 
+        "POINT_X": 922514.562781587, 
+        "POINT_Y": 520452.218651839, 
+        "ADDRESS": "1101 BRICKELL AVE", 
+        "LAT": 25.76322, 
+        "POID": "PO36", 
+        "UNIT": null
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.18812827100125, 
+          25.77223846073699
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI", 
+        "NAME": "METRO PS", 
+        "POBOXZIP2": 33111, 
+        "POBOXZIP3": 0, 
+        "LON": -80.18813, 
+        "ZIPCODE": 33131, 
+        "PHONE": "(305) 374-0319", 
+        "POBOXZIP": 33231, 
+        "POINT_X": 923343.8124354221, 
+        "POINT_Y": 523733.71897859103, 
+        "ADDRESS": "200 S BISCAYNE BLVD", 
+        "LAT": 25.77224, 
+        "POID": "PO37", 
+        "UNIT": "# 600-A"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.24203179767969, 
+          25.77597645220293
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI", 
+        "NAME": "JOSE MARTI", 
+        "POBOXZIP2": 0, 
+        "POBOXZIP3": 0, 
+        "LON": -80.24203, 
+        "ZIPCODE": 33125, 
+        "PHONE": "(305) 541-2478", 
+        "POBOXZIP": 0, 
+        "POINT_X": 905596.32824542, 
+        "POINT_Y": 524986.672837511, 
+        "ADDRESS": "425 NW 27TH AVE", 
+        "LAT": 25.77598, 
+        "POID": "PO38", 
+        "UNIT": null
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.23262808911025, 
+          25.77283947259099
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI", 
+        "NAME": "SHENANDOAH ANX", 
+        "POBOXZIP2": 0, 
+        "POBOXZIP3": 0, 
+        "LON": -80.23263, 
+        "ZIPCODE": 33135, 
+        "PHONE": "(305) 819-9860", 
+        "POBOXZIP": 0, 
+        "POINT_X": 908697.625192419, 
+        "POINT_Y": 523864.40572509205, 
+        "ADDRESS": "2285 W FLAGLER ST", 
+        "LAT": 25.77284, 
+        "POID": "PO39", 
+        "UNIT": null
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.2243144108942, 
+          25.75052069692299
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI", 
+        "NAME": "SHENANDOAH FU", 
+        "POBOXZIP2": 0, 
+        "POBOXZIP3": 0, 
+        "LON": -80.22431, 
+        "ZIPCODE": 33145, 
+        "PHONE": "(305) 862-8215", 
+        "POBOXZIP": 33245, 
+        "POINT_X": 911481.375530422, 
+        "POINT_Y": 515768.34350517404, 
+        "ADDRESS": "1800 SW 22ND ST", 
+        "LAT": 25.75052, 
+        "POID": "PO40", 
+        "UNIT": null
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.2900136628486, 
+          25.70659516023889
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI", 
+        "NAME": "SOUTH MIAMI", 
+        "POBOXZIP2": 0, 
+        "POBOXZIP3": 0, 
+        "LON": -80.29001, 
+        "ZIPCODE": 33143, 
+        "PHONE": "(305) 661-0664", 
+        "POBOXZIP": 33243, 
+        "POINT_X": 889941.812966589, 
+        "POINT_Y": 499681.375023007, 
+        "ADDRESS": "5927 SW 70TH ST", 
+        "LAT": 25.7066, 
+        "POID": "PO41", 
+        "UNIT": null
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.22533996273991, 
+          25.802397960531245
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI", 
+        "NAME": "ALLAPATTAH", 
+        "POBOXZIP2": 0, 
+        "POBOXZIP3": 0, 
+        "LON": -80.22534, 
+        "ZIPCODE": 33142, 
+        "PHONE": "(305) 637-4787", 
+        "POBOXZIP": 33242, 
+        "POINT_X": 911032.9371228371, 
+        "POINT_Y": 534621.9370315081, 
+        "ADDRESS": "1799 NW 28TH ST", 
+        "LAT": 25.8024, 
+        "POID": "PO42", 
+        "UNIT": null
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.31930607321482, 
+          25.795206978192326
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI", 
+        "NAME": "WEST CARRIER ANNEX", 
+        "POBOXZIP2": 0, 
+        "POBOXZIP3": 0, 
+        "LON": -80.31931, 
+        "ZIPCODE": 33122, 
+        "PHONE": "(800) 275-8777", 
+        "POBOXZIP": 0, 
+        "POINT_X": 880130.250568755, 
+        "POINT_Y": 531837.375343427, 
+        "ADDRESS": "7500 NW 25TH ST", 
+        "LAT": 25.79521, 
+        "POID": "PO43", 
+        "UNIT": "# 11"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.30633527256225, 
+          25.76330159202404
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI", 
+        "NAME": "TAMIAMI FU", 
+        "POBOXZIP2": 0, 
+        "POBOXZIP3": 0, 
+        "LON": -80.30634, 
+        "ZIPCODE": 33144, 
+        "PHONE": "(800) 275-8777", 
+        "POBOXZIP": 33126, 
+        "POINT_X": 884459.125441171, 
+        "POINT_Y": 520263.281365678, 
+        "ADDRESS": "6801 SW 8TH ST", 
+        "LAT": 25.7633, 
+        "POID": "PO44", 
+        "UNIT": null
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.29913924128422, 
+          25.776875958546597
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI", 
+        "NAME": "BLUE LAGOON", 
+        "POBOXZIP2": 0, 
+        "POBOXZIP3": 0, 
+        "LON": -80.29914, 
+        "ZIPCODE": 33126, 
+        "PHONE": "(800) 275-8777", 
+        "POBOXZIP": 0, 
+        "POINT_X": 886801.250022005, 
+        "POINT_Y": 525209.563139759, 
+        "ADDRESS": "6200 NW 7TH ST", 
+        "LAT": 25.77688, 
+        "POID": "PO45", 
+        "UNIT": null
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.41211115428176, 
+          25.624578548934313
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI", 
+        "NAME": "COUNTRY LAKES", 
+        "POBOXZIP2": 0, 
+        "POBOXZIP3": 0, 
+        "LON": -80.41211, 
+        "ZIPCODE": 33177, 
+        "PHONE": "(305) 971-2427", 
+        "POBOXZIP": 0, 
+        "POINT_X": 849870.624408338, 
+        "POINT_Y": 469674.84382884204, 
+        "ADDRESS": "13520 SW 152ND ST", 
+        "LAT": 25.62458, 
+        "POID": "PO46", 
+        "UNIT": null
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.33099577671916, 
+          25.648602527176223
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI", 
+        "NAME": "KENDALL", 
+        "POBOXZIP2": 0, 
+        "POBOXZIP3": 0, 
+        "LON": -80.331, 
+        "ZIPCODE": 33156, 
+        "PHONE": "(305) 252-9870", 
+        "POBOXZIP": 33256, 
+        "POINT_X": 876554.000175338, 
+        "POINT_Y": 478533.21915667504, 
+        "ADDRESS": "13101 S DIXIE HWY", 
+        "LAT": 25.6486, 
+        "POID": "PO47", 
+        "UNIT": null
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.41334270281989, 
+          25.649781727571984
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI", 
+        "NAME": "SNAPPER WEST ANX", 
+        "POBOXZIP2": 0, 
+        "POBOXZIP3": 0, 
+        "LON": -80.41334, 
+        "ZIPCODE": 33186, 
+        "PHONE": "(800) 275-8777", 
+        "POBOXZIP": 0, 
+        "POINT_X": 849424.24964492, 
+        "POINT_Y": 478833.125381008, 
+        "ADDRESS": "13450 SW 126TH ST", 
+        "LAT": 25.64978, 
+        "POID": "PO48", 
+        "UNIT": null
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.43470535297065, 
+          25.684127402872996
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI", 
+        "NAME": "WEST DADE FU", 
+        "POBOXZIP2": 0, 
+        "POBOXZIP3": 0, 
+        "LON": -80.43471, 
+        "ZIPCODE": 33196, 
+        "PHONE": "(305) 385-1029", 
+        "POBOXZIP": 33296, 
+        "POINT_X": 842333.437711086, 
+        "POINT_Y": 491285.437418595, 
+        "ADDRESS": "14790 SW 88TH ST", 
+        "LAT": 25.68413, 
+        "POID": "PO49", 
+        "UNIT": null
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.33565607249697, 
+          25.822092180174938
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI", 
+        "NAME": "SOUTH FLORIDA DORAL CENTER", 
+        "POBOXZIP2": 0, 
+        "POBOXZIP3": 0, 
+        "LON": -80.33566, 
+        "ZIPCODE": 33166, 
+        "PHONE": "(305) 470-8555", 
+        "POBOXZIP": 0, 
+        "POINT_X": 874701.25027192, 
+        "POINT_Y": 541581.625211842, 
+        "ADDRESS": "8525 NW 53RD TER", 
+        "LAT": 25.82209, 
+        "POID": "PO50", 
+        "UNIT": "#101"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.14212137034251, 
+          25.79090635733578
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI BEACH", 
+        "NAME": "CARL FISHER FU", 
+        "POBOXZIP2": 0, 
+        "POBOXZIP3": 0, 
+        "LON": -80.14212, 
+        "ZIPCODE": 33139, 
+        "PHONE": "(305) 672-5618", 
+        "POBOXZIP": 33239, 
+        "POINT_X": 938440.624761421, 
+        "POINT_Y": 530614.874835677, 
+        "ADDRESS": "1661 W AVE", 
+        "LAT": 25.79091, 
+        "POID": "PO51", 
+        "UNIT": null
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.12291585402079, 
+          25.88495036577442
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI BEACH", 
+        "NAME": "SURFSIDE", 
+        "POBOXZIP2": 0, 
+        "POBOXZIP3": 0, 
+        "LON": -80.12292, 
+        "ZIPCODE": 33154, 
+        "PHONE": "(305) 867-9637", 
+        "POBOXZIP": 0, 
+        "POINT_X": 944532.187053338, 
+        "POINT_Y": 564839.062292673, 
+        "ADDRESS": "250 95 ST", 
+        "LAT": 25.88495, 
+        "POID": "PO52", 
+        "UNIT": null
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.27900197313494, 
+          25.824867154855202
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "HIALEAH", 
+        "NAME": "HIALEAH MO", 
+        "POBOXZIP2": 0, 
+        "POBOXZIP3": 0, 
+        "LON": -80.279, 
+        "ZIPCODE": 33010, 
+        "PHONE": "(800) 275-8777", 
+        "POBOXZIP": 33011, 
+        "POINT_X": 893332.562746752, 
+        "POINT_Y": 542688.374638759, 
+        "ADDRESS": "325 E 1ST AVE", 
+        "LAT": 25.82487, 
+        "POID": "PO53", 
+        "UNIT": null
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.29822278705183, 
+          25.940560399102946
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI GARDENS", 
+        "NAME": "MIAMI GARDENS", 
+        "POBOXZIP2": 0, 
+        "POBOXZIP3": 0, 
+        "LON": -80.29822, 
+        "ZIPCODE": 33015, 
+        "PHONE": "(305) 621-4721", 
+        "POBOXZIP": 33017, 
+        "POINT_X": 886785.000054505, 
+        "POINT_Y": 584704.812915422, 
+        "ADDRESS": "6193 NW 183RD ST", 
+        "LAT": 25.94056, 
+        "POID": "PO54", 
+        "UNIT": null
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.28765454972276, 
+          25.91841376735962
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "HIALEAH", 
+        "NAME": "PALMETTO LAKES", 
+        "POBOXZIP2": 0, 
+        "POBOXZIP3": 0, 
+        "LON": -80.28765, 
+        "ZIPCODE": 33014, 
+        "PHONE": "(305) 625-8851", 
+        "POBOXZIP": 0, 
+        "POINT_X": 890301.81257467, 
+        "POINT_Y": 576673.937244922, 
+        "ADDRESS": "5375 NW 159TH ST", 
+        "LAT": 25.91841, 
+        "POID": "PO55", 
+        "UNIT": null
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.47580576921688, 
+          25.47685219782868
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "HOMESTEAD", 
+        "NAME": "HOMESTEAD MO", 
+        "POBOXZIP2": 0, 
+        "POBOXZIP3": 0, 
+        "LON": -80.47581, 
+        "ZIPCODE": 33030, 
+        "PHONE": "(305) 247-1556", 
+        "POBOXZIP": 33090, 
+        "POINT_X": 829095.311956421, 
+        "POINT_Y": 415896.687277757, 
+        "ADDRESS": "739 WASHINGTON AVE", 
+        "LAT": 25.47685, 
+        "POID": "PO56", 
+        "UNIT": null
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.49410497234507, 
+          25.44851816504172
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "FLORIDA CITY", 
+        "NAME": "FL CITY BR", 
+        "POBOXZIP2": 0, 
+        "POBOXZIP3": 0, 
+        "LON": -80.4941, 
+        "ZIPCODE": 33034, 
+        "PHONE": "(800) 275-8777", 
+        "POBOXZIP": 0, 
+        "POINT_X": 823097.500461254, 
+        "POINT_Y": 405575.686922424, 
+        "ADDRESS": "1000 W PALM DR", 
+        "LAT": 25.44852, 
+        "POID": "PO57", 
+        "UNIT": null
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.25278968981335, 
+          25.900899635732138
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "OPA LOCKA", 
+        "NAME": "OPA LOCKA MO", 
+        "POBOXZIP2": 0, 
+        "POBOXZIP3": 0, 
+        "LON": -80.25279, 
+        "ZIPCODE": 33054, 
+        "PHONE": "(305) 681-8562", 
+        "POBOXZIP": 0, 
+        "POINT_X": 901797.937876336, 
+        "POINT_Y": 570371.87438976, 
+        "ADDRESS": "550 FISHERMAN ST", 
+        "LAT": 25.9009, 
+        "POID": "PO58", 
+        "UNIT": null
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.31876993656148, 
+          25.803365061318868
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI", 
+        "NAME": "MIAMI P&DC ANNEX", 
+        "POBOXZIP2": 0, 
+        "POBOXZIP3": 0, 
+        "LON": -80.31877, 
+        "ZIPCODE": 33122, 
+        "PHONE": "(305) 470-0691", 
+        "POBOXZIP": 0, 
+        "POINT_X": 880291.312254503, 
+        "POINT_Y": 534803.437324673, 
+        "ADDRESS": "2200 NW 72ND AVE", 
+        "LAT": 25.80337, 
+        "POID": "PO59", 
+        "UNIT": null
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.1940107192267, 
+          25.812551909682828
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI", 
+        "NAME": "BUENA VISTA", 
+        "POBOXZIP2": 0, 
+        "POBOXZIP3": 0, 
+        "LON": -80.19401, 
+        "ZIPCODE": 33137, 
+        "PHONE": "(305) 573-6056", 
+        "POBOXZIP": 0, 
+        "POINT_X": 921318.1980483381, 
+        "POINT_Y": 538374.468896508, 
+        "ADDRESS": "66 NE 39TH ST", 
+        "LAT": 25.81255, 
+        "POID": "PO60", 
+        "UNIT": null
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.35327562437557, 
+          25.79105252635868
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI", 
+        "NAME": "L&DC", 
+        "POBOXZIP2": 0, 
+        "POBOXZIP3": 0, 
+        "LON": -80.35328, 
+        "ZIPCODE": 33172, 
+        "PHONE": "(800) 275-8777", 
+        "POBOXZIP": 0, 
+        "POINT_X": 868960.617068172, 
+        "POINT_Y": 530271.0556414281, 
+        "ADDRESS": "1904 NW 97TH AVE", 
+        "LAT": 25.79105, 
+        "POID": "PO61", 
+        "UNIT": null
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.30960870429257, 
+          25.76313615886448
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI", 
+        "NAME": "TAMIAMI ANX", 
+        "POBOXZIP2": 0, 
+        "POBOXZIP3": 0, 
+        "LON": -80.30961, 
+        "ZIPCODE": 33144, 
+        "PHONE": "(800) 275-8777", 
+        "POBOXZIP": 0, 
+        "POINT_X": 883382.086256672, 
+        "POINT_Y": 520197.496720344, 
+        "ADDRESS": "7077 SW 8TH ST", 
+        "LAT": 25.76314, 
+        "POID": "PO62", 
+        "UNIT": null
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.3141535640466, 
+          25.824897004877986
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI", 
+        "NAME": "MILAM DAIRY", 
+        "POBOXZIP2": 0, 
+        "POBOXZIP3": 0, 
+        "LON": -80.31415, 
+        "ZIPCODE": 33166, 
+        "PHONE": "(305) 885-6758", 
+        "POBOXZIP": 0, 
+        "POINT_X": 881769.348668505, 
+        "POINT_Y": 542637.379333928, 
+        "ADDRESS": "5600 NW 72ND AVE", 
+        "LAT": 25.8249, 
+        "POID": "PO63", 
+        "UNIT": null
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.24168609509849, 
+          25.835783286704167
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI", 
+        "NAME": "MARTIN L. KING", 
+        "POBOXZIP2": 0, 
+        "POBOXZIP3": 0, 
+        "LON": -80.24169, 
+        "ZIPCODE": 33147, 
+        "PHONE": "(305) 836-5592", 
+        "POBOXZIP": 0, 
+        "POINT_X": 905584.844672587, 
+        "POINT_Y": 546725.062431507, 
+        "ADDRESS": "6700 NW 27TH AVE", 
+        "LAT": 25.83578, 
+        "POID": "PO64", 
+        "UNIT": null
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.3067716369346, 
+          25.732919317771433
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI", 
+        "NAME": "LUDLAM", 
+        "POBOXZIP2": 0, 
+        "POBOXZIP3": 0, 
+        "LON": -80.30677, 
+        "ZIPCODE": 33155, 
+        "PHONE": "(305) 669-3806", 
+        "POBOXZIP": 33255, 
+        "POINT_X": 884373.55277767, 
+        "POINT_Y": 509219.79590676, 
+        "ADDRESS": "6900 SW 40TH ST", 
+        "LAT": 25.73292, 
+        "POID": "PO65", 
+        "UNIT": null
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.35380737642018, 
+          25.79025791484841
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI", 
+        "NAME": "DORAL", 
+        "POBOXZIP2": 0, 
+        "POBOXZIP3": 0, 
+        "LON": -80.35381, 
+        "ZIPCODE": 33172, 
+        "PHONE": "(305) 418-2053", 
+        "POBOXZIP": 0, 
+        "POINT_X": 868787.0655780031, 
+        "POINT_Y": 529981.387585595, 
+        "ADDRESS": "1700 NW 97TH AVE", 
+        "LAT": 25.79026, 
+        "POID": "PO66", 
+        "UNIT": null
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.42853974830994, 
+          25.760067747950654
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI", 
+        "NAME": "FR FELIX VARELA", 
+        "POBOXZIP2": 0, 
+        "POBOXZIP3": 0, 
+        "LON": -80.42854, 
+        "ZIPCODE": 33184, 
+        "PHONE": "(305) 221-1819", 
+        "POBOXZIP": 33194, 
+        "POINT_X": 844244.499505755, 
+        "POINT_Y": 518894.91369558906, 
+        "ADDRESS": "14310 SW 8TH ST", 
+        "LAT": 25.76007, 
+        "POID": "PO67", 
+        "UNIT": null
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.2552749319812, 
+          25.74956840522558
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "CORAL GABLES", 
+        "NAME": "MIRACLE MILE PS", 
+        "POBOXZIP2": 0, 
+        "POBOXZIP3": 0, 
+        "LON": -80.25527, 
+        "ZIPCODE": 33134, 
+        "PHONE": "(305) 443-2532", 
+        "POBOXZIP": 0, 
+        "POINT_X": 901292.395252254, 
+        "POINT_Y": 515363.47358001, 
+        "ADDRESS": "20 MIRACLE MILE", 
+        "LAT": 25.74957, 
+        "POID": "PO68", 
+        "UNIT": null
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.24517025694507, 
+          25.728187276582346
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "COCONUT GROVE", 
+        "NAME": "COCONUT GROVE", 
+        "POBOXZIP2": 0, 
+        "POBOXZIP3": 0, 
+        "LON": -80.24517, 
+        "ZIPCODE": 33133, 
+        "PHONE": "(305) 529-6700", 
+        "POBOXZIP": 33233, 
+        "POINT_X": 904662.9249285051, 
+        "POINT_Y": 507611.15017392504, 
+        "ADDRESS": "3191 GRAND AVE", 
+        "LAT": 25.72819, 
+        "POID": "PO69", 
+        "UNIT": null
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.1223955699325, 
+          25.9426425980785
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "NORTH MIAMI", 
+        "NAME": "SUNNY ISLES FU", 
+        "POBOXZIP2": 0, 
+        "POBOXZIP3": 0, 
+        "LON": -80.1224, 
+        "ZIPCODE": 33160, 
+        "PHONE": "(305) 931-8412", 
+        "POBOXZIP": 0, 
+        "POINT_X": 944562.8730155859, 
+        "POINT_Y": 585810.049878173, 
+        "ADDRESS": "18070 COLLINS AVE", 
+        "LAT": 25.94264, 
+        "POID": "PO70", 
+        "UNIT": "# 250"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.21432643759486, 
+          25.88397051614586
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI", 
+        "NAME": "GRATIGNY", 
+        "POBOXZIP2": 0, 
+        "POBOXZIP3": 0, 
+        "LON": -80.21433, 
+        "ZIPCODE": 33168, 
+        "PHONE": "(305) 687-2484", 
+        "POBOXZIP": 33261, 
+        "POINT_X": 914479.335085671, 
+        "POINT_Y": 564292.512532756, 
+        "ADDRESS": "995 NW 119TH ST", 
+        "LAT": 25.88397, 
+        "POID": "PO71", 
+        "UNIT": null
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.13023041868826, 
+          25.968490844179613
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "AVENTURA", 
+        "NAME": "AVENTURA FU", 
+        "POBOXZIP2": 0, 
+        "POBOXZIP3": 0, 
+        "LON": -80.13023, 
+        "ZIPCODE": 33180, 
+        "PHONE": "(305) 931-7682", 
+        "POBOXZIP": 0, 
+        "POINT_X": 941925.65322442, 
+        "POINT_Y": 595188.176135011, 
+        "ADDRESS": "3585 NE 207TH ST", 
+        "LAT": 25.96849, 
+        "POID": "PO72", 
+        "UNIT": "#C9"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.3676254626777, 
+          25.78758431432279
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI", 
+        "NAME": "AVE OF THE AMERICAS PS", 
+        "POBOXZIP2": 0, 
+        "POBOXZIP3": 0, 
+        "LON": -80.36763, 
+        "ZIPCODE": 33172, 
+        "PHONE": "(800) 275-8777", 
+        "POBOXZIP": 0, 
+        "POINT_X": 864244.972300004, 
+        "POINT_Y": 528987.5710036751, 
+        "ADDRESS": "1455 NW 107TH AVE", 
+        "LAT": 25.78758, 
+        "POID": "PO73", 
+        "UNIT": "#106"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.41117878187055, 
+          25.534293837848576
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "HOMESTEAD", 
+        "NAME": "PRINCETON", 
+        "POBOXZIP2": 33092, 
+        "POBOXZIP3": 0, 
+        "LON": -80.41118, 
+        "ZIPCODE": 33032, 
+        "PHONE": "(305) 971-4349", 
+        "POBOXZIP": 33039, 
+        "POINT_X": 850323.4440407531, 
+        "POINT_Y": 436862.53084467404, 
+        "ADDRESS": "13500 SW 250TH ST", 
+        "LAT": 25.53429, 
+        "POID": "PO74", 
+        "UNIT": null
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.30147294825035, 
+          25.770251583813863
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": null, 
+        "NAME": "CPU - EL ESPANOL TRAVEL", 
+        "POBOXZIP2": 0, 
+        "POBOXZIP3": 0, 
+        "LON": -80.30147, 
+        "ZIPCODE": 33144, 
+        "PHONE": "(305) 265-4828", 
+        "POBOXZIP": 33126, 
+        "POINT_X": 886046.0294195861, 
+        "POINT_Y": 522797.78187409, 
+        "ADDRESS": "6464 W FLAGLER ST", 
+        "LAT": 25.77025, 
+        "POID": "PO75", 
+        "UNIT": null
+      }
+    }
+  ]
+}

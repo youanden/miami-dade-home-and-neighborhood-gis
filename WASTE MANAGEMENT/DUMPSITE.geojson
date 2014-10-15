@@ -1,0 +1,530 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.18790441660653, 
+          25.94794837515506
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "UNINCORPORATED MIAMI-DADE", 
+        "FOLIO": "3022060000121", 
+        "NAME": "NORTHEAST REGIONAL TRANSFER STATION", 
+        "LON": -80.1879, 
+        "ID2": "30", 
+        "ZIPCODE": 33179, 
+        "POINT_X": 923022.5, 
+        "CNTYOWN": null, 
+        "ADDRESS": "18701 NE 6TH AVE", 
+        "LAT": 25.94795, 
+        "TYPE": 2, 
+        "ID": 30, 
+        "POINT_Y": 587599.4375
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.21186820180172, 
+          25.958383585311214
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI GARDENS", 
+        "FOLIO": "3411360000080", 
+        "NAME": "NORWOOD", 
+        "LON": -80.21187, 
+        "ID2": "3", 
+        "ZIPCODE": 33169, 
+        "POINT_X": 915123.75, 
+        "CNTYOWN": "Y", 
+        "ADDRESS": "19901 NW 7TH AVE", 
+        "LAT": 25.95838, 
+        "TYPE": 1, 
+        "ID": 2, 
+        "POINT_Y": 591344.375
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.27934258886607, 
+          25.968513428504952
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "UNINCORPORATED MIAMI-DADE", 
+        "FOLIO": "3011310010010", 
+        "NAME": "NORTH DADE LANDFILL", 
+        "LON": -80.27934, 
+        "ID2": "40", 
+        "ZIPCODE": 33055, 
+        "POINT_X": 892932.6875, 
+        "CNTYOWN": null, 
+        "ADDRESS": "21500 NW 47TH AVE", 
+        "LAT": 25.96851, 
+        "TYPE": 3, 
+        "ID": 40, 
+        "POINT_Y": 594898.75
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.27934258886607, 
+          25.968513428504952
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "UNINCORPORATED MIAMI-DADE", 
+        "FOLIO": "3011310010010", 
+        "NAME": "NORTH DADE", 
+        "LON": -80.27934, 
+        "ID2": "2", 
+        "ZIPCODE": 33055, 
+        "POINT_X": 892932.625, 
+        "CNTYOWN": "Y", 
+        "ADDRESS": "21500 NW 47TH AVE", 
+        "LAT": 25.96851, 
+        "TYPE": 1, 
+        "ID": 1, 
+        "POINT_Y": 594898.75
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.20343780388828, 
+          25.921138814825316
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "UNINCORPORATED MIAMI-DADE", 
+        "FOLIO": "3021130020010", 
+        "NAME": "GOLDEN GLADES", 
+        "LON": -80.20344, 
+        "ID2": "5", 
+        "ZIPCODE": 33169, 
+        "POINT_X": 917977.8125, 
+        "CNTYOWN": "Y", 
+        "ADDRESS": "140 NW 160TH ST", 
+        "LAT": 25.92114, 
+        "TYPE": 1, 
+        "ID": 4, 
+        "POINT_Y": 577823.5625
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.35575864623176, 
+          25.835393855819646
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "DORAL", 
+        "FOLIO": "3530170010120", 
+        "NAME": "RESOURCES RECOVERY FACILITY", 
+        "LON": -80.35576, 
+        "ID2": "42", 
+        "ZIPCODE": 33178, 
+        "POINT_X": 868064.6875, 
+        "CNTYOWN": null, 
+        "ADDRESS": "6990 NW 97TH AVE", 
+        "LAT": 25.83539, 
+        "TYPE": 3, 
+        "ID": 42, 
+        "POINT_Y": 546383.625
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.22841647515796, 
+          25.845966375402337
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "UNINCORPORATED MIAMI-DADE", 
+        "FOLIO": "3031100000360", 
+        "NAME": "WEST LITTLE RIVER", 
+        "LON": -80.22842, 
+        "ID2": "10", 
+        "ZIPCODE": 33147, 
+        "POINT_X": 909928.5625, 
+        "CNTYOWN": "Y", 
+        "ADDRESS": "1830 NW 79TH ST", 
+        "LAT": 25.84597, 
+        "TYPE": 1, 
+        "ID": 5, 
+        "POINT_Y": 550451.375
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.21353141149429, 
+          25.794609143746836
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "MIAMI", 
+        "FOLIO": "0131350020040", 
+        "NAME": "CENTRAL TRANSFER STATION", 
+        "LON": -80.21353, 
+        "ID2": "31", 
+        "ZIPCODE": 33136, 
+        "POINT_X": 914936.0625, 
+        "CNTYOWN": null, 
+        "ADDRESS": "1150 NW 20TH ST", 
+        "LAT": 25.79461, 
+        "TYPE": 2, 
+        "ID": 31, 
+        "POINT_Y": 531813.75
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.38290398351143, 
+          25.748655282009228
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "UNINCORPORATED MIAMI-DADE", 
+        "FOLIO": "3040070000020", 
+        "NAME": "SNAPPER CREEK", 
+        "LON": -80.3829, 
+        "ID2": "11", 
+        "ZIPCODE": 33165, 
+        "POINT_X": 859283.8125, 
+        "CNTYOWN": "Y", 
+        "ADDRESS": "2200 SW 117TH AVE", 
+        "LAT": 25.74866, 
+        "TYPE": 1, 
+        "ID": 6, 
+        "POINT_Y": 514814.40625
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.31312554027366, 
+          25.743558896817127
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "UNINCORPORATED MIAMI-DADE", 
+        "FOLIO": "3040140320010", 
+        "NAME": "WEST TRANSFER STATION", 
+        "LON": -80.31313, 
+        "ID2": "32", 
+        "ZIPCODE": 33155, 
+        "POINT_X": 882260.875, 
+        "CNTYOWN": null, 
+        "ADDRESS": "2900 SW 72ND AVE", 
+        "LAT": 25.74356, 
+        "TYPE": 2, 
+        "ID": 32, 
+        "POINT_Y": 513075.8125
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.36936957932971, 
+          25.6951770672432
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "UNINCORPORATED MIAMI-DADE", 
+        "FOLIO": "3040310000170", 
+        "NAME": "SUNSET KENDALL", 
+        "LON": -80.36937, 
+        "ID2": "13", 
+        "ZIPCODE": 33173, 
+        "POINT_X": 863830.625, 
+        "CNTYOWN": "Y", 
+        "ADDRESS": "8000 SW 107TH AVE", 
+        "LAT": 25.69518, 
+        "TYPE": 1, 
+        "ID": 7, 
+        "POINT_Y": 495398.8125
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.3757629083133, 
+          25.63746644632719
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "UNINCORPORATED MIAMI-DADE", 
+        "FOLIO": "3050190017820", 
+        "NAME": "RICHMOND HEIGHTS", 
+        "LON": -80.37576, 
+        "ID2": "16", 
+        "ZIPCODE": 33176, 
+        "POINT_X": 861824.5625, 
+        "CNTYOWN": "N", 
+        "ADDRESS": "14050 BOGGS DR", 
+        "LAT": 25.63747, 
+        "TYPE": 1, 
+        "ID": 9, 
+        "POINT_Y": 474413.65625
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.28900152789042, 
+          25.64443585434684
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "CORAL GABLES", 
+        "FOLIO": "0350240010030", 
+        "NAME": "CHAPMAN FIELD", 
+        "LON": -80.289, 
+        "ID2": "15", 
+        "ZIPCODE": 33158, 
+        "POINT_X": 890397.75, 
+        "CNTYOWN": "Y", 
+        "ADDRESS": "13600 SW 60TH AVE", 
+        "LAT": 25.64444, 
+        "TYPE": 1, 
+        "ID": 8, 
+        "POINT_Y": 477091.1875
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.36445608952366, 
+          25.614278822602298
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "UNINCORPORATED MIAMI-DADE", 
+        "FOLIO": "3050290000390", 
+        "NAME": "WEST PERRINE", 
+        "LON": -80.36446, 
+        "ID2": "17", 
+        "ZIPCODE": 33157, 
+        "POINT_X": 865591.9375, 
+        "CNTYOWN": "Y", 
+        "ADDRESS": "16651 SW 107TH AVE", 
+        "LAT": 25.61428, 
+        "TYPE": 1, 
+        "ID": 10, 
+        "POINT_Y": 466003.5625
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.34471127811219, 
+          25.599969893817057
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "UNINCORPORATED MIAMI-DADE", 
+        "FOLIO": "3350330000950", 
+        "NAME": "EUREKA DRIVE", 
+        "LON": -80.34471, 
+        "ID2": "18", 
+        "ZIPCODE": 33157, 
+        "POINT_X": 872121.9375, 
+        "CNTYOWN": "Y", 
+        "ADDRESS": "9401 SW 184TH ST", 
+        "LAT": 25.59997, 
+        "TYPE": 1, 
+        "ID": 11, 
+        "POINT_Y": 460834.96875
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.37989800268657, 
+          25.57302475145268
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "UNINCORPORATED MIAMI-DADE", 
+        "FOLIO": "3060070000022", 
+        "NAME": "SOUTH MIAMI HEIGHTS", 
+        "LON": -80.3799, 
+        "ID2": "19", 
+        "ZIPCODE": 33177, 
+        "POINT_X": 860571.9375, 
+        "CNTYOWN": "Y", 
+        "ADDRESS": "20800 SW 117TH CT", 
+        "LAT": 25.57302, 
+        "TYPE": 1, 
+        "ID": 12, 
+        "POINT_Y": 450985.96875
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.34649662714367, 
+          25.542991651938614
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "UNINCORPORATED MIAMI-DADE", 
+        "FOLIO": "3060210000050", 
+        "NAME": "SOUTH DADE LANDFILL", 
+        "LON": -80.3465, 
+        "ID2": "41", 
+        "ZIPCODE": 33032, 
+        "POINT_X": 871635.6875, 
+        "CNTYOWN": null, 
+        "ADDRESS": "24000 SW 97TH AVE", 
+        "LAT": 25.54299, 
+        "TYPE": 3, 
+        "ID": 41, 
+        "POINT_Y": 440123.21875
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.40174861603673, 
+          25.517171865316634
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "UNINCORPORATED MIAMI-DADE", 
+        "FOLIO": "3069350000030", 
+        "NAME": "MOODY DRIVE", 
+        "LON": -80.40175, 
+        "ID2": "20", 
+        "ZIPCODE": 33032, 
+        "POINT_X": 853459.75, 
+        "CNTYOWN": "Y", 
+        "ADDRESS": "12970 SW 268TH ST", 
+        "LAT": 25.51717, 
+        "TYPE": 1, 
+        "ID": 13, 
+        "POINT_Y": 430653.71875
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.32878106360562, 
+          25.93445776093114
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "UNINCORPORATED MIAMI-DADE", 
+        "FOLIO": "3020100000010", 
+        "NAME": "PALM SPRINGS NORTH", 
+        "LON": -80.32878, 
+        "ID2": "4", 
+        "ZIPCODE": 33015, 
+        "POINT_X": 876752.8125, 
+        "CNTYOWN": "Y", 
+        "ADDRESS": "7870 NW 178TH ST", 
+        "LAT": 25.93446, 
+        "TYPE": 1, 
+        "ID": 3, 
+        "POINT_Y": 582434.3125
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.33963574323428, 
+          25.82744049218993
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "UNINCORPORATED MIAMI-DADE", 
+        "FOLIO": "3030160000010", 
+        "NAME": "WEST DADE HOME CHEMICAL COLLECTION", 
+        "LON": -80.33964, 
+        "ID2": "50", 
+        "ZIPCODE": 33178, 
+        "POINT_X": 873382.3491353, 
+        "CNTYOWN": "Y", 
+        "ADDRESS": "8831 NW 58TH ST", 
+        "LAT": 25.82744, 
+        "TYPE": 4, 
+        "ID": 50, 
+        "POINT_Y": 543518.9404984
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.34608174299814, 
+          25.545654853635664
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "UNINCORPORATED MIAMI-DADE", 
+        "FOLIO": "3060210000010", 
+        "NAME": "SOUTH DADE HOME CHEMICAL COLLECTION", 
+        "LON": -80.34608, 
+        "ID2": "51", 
+        "ZIPCODE": 33032, 
+        "POINT_X": 871768.6583616, 
+        "CNTYOWN": "Y", 
+        "ADDRESS": "23707 SW 97TH AVE", 
+        "LAT": 25.54565, 
+        "TYPE": 4, 
+        "ID": 51, 
+        "POINT_Y": 441092.0138106
+      }
+    }
+  ]
+}

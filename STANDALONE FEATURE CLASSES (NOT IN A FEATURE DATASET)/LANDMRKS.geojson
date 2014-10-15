@@ -1,0 +1,4841 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.36651172793118, 
+          25.569984271212345
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PERIMETER": 0.0, 
+        "LANDMRKS_": 42, 
+        "NAME": "Cutler Ridge Station", 
+        "DNAME": null, 
+        "Y_COORD": 449901.844, 
+        "PID": "60070625", 
+        "LANDMRKS_I": 42, 
+        "X_COORD": 864990.375, 
+        "TTRRSS": "564007", 
+        "MDC_LANDMR": 0.0, 
+        "ADDRESS": "10800 SW 211TH ST", 
+        "FOLIO": "3060070000551", 
+        "TYPE": "G", 
+        "ZIP5": "33189"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.49831908389302, 
+          25.413213479597356
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PERIMETER": 0.0, 
+        "LANDMRKS_": 43, 
+        "NAME": "Dade Correctional Institute", 
+        "DNAME": null, 
+        "Y_COORD": 392739.438, 
+        "PID": "88020011", 
+        "LANDMRKS_I": 43, 
+        "X_COORD": 821755.188, 
+        "TTRRSS": "583802", 
+        "MDC_LANDMR": 0.0, 
+        "ADDRESS": "19000 SW 377TH ST", 
+        "FOLIO": "3088020000040", 
+        "TYPE": "G", 
+        "ZIP5": "33034"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.24117474606956, 
+          25.773826355453963
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PERIMETER": 0.0, 
+        "LANDMRKS_": 44, 
+        "NAME": "Dade County Auditorium", 
+        "DNAME": null, 
+        "Y_COORD": 524206.813, 
+        "PID": "41040849", 
+        "LANDMRKS_I": 44, 
+        "X_COORD": 905882.875, 
+        "TTRRSS": "544104", 
+        "MDC_LANDMR": 0.0, 
+        "ADDRESS": "2901 W FLAGLER ST", 
+        "FOLIO": "0141040000040", 
+        "TYPE": "R", 
+        "ZIP5": "33135"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.21684078129987, 
+          25.786959682808487
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PERIMETER": 0.0, 
+        "LANDMRKS_": 45, 
+        "NAME": "Dade County Jail", 
+        "DNAME": null, 
+        "Y_COORD": 529027.188, 
+        "PID": "31350471", 
+        "LANDMRKS_I": 45, 
+        "X_COORD": 913862.688, 
+        "TTRRSS": "534135", 
+        "MDC_LANDMR": 0.0, 
+        "ADDRESS": "1320 NW 14TH ST", 
+        "FOLIO": "0131350370050", 
+        "TYPE": "G", 
+        "ZIP5": "33125"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.1690287887162, 
+          25.77185380790735
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PERIMETER": 0.0, 
+        "LANDMRKS_": 46, 
+        "NAME": "Dade County Seaport", 
+        "DNAME": null, 
+        "Y_COORD": 523633.094, 
+        "PID": "42050156", 
+        "LANDMRKS_I": 46, 
+        "X_COORD": 929630.375, 
+        "TTRRSS": "544205", 
+        "MDC_LANDMR": 0.0, 
+        "ADDRESS": "1015 N AMERICA WY", 
+        "FOLIO": "0142050000010", 
+        "TYPE": "G", 
+        "ZIP5": "33132"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.31164624703989, 
+          25.69112002810886
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PERIMETER": 0.0, 
+        "LANDMRKS_": 47, 
+        "NAME": "Dadeland Mall", 
+        "DNAME": null, 
+        "Y_COORD": 494019.125, 
+        "PID": "40350512", 
+        "LANDMRKS_I": 47, 
+        "X_COORD": 882848.0, 
+        "TTRRSS": "544035", 
+        "MDC_LANDMR": 0.0, 
+        "ADDRESS": "7303 SW 88TH ST", 
+        "FOLIO": "3040350210021", 
+        "TYPE": "R", 
+        "ZIP5": "33156"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.30510834026954, 
+          25.69193627440977
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PERIMETER": 0.0, 
+        "LANDMRKS_": 48, 
+        "NAME": "Dadeland North Station", 
+        "DNAME": "METRO RAIL STATION", 
+        "Y_COORD": 494327.063, 
+        "PID": "40350516", 
+        "LANDMRKS_I": 48, 
+        "X_COORD": 884999.5, 
+        "TTRRSS": "534014", 
+        "MDC_LANDMR": 0.0, 
+        "ADDRESS": "8300 S DIXIE HY", 
+        "FOLIO": "3040350001052", 
+        "TYPE": "M", 
+        "ZIP5": "33143"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.31368565387609, 
+          25.684997969462135
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PERIMETER": 0.0, 
+        "LANDMRKS_": 49, 
+        "NAME": "Dadeland South Station", 
+        "DNAME": "METRO RAIL STATION", 
+        "Y_COORD": 491790.531, 
+        "PID": "50020162", 
+        "LANDMRKS_I": 49, 
+        "X_COORD": 882187.938, 
+        "TTRRSS": "534014", 
+        "MDC_LANDMR": 0.0, 
+        "ADDRESS": "9150 S DIXIE HY", 
+        "FOLIO": "3040350001052", 
+        "TYPE": "M", 
+        "ZIP5": "33156"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.34476965808086, 
+          25.62988638984566
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PERIMETER": 0.0, 
+        "LANDMRKS_": 50, 
+        "NAME": "Deering Hospital", 
+        "DNAME": null, 
+        "Y_COORD": 471708.094, 
+        "PID": "50210435", 
+        "LANDMRKS_I": 50, 
+        "X_COORD": 872050.063, 
+        "TTRRSS": "554021", 
+        "MDC_LANDMR": 0.0, 
+        "ADDRESS": "9333 SW 152ND ST", 
+        "FOLIO": "3050210000240", 
+        "TYPE": "H", 
+        "ZIP5": "33176"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.23390436226506, 
+          25.7289050531972
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PERIMETER": 0.0, 
+        "LANDMRKS_": 51, 
+        "NAME": "Dinner Key Auditorium", 
+        "DNAME": null, 
+        "Y_COORD": 507893.406, 
+        "PID": "41220258", 
+        "LANDMRKS_I": 51, 
+        "X_COORD": 908370.375, 
+        "TTRRSS": "544122", 
+        "MDC_LANDMR": 0.0, 
+        "ADDRESS": "3500 PAN AMERICAN DR", 
+        "FOLIO": "0141220020010", 
+        "TYPE": "R", 
+        "ZIP5": "33133"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.1690287887162, 
+          25.77185380790735
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PERIMETER": 0.0, 
+        "LANDMRKS_": 52, 
+        "NAME": "Dodge Island", 
+        "DNAME": null, 
+        "Y_COORD": 523633.094, 
+        "PID": "42050171", 
+        "LANDMRKS_I": 52, 
+        "X_COORD": 929630.375, 
+        "TTRRSS": "544205", 
+        "MDC_LANDMR": 0.0, 
+        "ADDRESS": "1470 PORT BD", 
+        "FOLIO": "0142050000010", 
+        "TYPE": "R", 
+        "ZIP5": "33132"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.2385425566436, 
+          25.958398912497138
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PERIMETER": 0.0, 
+        "LANDMRKS_": 53, 
+        "NAME": "Dolphin Stadium", 
+        "DNAME": "DOLPHIN STADIUM", 
+        "Y_COORD": 591298.188, 
+        "PID": "11340870", 
+        "LANDMRKS_I": 53, 
+        "X_COORD": 906360.125, 
+        "TTRRSS": "514134", 
+        "MDC_LANDMR": 0.0, 
+        "ADDRESS": "2269 NW 199TH ST", 
+        "FOLIO": "3011340110010", 
+        "TYPE": "R", 
+        "ZIP5": "33056"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.34121481203933, 
+          25.815726677533398
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PERIMETER": 0.0, 
+        "LANDMRKS_": 54, 
+        "NAME": "Doral Country Club", 
+        "DNAME": null, 
+        "Y_COORD": 539258.813, 
+        "PID": "30210002", 
+        "LANDMRKS_I": 54, 
+        "X_COORD": 872884.25, 
+        "TTRRSS": "534021", 
+        "MDC_LANDMR": 0.0, 
+        "ADDRESS": "8755 NW 36TH ST", 
+        "FOLIO": "3030210010010", 
+        "TYPE": "R", 
+        "ZIP5": "33178"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.2548694870351, 
+          25.732752483585134
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PERIMETER": 0.0, 
+        "LANDMRKS_": 55, 
+        "NAME": "Douglas Road Station", 
+        "DNAME": "METRO RAIL STATION", 
+        "Y_COORD": 509252.281, 
+        "PID": "41200176", 
+        "LANDMRKS_I": 55, 
+        "X_COORD": 901460.375, 
+        "TTRRSS": "534126", 
+        "MDC_LANDMR": 0.0, 
+        "ADDRESS": "3100 SW 37TH AV", 
+        "FOLIO": "0101000000022", 
+        "TYPE": "M", 
+        "ZIP5": "33133"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.19694519157586, 
+          25.776087164522664
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PERIMETER": 0.0, 
+        "LANDMRKS_": 56, 
+        "NAME": "Downtown Government Ctr", 
+        "DNAME": "STEPHEN P. CLARK CENTER", 
+        "Y_COORD": 525114.813, 
+        "PID": "41010293", 
+        "LANDMRKS_I": 56, 
+        "X_COORD": 920433.625, 
+        "TTRRSS": "544101", 
+        "MDC_LANDMR": 0.0, 
+        "ADDRESS": "111 NW 1ST ST", 
+        "FOLIO": "0141370230020", 
+        "TYPE": "G", 
+        "ZIP5": "33128"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.22994991460472, 
+          25.81244796161029
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PERIMETER": 0.0, 
+        "LANDMRKS_": 57, 
+        "NAME": "Earlington Heights Station", 
+        "DNAME": "METRO RAIL STATION", 
+        "Y_COORD": 538265.875, 
+        "PID": "31221924", 
+        "LANDMRKS_I": 57, 
+        "X_COORD": 909494.813, 
+        "TTRRSS": "534014", 
+        "MDC_LANDMR": 0.0, 
+        "ADDRESS": "2100 NW 41ST ST", 
+        "FOLIO": "3040350001052", 
+        "TYPE": "M", 
+        "ZIP5": "33142"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.1921218620021, 
+          25.766887686625378
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PERIMETER": 0.0, 
+        "LANDMRKS_": 58, 
+        "NAME": "Eighth Street Mover Station", 
+        "DNAME": "METRO MOVER STATION", 
+        "Y_COORD": 521780.813, 
+        "PID": null, 
+        "LANDMRKS_I": 58, 
+        "X_COORD": 922041.438, 
+        "TTRRSS": null, 
+        "MDC_LANDMR": 0.0, 
+        "ADDRESS": "59 SE 8TH ST", 
+        "FOLIO": null, 
+        "TYPE": null, 
+        "ZIP5": null
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.19079042843626, 
+          25.78486575939624
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PERIMETER": 0.0, 
+        "LANDMRKS_": 59, 
+        "NAME": "Eleventh Street Mover Station", 
+        "DNAME": "METRO MOVER STATION", 
+        "Y_COORD": 528317.938, 
+        "PID": null, 
+        "LANDMRKS_I": 59, 
+        "X_COORD": 922439.5, 
+        "TTRRSS": null, 
+        "MDC_LANDMR": 0.0, 
+        "ADDRESS": "1098 NE 2ND AVE", 
+        "FOLIO": null, 
+        "TYPE": null, 
+        "ZIP5": null
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.49123188107343, 
+          25.750107613003618
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PERIMETER": 0.0, 
+        "LANDMRKS_": 60, 
+        "NAME": "Everglades Correctional Ctr", 
+        "DNAME": null, 
+        "Y_COORD": 515190.344, 
+        "PID": "48120008", 
+        "LANDMRKS_I": 60, 
+        "X_COORD": 823625.0, 
+        "TTRRSS": "543812", 
+        "MDC_LANDMR": 0.0, 
+        "ADDRESS": "1601 SW 187TH AV", 
+        "FOLIO": "3048120000021", 
+        "TYPE": "G", 
+        "ZIP5": "33185"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.27584355964925, 
+          25.676137786754218
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PERIMETER": 0.0, 
+        "LANDMRKS_": 61, 
+        "NAME": "Fairchild Gardens", 
+        "DNAME": null, 
+        "Y_COORD": 488636.719, 
+        "PID": "51060269", 
+        "LANDMRKS_I": 61, 
+        "X_COORD": 894668.375, 
+        "TTRRSS": "554106", 
+        "MDC_LANDMR": 0.0, 
+        "ADDRESS": "10901 OLD CUTLER RD", 
+        "FOLIO": "0351060000041", 
+        "TYPE": "R", 
+        "ZIP5": "33156"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.40915783202533, 
+          25.617822736813615
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PERIMETER": 0.0, 
+        "LANDMRKS_": 62, 
+        "NAME": "Federal Corrections Institute", 
+        "DNAME": null, 
+        "Y_COORD": 467223.781, 
+        "PID": "59260016", 
+        "LANDMRKS_I": 62, 
+        "X_COORD": 850854.688, 
+        "TTRRSS": "553926", 
+        "MDC_LANDMR": 0.0, 
+        "ADDRESS": "16201 SW 137TH AV", 
+        "FOLIO": "3059260000010", 
+        "TYPE": "G", 
+        "ZIP5": "33177"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.19224887346462, 
+          25.769165079662415
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PERIMETER": 0.0, 
+        "LANDMRKS_": 63, 
+        "NAME": "Fifth Street Mover Station", 
+        "DNAME": "METRO MOVER STATION", 
+        "Y_COORD": 522608.313, 
+        "PID": null, 
+        "LANDMRKS_I": 63, 
+        "X_COORD": 921994.563, 
+        "TTRRSS": null, 
+        "MDC_LANDMR": 0.0, 
+        "ADDRESS": "35 SE 5TH ST", 
+        "FOLIO": null, 
+        "TYPE": null, 
+        "ZIP5": null
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.19288141348102, 
+          25.760381410013103
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PERIMETER": 0.0, 
+        "LANDMRKS_": 64, 
+        "NAME": "Financial Dist Mover Station", 
+        "DNAME": "METRO MOVER STATION", 
+        "Y_COORD": 519414.469, 
+        "PID": null, 
+        "LANDMRKS_I": 64, 
+        "X_COORD": 921805.938, 
+        "TTRRSS": null, 
+        "MDC_LANDMR": 0.0, 
+        "ADDRESS": "50 SW 14TH ST", 
+        "FOLIO": null, 
+        "TYPE": null, 
+        "ZIP5": null
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.1898491106252, 
+          25.77572558566916
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PERIMETER": 0.0, 
+        "LANDMRKS_": 65, 
+        "NAME": "First St Mover Station", 
+        "DNAME": "METRO MOVER STATION", 
+        "Y_COORD": 524997.688, 
+        "PID": null, 
+        "LANDMRKS_I": 65, 
+        "X_COORD": 922769.688, 
+        "TTRRSS": null, 
+        "MDC_LANDMR": 0.0, 
+        "ADDRESS": "225 NE 1ST ST", 
+        "FOLIO": null, 
+        "TYPE": null, 
+        "ZIP5": null
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.1403840014696, 
+          25.7571164765372
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PERIMETER": 0.0, 
+        "LANDMRKS_": 66, 
+        "NAME": "Fisher Island", 
+        "DNAME": null, 
+        "Y_COORD": 518337.0, 
+        "PID": "42100095", 
+        "LANDMRKS_I": 66, 
+        "X_COORD": 939092.438, 
+        "TTRRSS": "544210", 
+        "MDC_LANDMR": 0.0, 
+        "ADDRESS": "1 FISHER ISLAND DR", 
+        "FOLIO": "3042090020040", 
+        "TYPE": "G", 
+        "ZIP5": "33109"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.14128676654212, 
+          25.911330409706984
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PERIMETER": 0.0, 
+        "LANDMRKS_": 67, 
+        "NAME": "FIU North Campus", 
+        "DNAME": null, 
+        "Y_COORD": 574387.625, 
+        "PID": "22140305", 
+        "LANDMRKS_I": 67, 
+        "X_COORD": 938429.188, 
+        "TTRRSS": "524222", 
+        "MDC_LANDMR": 0.0, 
+        "ADDRESS": "15000 BISCAYNE BD", 
+        "FOLIO": "0622220000020", 
+        "TYPE": "C", 
+        "ZIP5": "33181"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.37620737839451, 
+          25.757374355568423
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PERIMETER": 0.0, 
+        "LANDMRKS_": 68, 
+        "NAME": "FIU South Campus", 
+        "DNAME": "FIU SOUTH CAMPUS", 
+        "Y_COORD": 517994.063, 
+        "PID": "40070002", 
+        "LANDMRKS_I": 68, 
+        "X_COORD": 861473.063, 
+        "TTRRSS": "544007", 
+        "MDC_LANDMR": 0.0, 
+        "ADDRESS": "11200 SW 8TH ST", 
+        "FOLIO": "3040070000050", 
+        "TYPE": "C", 
+        "ZIP5": "33174"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.27066184701707, 
+          25.91838617678589
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PERIMETER": 0.0, 
+        "LANDMRKS_": 69, 
+        "NAME": "Florida Memorial College", 
+        "DNAME": null, 
+        "Y_COORD": 576694.625, 
+        "PID": "21171252", 
+        "LANDMRKS_I": 69, 
+        "X_COORD": 895887.25, 
+        "TTRRSS": "524117", 
+        "MDC_LANDMR": 0.0, 
+        "ADDRESS": "15800 NW 42ND AV", 
+        "FOLIO": "3021170010010", 
+        "TYPE": "C", 
+        "ZIP5": "33054"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.19056753102882, 
+          25.7805444947708
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PERIMETER": 0.0, 
+        "LANDMRKS_": 70, 
+        "NAME": "Freedom Tower Mover Station", 
+        "DNAME": "METRO MOVER STATION", 
+        "Y_COORD": 526747.75, 
+        "PID": null, 
+        "LANDMRKS_I": 70, 
+        "X_COORD": 922522.5, 
+        "TTRRSS": null, 
+        "MDC_LANDMR": 0.0, 
+        "ADDRESS": "600 NE 2ND AVE", 
+        "FOLIO": null, 
+        "TYPE": null, 
+        "ZIP5": null
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.49272458831335, 
+          25.534442494460748
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PERIMETER": 0.0, 
+        "LANDMRKS_": 71, 
+        "NAME": "Fruit & Spice Park", 
+        "DNAME": null, 
+        "Y_COORD": 436805.688, 
+        "PID": "68250008", 
+        "LANDMRKS_I": 71, 
+        "X_COORD": 823434.0, 
+        "TTRRSS": "563825", 
+        "MDC_LANDMR": 0.0, 
+        "ADDRESS": "24801 SW 187TH AV", 
+        "FOLIO": "3068250000170", 
+        "TYPE": "R", 
+        "ZIP5": "33031"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.31232699239978, 
+          25.9456649225111
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PERIMETER": 0.0, 
+        "LANDMRKS_": 72, 
+        "NAME": "Golf Club of Miami", 
+        "DNAME": null, 
+        "Y_COORD": 586535.563, 
+        "PID": "20021102", 
+        "LANDMRKS_I": 72, 
+        "X_COORD": 882140.188, 
+        "TTRRSS": "524002", 
+        "MDC_LANDMR": 0.0, 
+        "ADDRESS": "6801  MIAMI GARDENS DR", 
+        "FOLIO": "3020020000010", 
+        "TYPE": "R", 
+        "ZIP5": "33015"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.19609396633818, 
+          25.77586408114546
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PERIMETER": 0.0, 
+        "LANDMRKS_": 73, 
+        "NAME": "Government Center Mover Station", 
+        "DNAME": "METRO MOVER STATION", 
+        "Y_COORD": 525035.438, 
+        "PID": null, 
+        "LANDMRKS_I": 73, 
+        "X_COORD": 920714.25, 
+        "TTRRSS": null, 
+        "MDC_LANDMR": 0.0, 
+        "ADDRESS": "138 NW 3RD ST", 
+        "FOLIO": null, 
+        "TYPE": null, 
+        "ZIP5": null
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.1960981123009, 
+          25.776037949395345
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PERIMETER": 0.0, 
+        "LANDMRKS_": 74, 
+        "NAME": "Government Center Station", 
+        "DNAME": "METRO RAIL STATION", 
+        "Y_COORD": 525098.625, 
+        "PID": "41010358", 
+        "LANDMRKS_I": 74, 
+        "X_COORD": 920712.5, 
+        "TTRRSS": "534126", 
+        "MDC_LANDMR": 0.0, 
+        "ADDRESS": "111 NW 1ST ST", 
+        "FOLIO": "0101000000022", 
+        "TYPE": "M", 
+        "ZIP5": "33128"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.32092315657263, 
+          25.687571522906225
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PERIMETER": 0.0, 
+        "LANDMRKS_": 75, 
+        "NAME": "Greenery Mall", 
+        "DNAME": null, 
+        "Y_COORD": 492713.594, 
+        "PID": "50030002", 
+        "LANDMRKS_I": 75, 
+        "X_COORD": 879799.563, 
+        "TTRRSS": "554003", 
+        "MDC_LANDMR": 0.0, 
+        "ADDRESS": "7700 SW  88TH ST", 
+        "FOLIO": "3050030000080", 
+        "TYPE": "R", 
+        "ZIP5": "33156"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.15478097563569, 
+          25.94092537993747
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PERIMETER": 0.0, 
+        "LANDMRKS_": 76, 
+        "NAME": "Greynolds Park", 
+        "DNAME": null, 
+        "Y_COORD": 585115.875, 
+        "PID": "22091660", 
+        "LANDMRKS_I": 76, 
+        "X_COORD": 933924.0, 
+        "TTRRSS": "524209", 
+        "MDC_LANDMR": 0.0, 
+        "ADDRESS": "17530 W DIXIE HY", 
+        "FOLIO": "0722090080010", 
+        "TYPE": "R", 
+        "ZIP5": "33160"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.1899409607729, 
+          25.773806217201802
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PERIMETER": 0.0, 
+        "LANDMRKS_": 77, 
+        "NAME": "Gusman Cultural Center", 
+        "DNAME": null, 
+        "Y_COORD": 524299.875, 
+        "PID": "42060116", 
+        "LANDMRKS_I": 77, 
+        "X_COORD": 922743.75, 
+        "TTRRSS": "544206", 
+        "MDC_LANDMR": 0.0, 
+        "ADDRESS": "25 SE 2ND AVE", 
+        "FOLIO": "0101120002010", 
+        "TYPE": "R", 
+        "ZIP5": "33131"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.23798802924745, 
+          25.839954303778537
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PERIMETER": 0.0, 
+        "LANDMRKS_": 78, 
+        "NAME": "Gwen Cherry Park", 
+        "DNAME": null, 
+        "Y_COORD": 548248.125, 
+        "PID": "31101812", 
+        "LANDMRKS_I": 78, 
+        "X_COORD": 906792.438, 
+        "TTRRSS": "534110", 
+        "MDC_LANDMR": 0.0, 
+        "ADDRESS": "2591 NW 71ST ST", 
+        "FOLIO": "3031100610010", 
+        "TYPE": "R", 
+        "ZIP5": "33147"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.42313677505271, 
+          25.674975579091818
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PERIMETER": 0.0, 
+        "LANDMRKS_": 79, 
+        "NAME": "Hammocks Station", 
+        "DNAME": null, 
+        "Y_COORD": 487975.656, 
+        "PID": "59031433", 
+        "LANDMRKS_I": 79, 
+        "X_COORD": 846157.875, 
+        "TTRRSS": "553903", 
+        "MDC_LANDMR": 0.0, 
+        "ADDRESS": "10000 SW 142ND AV", 
+        "FOLIO": "3059030122860", 
+        "TYPE": "G", 
+        "ZIP5": "33186"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.12322243716616, 
+          25.909778933481757
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PERIMETER": 0.0, 
+        "LANDMRKS_": 80, 
+        "NAME": "Haulover Park", 
+        "DNAME": null, 
+        "Y_COORD": 573863.0, 
+        "PID": "22230002", 
+        "LANDMRKS_I": 80, 
+        "X_COORD": 944371.063, 
+        "TTRRSS": "524223", 
+        "MDC_LANDMR": 0.0, 
+        "ADDRESS": "10800 COLLINS AV", 
+        "FOLIO": "3022140080010", 
+        "TYPE": "R", 
+        "ZIP5": "33154"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.27833079794891, 
+          25.84762613961996
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PERIMETER": 0.0, 
+        "LANDMRKS_": 81, 
+        "NAME": "Hialeah Race Track", 
+        "DNAME": "HIALEAH RACE TRACK", 
+        "Y_COORD": 550961.688, 
+        "PID": "31071446", 
+        "LANDMRKS_I": 81, 
+        "X_COORD": 893507.938, 
+        "TTRRSS": "534107", 
+        "MDC_LANDMR": 0.0, 
+        "ADDRESS": "105 E 21ST ST", 
+        "FOLIO": "0431070010010", 
+        "TYPE": "R", 
+        "ZIP5": "33010"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.27903254961129, 
+          25.841176127911396
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PERIMETER": 0.0, 
+        "LANDMRKS_": 82, 
+        "NAME": "Hialeah Station", 
+        "DNAME": "METRO RAIL STATION", 
+        "Y_COORD": 548616.063, 
+        "PID": null, 
+        "LANDMRKS_I": 82, 
+        "X_COORD": 893290.0, 
+        "TTRRSS": null, 
+        "MDC_LANDMR": 0.0, 
+        "ADDRESS": "125 E 21ST ST", 
+        "FOLIO": null, 
+        "TYPE": null, 
+        "ZIP5": null
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.3883336148441, 
+          25.504782849125064
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PERIMETER": 0.0, 
+        "LANDMRKS_": 83, 
+        "NAME": "Homestead Air Reserve Base", 
+        "DNAME": null, 
+        "Y_COORD": 426170.938, 
+        "PID": "79010012", 
+        "LANDMRKS_I": 83, 
+        "X_COORD": 857905.875, 
+        "TTRRSS": "573901", 
+        "MDC_LANDMR": 0.0, 
+        "ADDRESS": "28250 SW 122ND AVE", 
+        "FOLIO": "3079010000151", 
+        "TYPE": "G", 
+        "ZIP5": "33039"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.55058633199957, 
+          25.49955524990771
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PERIMETER": 0.0, 
+        "LANDMRKS_": 84, 
+        "NAME": "Homestead Airport", 
+        "DNAME": null, 
+        "Y_COORD": 424057.656, 
+        "PID": "78050002", 
+        "LANDMRKS_I": 84, 
+        "X_COORD": 804397.438, 
+        "TTRRSS": "573805", 
+        "MDC_LANDMR": 0.0, 
+        "ADDRESS": "28700 SW 217TH AV", 
+        "FOLIO": "3078050000010", 
+        "TYPE": "G", 
+        "ZIP5": "33030"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.34465436932005, 
+          25.454811700309453
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PERIMETER": 0.0, 
+        "LANDMRKS_": 85, 
+        "NAME": "Homestead Bayfront Park", 
+        "DNAME": "BAYFRONT MARINA", 
+        "Y_COORD": 408077.781, 
+        "PID": "70160011", 
+        "LANDMRKS_I": 85, 
+        "X_COORD": 872401.875, 
+        "TTRRSS": "574021", 
+        "MDC_LANDMR": 0.0, 
+        "ADDRESS": "9698 SW 328TH  ST", 
+        "FOLIO": "3070210010010", 
+        "TYPE": "R", 
+        "ZIP5": "33033"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.46720281510561, 
+          25.476157673839065
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PERIMETER": 0.0, 
+        "LANDMRKS_": 86, 
+        "NAME": "Homestead City Hall", 
+        "DNAME": "HOMESTEAD CITY HALL", 
+        "Y_COORD": 415655.531, 
+        "PID": "79180003", 
+        "LANDMRKS_I": 86, 
+        "X_COORD": 831934.438, 
+        "TTRRSS": "573918", 
+        "MDC_LANDMR": 0.0, 
+        "ADDRESS": "790 N HOMESTEAD BLVD", 
+        "FOLIO": "1079180000010", 
+        "TYPE": "G", 
+        "ZIP5": "33030"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.55058633199957, 
+          25.49955524990771
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PERIMETER": 0.0, 
+        "LANDMRKS_": 87, 
+        "NAME": "Homestead General Airport", 
+        "DNAME": null, 
+        "Y_COORD": 424057.656, 
+        "PID": "78050002", 
+        "LANDMRKS_I": 87, 
+        "X_COORD": 804397.438, 
+        "TTRRSS": "573805", 
+        "MDC_LANDMR": 0.0, 
+        "ADDRESS": "28700 SW 217TH AVE", 
+        "FOLIO": "3078050000010", 
+        "TYPE": "A", 
+        "ZIP5": "33030"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.48053578219282, 
+          25.482190922196427
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PERIMETER": 0.0, 
+        "LANDMRKS_": 88, 
+        "NAME": "Homestead Hospital", 
+        "DNAME": null, 
+        "Y_COORD": 417830.875, 
+        "PID": "78120876", 
+        "LANDMRKS_I": 88, 
+        "X_COORD": 827527.313, 
+        "TTRRSS": "573812", 
+        "MDC_LANDMR": 0.0, 
+        "ADDRESS": "1220 NW 1ST AV", 
+        "FOLIO": "1078120000390", 
+        "TYPE": "H", 
+        "ZIP5": "33030"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.40782406211976, 
+          25.45231723080617
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PERIMETER": 0.0, 
+        "LANDMRKS_": 89, 
+        "NAME": "Homestead Motorsports", 
+        "DNAME": null, 
+        "Y_COORD": 407073.656, 
+        "PID": "79230019", 
+        "LANDMRKS_I": 89, 
+        "X_COORD": 851562.188, 
+        "TTRRSS": "573923", 
+        "MDC_LANDMR": 0.0, 
+        "ADDRESS": "1 SPEEDWAY BD", 
+        "FOLIO": "1079230010030", 
+        "TYPE": "R", 
+        "ZIP5": "33035"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.36447882492844, 
+          25.786730387954226
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PERIMETER": 0.0, 
+        "LANDMRKS_": 90, 
+        "NAME": "International Mall", 
+        "DNAME": null, 
+        "Y_COORD": 528682.188, 
+        "PID": "30320069", 
+        "LANDMRKS_I": 90, 
+        "X_COORD": 865281.875, 
+        "TTRRSS": "534032", 
+        "MDC_LANDMR": 0.0, 
+        "ADDRESS": "1275 NW 107TH AV", 
+        "FOLIO": "3030320080010", 
+        "TYPE": "R", 
+        "ZIP5": "33172"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.15475832635418, 
+          25.920031370098407
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PERIMETER": 0.0, 
+        "LANDMRKS_": 91, 
+        "NAME": "Intracoastal Station", 
+        "DNAME": null, 
+        "Y_COORD": 577521.438, 
+        "PID": "22161157", 
+        "LANDMRKS_I": 91, 
+        "X_COORD": 933980.438, 
+        "TTRRSS": "524216", 
+        "MDC_LANDMR": 0.0, 
+        "ADDRESS": "15665 BISCAYNE BD", 
+        "FOLIO": "0622160000020", 
+        "TYPE": "G", 
+        "ZIP5": "33160"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.22837996112624, 
+          25.865234165626358
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PERIMETER": 0.0, 
+        "LANDMRKS_": 184, 
+        "NAME": "William Turner Tech School", 
+        "DNAME": null, 
+        "Y_COORD": 557455.0, 
+        "PID": "31030168", 
+        "LANDMRKS_I": 184, 
+        "X_COORD": 909898.688, 
+        "TTRRSS": "534103", 
+        "MDC_LANDMR": 0.0, 
+        "ADDRESS": "1895 NW 95TH ST", 
+        "FOLIO": "3031030000020", 
+        "TYPE": "S", 
+        "ZIP5": "33147"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.25946173136113, 
+          25.794554327414176
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PERIMETER": 0.0, 
+        "LANDMRKS_": 185, 
+        "NAME": "Wyndham Gateway Hotel", 
+        "DNAME": null, 
+        "Y_COORD": 531706.438, 
+        "PID": "31290207", 
+        "LANDMRKS_I": 185, 
+        "X_COORD": 899822.375, 
+        "TTRRSS": "534129", 
+        "MDC_LANDMR": 0.0, 
+        "ADDRESS": "3900 NW 21ST ST", 
+        "FOLIO": "3031290170010", 
+        "TYPE": "R", 
+        "ZIP5": "33142"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.37058359808867, 
+          25.75015732759636
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PERIMETER": 0.0, 
+        "LANDMRKS_": 186, 
+        "NAME": "Youth Fair", 
+        "DNAME": null, 
+        "Y_COORD": 515379.781, 
+        "PID": "40070006", 
+        "LANDMRKS_I": 186, 
+        "X_COORD": 863336.563, 
+        "TTRRSS": "544007", 
+        "MDC_LANDMR": 0.0, 
+        "ADDRESS": "10901 SW 24TH ST", 
+        "FOLIO": "3040070000010", 
+        "TYPE": "R", 
+        "ZIP5": "33165"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.21520345700492, 
+          25.795800883524134
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PERIMETER": 0.0, 
+        "LANDMRKS_": 153, 
+        "NAME": "Santa Clara Station", 
+        "DNAME": "METRO RAIL STATION", 
+        "Y_COORD": 532243.875, 
+        "PID": "31262332", 
+        "LANDMRKS_I": 153, 
+        "X_COORD": 914382.313, 
+        "TTRRSS": "534126", 
+        "MDC_LANDMR": 0.0, 
+        "ADDRESS": "2050 NW  12TH AV", 
+        "FOLIO": "0101000000022", 
+        "TYPE": "M", 
+        "ZIP5": "33127"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.19314506384292, 
+          25.78937580188136
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PERIMETER": 0.0, 
+        "LANDMRKS_": 154, 
+        "NAME": "School Board Mover Station", 
+        "DNAME": "METRO MOVER STATION", 
+        "Y_COORD": 529952.438, 
+        "PID": null, 
+        "LANDMRKS_I": 154, 
+        "X_COORD": 921654.625, 
+        "TTRRSS": null, 
+        "MDC_LANDMR": 0.0, 
+        "ADDRESS": "50 NE 15TH ST", 
+        "FOLIO": null, 
+        "TYPE": null, 
+        "ZIP5": null
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.1690287887162, 
+          25.77185380790735
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PERIMETER": 0.0, 
+        "LANDMRKS_": 155, 
+        "NAME": "Seaport", 
+        "DNAME": null, 
+        "Y_COORD": 523633.094, 
+        "PID": "42060019", 
+        "LANDMRKS_I": 155, 
+        "X_COORD": 929630.375, 
+        "TTRRSS": "544205", 
+        "MDC_LANDMR": 0.0, 
+        "ADDRESS": "1040 PORT BLVD", 
+        "FOLIO": "0142050000010", 
+        "TYPE": "R", 
+        "ZIP5": "33132"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.37701152335578, 
+          25.635566430577367
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PERIMETER": 0.0, 
+        "LANDMRKS_": 156, 
+        "NAME": "Sgt. Joe Delancy Park", 
+        "DNAME": null, 
+        "Y_COORD": 473721.25, 
+        "PID": "50190735", 
+        "LANDMRKS_I": 156, 
+        "X_COORD": 861417.125, 
+        "TTRRSS": "554019", 
+        "MDC_LANDMR": 0.0, 
+        "ADDRESS": "14450 BOGGS DR", 
+        "FOLIO": "3050190010010", 
+        "TYPE": "R", 
+        "ZIP5": "33176"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.31129764267398, 
+          25.68791356453497
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PERIMETER": 0.0, 
+        "LANDMRKS_": 157, 
+        "NAME": "Shops at Dadeland", 
+        "DNAME": null, 
+        "Y_COORD": 492854.313, 
+        "PID": "50020763", 
+        "LANDMRKS_I": 157, 
+        "X_COORD": 882968.875, 
+        "TTRRSS": "554002", 
+        "MDC_LANDMR": 0.0, 
+        "ADDRESS": "7200 SW 88TH ST", 
+        "FOLIO": "3050020730020", 
+        "TYPE": "R", 
+        "ZIP5": "33156"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.28643391994552, 
+          25.70537526031562
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PERIMETER": 0.0, 
+        "LANDMRKS_": 158, 
+        "NAME": "Shops at Sunset Place", 
+        "DNAME": null, 
+        "Y_COORD": 499244.344, 
+        "PID": "40251510", 
+        "LANDMRKS_I": 158, 
+        "X_COORD": 891122.938, 
+        "TTRRSS": "544025", 
+        "MDC_LANDMR": 0.0, 
+        "ADDRESS": "5715 SUNSET DR", 
+        "FOLIO": "0940250310060", 
+        "TYPE": "R", 
+        "ZIP5": "33143"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.39899824060504, 
+          25.684930894909307
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PERIMETER": 0.0, 
+        "LANDMRKS_": 159, 
+        "NAME": "Shops of Kendall", 
+        "DNAME": null, 
+        "Y_COORD": 491629.344, 
+        "PID": "59011806", 
+        "LANDMRKS_I": 159, 
+        "X_COORD": 854091.688, 
+        "TTRRSS": "553901", 
+        "MDC_LANDMR": 0.0, 
+        "ADDRESS": "12502 N  KENDALL DR", 
+        "FOLIO": "3059010080010", 
+        "TYPE": "R", 
+        "ZIP5": "22186"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.16724005234815, 
+          25.945682851469353
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PERIMETER": 0.0, 
+        "LANDMRKS_": 160, 
+        "NAME": "Skylake Mall", 
+        "DNAME": null, 
+        "Y_COORD": 586818.875, 
+        "PID": "22050879", 
+        "LANDMRKS_I": 160, 
+        "X_COORD": 929818.5, 
+        "TTRRSS": "524205", 
+        "MDC_LANDMR": 0.0, 
+        "ADDRESS": "1698 NE MIAMI GARDENS DR", 
+        "FOLIO": "3022050170130", 
+        "TYPE": "R", 
+        "ZIP5": "33179"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.194743989715, 
+          25.775786459025888
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PERIMETER": 0.0, 
+        "LANDMRKS_": 161, 
+        "NAME": "South Dade Government Ctr", 
+        "DNAME": null, 
+        "Y_COORD": 525009.938, 
+        "PID": "41010356", 
+        "LANDMRKS_I": 161, 
+        "X_COORD": 921158.688, 
+        "TTRRSS": "544101", 
+        "MDC_LANDMR": 0.0, 
+        "ADDRESS": "175 NW 1ST AVE", 
+        "FOLIO": "0101100601040", 
+        "TYPE": "G", 
+        "ZIP5": "33128"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.4592161875859, 
+          25.50231879567448
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PERIMETER": 0.0, 
+        "LANDMRKS_": 162, 
+        "NAME": "South Dade High School", 
+        "DNAME": "SCHOOL", 
+        "Y_COORD": 425174.156, 
+        "PID": "79050111", 
+        "LANDMRKS_I": 162, 
+        "X_COORD": 834530.625, 
+        "TTRRSS": "573905", 
+        "MDC_LANDMR": 0.0, 
+        "ADDRESS": "28401 SW 167TH AV", 
+        "FOLIO": "3079050000180", 
+        "TYPE": "S", 
+        "ZIP5": "33030"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.29453928230775, 
+          25.701347951038997
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PERIMETER": 0.0, 
+        "LANDMRKS_": 163, 
+        "NAME": "South Miami Hospital", 
+        "DNAME": null, 
+        "Y_COORD": 497766.25, 
+        "PID": "40360176", 
+        "LANDMRKS_I": 163, 
+        "X_COORD": 888461.813, 
+        "TTRRSS": "544036", 
+        "MDC_LANDMR": 0.0, 
+        "ADDRESS": "7400 SW 62ND AV", 
+        "FOLIO": "0940360000290", 
+        "TYPE": "H", 
+        "ZIP5": "33143"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.28907899473128, 
+          25.705037728997887
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PERIMETER": 0.0, 
+        "LANDMRKS_": 164, 
+        "NAME": "South Miami Station", 
+        "DNAME": "METRO RAIL STATION", 
+        "Y_COORD": 499116.969, 
+        "PID": "40251782", 
+        "LANDMRKS_I": 164, 
+        "X_COORD": 890252.625, 
+        "TTRRSS": "544025", 
+        "MDC_LANDMR": 0.0, 
+        "ADDRESS": "5949 SUNSET DR", 
+        "FOLIO": "0940250000951", 
+        "TYPE": "M", 
+        "ZIP5": "33143"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.31104282047087, 
+          25.81064887807865
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PERIMETER": 0.0, 
+        "LANDMRKS_": 165, 
+        "NAME": "Stockade", 
+        "DNAME": null, 
+        "Y_COORD": 537464.063, 
+        "PID": "30260147", 
+        "LANDMRKS_I": 165, 
+        "X_COORD": 882819.75, 
+        "TTRRSS": "534026", 
+        "MDC_LANDMR": 0.0, 
+        "ADDRESS": "6950 NW 41ST ST", 
+        "FOLIO": "3030260000020", 
+        "TYPE": "G", 
+        "ZIP5": "33166"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.4237795943845, 
+          25.649292175082277
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PERIMETER": 0.0, 
+        "LANDMRKS_": 166, 
+        "NAME": "Tamiami Airport", 
+        "DNAME": null, 
+        "Y_COORD": 478640.094, 
+        "PID": "59150001", 
+        "LANDMRKS_I": 166, 
+        "X_COORD": 845986.813, 
+        "TTRRSS": "553915", 
+        "MDC_LANDMR": 0.0, 
+        "ADDRESS": "12750 SW 137TH AVE", 
+        "FOLIO": "3059150000010", 
+        "TYPE": "A", 
+        "ZIP5": "33186"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.37862114776644, 
+          25.75010311527617
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PERIMETER": 0.0, 
+        "LANDMRKS_": 167, 
+        "NAME": "Tamiami Park", 
+        "DNAME": "TAMIAMI PARK", 
+        "Y_COORD": 515347.531, 
+        "PID": "40070007", 
+        "LANDMRKS_I": 167, 
+        "X_COORD": 860691.063, 
+        "TTRRSS": "544007", 
+        "MDC_LANDMR": 0.0, 
+        "ADDRESS": "11201 SW 24TH ST", 
+        "FOLIO": "3040070000020", 
+        "TYPE": "R", 
+        "ZIP5": "33165"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.19256097380705, 
+          25.764016231928142
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PERIMETER": 0.0, 
+        "LANDMRKS_": 168, 
+        "NAME": "Tenth St Mover Station", 
+        "DNAME": "METRO MOVER STATION", 
+        "Y_COORD": 520736.25, 
+        "PID": null, 
+        "LANDMRKS_I": 168, 
+        "X_COORD": 921903.313, 
+        "TTRRSS": null, 
+        "MDC_LANDMR": 0.0, 
+        "ADDRESS": "1011 SW 1ST AVE", 
+        "FOLIO": null, 
+        "TYPE": null, 
+        "ZIP5": null
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.31370451541166, 
+          25.808811207334774
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PERIMETER": 0.0, 
+        "LANDMRKS_": 169, 
+        "NAME": "TGK", 
+        "DNAME": null, 
+        "Y_COORD": 536791.563, 
+        "PID": "30260020", 
+        "LANDMRKS_I": 169, 
+        "X_COORD": 881947.563, 
+        "TTRRSS": "534026", 
+        "MDC_LANDMR": 0.0, 
+        "ADDRESS": "7200 NW 36TH ST", 
+        "FOLIO": "3030260000040", 
+        "TYPE": "R", 
+        "ZIP5": "33166"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.33927890340084, 
+          25.645293436068236
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PERIMETER": 0.0, 
+        "LANDMRKS_": 170, 
+        "NAME": "The Falls", 
+        "DNAME": null, 
+        "Y_COORD": 477316.813, 
+        "PID": "50160879", 
+        "LANDMRKS_I": 170, 
+        "X_COORD": 873831.25, 
+        "TTRRSS": "554016", 
+        "MDC_LANDMR": 0.0, 
+        "ADDRESS": "8888 SW 136TH ST", 
+        "FOLIO": "3050160480010", 
+        "TYPE": "R", 
+        "ZIP5": "33176"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.17309324104104, 
+          25.92670154438928
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PERIMETER": 0.0, 
+        "LANDMRKS_": 171, 
+        "NAME": "The Mall at 163rd Street", 
+        "DNAME": null, 
+        "Y_COORD": 579907.438, 
+        "PID": "22171846", 
+        "LANDMRKS_I": 171, 
+        "X_COORD": 927938.563, 
+        "TTRRSS": "524217", 
+        "MDC_LANDMR": 0.0, 
+        "ADDRESS": "1421 NE 163RD ST", 
+        "FOLIO": "3022170010010", 
+        "TYPE": "R", 
+        "ZIP5": "33162"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.1935085725651, 
+          25.772023513158295
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PERIMETER": 0.0, 
+        "LANDMRKS_": 172, 
+        "NAME": "Third Street Mover Station", 
+        "DNAME": "METRO MOVER STATION", 
+        "Y_COORD": 523644.719, 
+        "PID": null, 
+        "LANDMRKS_I": 172, 
+        "X_COORD": 921573.625, 
+        "TTRRSS": null, 
+        "MDC_LANDMR": 0.0, 
+        "ADDRESS": "250 S MIAMI AVE", 
+        "FOLIO": null, 
+        "TYPE": null, 
+        "ZIP5": null
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.3848184604788, 
+          25.68954690975652
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PERIMETER": 0.0, 
+        "LANDMRKS_": 173, 
+        "NAME": "Town and Country Mall", 
+        "DNAME": null, 
+        "Y_COORD": 493328.531, 
+        "PID": "49380368", 
+        "LANDMRKS_I": 173, 
+        "X_COORD": 858753.75, 
+        "TTRRSS": "543936", 
+        "MDC_LANDMR": 0.0, 
+        "ADDRESS": "8505 MILLS DR", 
+        "FOLIO": "3049360070050", 
+        "TYPE": "R", 
+        "ZIP5": "33183"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.25979259983954, 
+          25.845437045752682
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PERIMETER": 0.0, 
+        "LANDMRKS_": 174, 
+        "NAME": "Tri Rail Station", 
+        "DNAME": "TRI RAIL", 
+        "Y_COORD": 550199.938, 
+        "PID": "31081021", 
+        "LANDMRKS_I": 174, 
+        "X_COORD": 899609.438, 
+        "TTRRSS": "534108", 
+        "MDC_LANDMR": 0.0, 
+        "ADDRESS": "1125 E 25TH ST", 
+        "FOLIO": "0431080022480", 
+        "TYPE": "M", 
+        "ZIP5": "33013"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.25843626419751, 
+          25.796253360307198
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PERIMETER": 0.0, 
+        "LANDMRKS_": 175, 
+        "NAME": "Tri Rail Miami Airport Station", 
+        "DNAME": "METRO RAIL STATION", 
+        "Y_COORD": 532325.875, 
+        "PID": "31290193", 
+        "LANDMRKS_I": 175, 
+        "X_COORD": 900156.313, 
+        "TTRRSS": "534129", 
+        "MDC_LANDMR": 0.0, 
+        "ADDRESS": "3797 NW  21ST ST", 
+        "FOLIO": "3031290140011", 
+        "TYPE": "M", 
+        "ZIP5": "33142"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.36036437630956, 
+          25.72409533698016
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PERIMETER": 0.0, 
+        "LANDMRKS_": 176, 
+        "NAME": "Tropical Estates Park", 
+        "DNAME": null, 
+        "Y_COORD": 505923.563, 
+        "PID": "40201102", 
+        "LANDMRKS_I": 176, 
+        "X_COORD": 866746.188, 
+        "TTRRSS": "544020", 
+        "MDC_LANDMR": 0.0, 
+        "ADDRESS": "10201 SW 48TH ST", 
+        "FOLIO": "3040200040010", 
+        "TYPE": "R", 
+        "ZIP5": "33165"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.3230733118691, 
+          25.72780989771455
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PERIMETER": 0.0, 
+        "LANDMRKS_": 177, 
+        "NAME": "Tropical Park", 
+        "DNAME": "TROPICAL PARK", 
+        "Y_COORD": 507334.875, 
+        "PID": "40220004", 
+        "LANDMRKS_I": 177, 
+        "X_COORD": 879016.5, 
+        "TTRRSS": "544022", 
+        "MDC_LANDMR": 0.0, 
+        "ADDRESS": "7900 BIRD RD", 
+        "FOLIO": "3040220020010", 
+        "TYPE": "R", 
+        "ZIP5": "33155"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.40591680710217, 
+          25.67880203943951
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PERIMETER": 0.0, 
+        "LANDMRKS_": 178, 
+        "NAME": "University Country Club", 
+        "DNAME": null, 
+        "Y_COORD": 489391.5, 
+        "PID": "59020309", 
+        "LANDMRKS_I": 178, 
+        "X_COORD": 851823.188, 
+        "TTRRSS": "553902", 
+        "MDC_LANDMR": 0.0, 
+        "ADDRESS": "9400 SW 130TH AV", 
+        "FOLIO": "3059020000010", 
+        "TYPE": "R", 
+        "ZIP5": "33186"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.27761841534965, 
+          25.72242806805247
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PERIMETER": 0.0, 
+        "LANDMRKS_": 179, 
+        "NAME": "University of Miami", 
+        "DNAME": null, 
+        "Y_COORD": 505458.125, 
+        "PID": "41190810", 
+        "LANDMRKS_I": 179, 
+        "X_COORD": 893991.813, 
+        "TTRRSS": "544119", 
+        "MDC_LANDMR": 0.0, 
+        "ADDRESS": "1311 MILLER DR", 
+        "FOLIO": "0341300150030", 
+        "TYPE": "C", 
+        "ZIP5": "33146"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.27697533138442, 
+          25.714817002488456
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PERIMETER": 0.0, 
+        "LANDMRKS_": 180, 
+        "NAME": "University Station", 
+        "DNAME": "METRO RAIL STATION", 
+        "Y_COORD": 502692.969, 
+        "PID": "41301060", 
+        "LANDMRKS_I": 180, 
+        "X_COORD": 894218.688, 
+        "TTRRSS": "544130", 
+        "MDC_LANDMR": 0.0, 
+        "ADDRESS": "5500 PONCE DE LEON BD", 
+        "FOLIO": "0341200000031", 
+        "TYPE": "M", 
+        "ZIP5": "33146"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.211631053142, 
+          25.744700903772387
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PERIMETER": 0.0, 
+        "LANDMRKS_": 181, 
+        "NAME": "Vizcaya", 
+        "DNAME": "VIZCAYA", 
+        "Y_COORD": 513677.813, 
+        "PID": "41140481", 
+        "LANDMRKS_I": 181, 
+        "X_COORD": 915668.875, 
+        "TTRRSS": "544114", 
+        "MDC_LANDMR": 0.0, 
+        "ADDRESS": "50 SW 32ND RD", 
+        "FOLIO": "0141140050010", 
+        "TYPE": "R", 
+        "ZIP5": "33129"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.209728733655, 
+          25.74596865808712
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PERIMETER": 0.0, 
+        "LANDMRKS_": 182, 
+        "NAME": "Vizcaya Museum", 
+        "DNAME": null, 
+        "Y_COORD": 514142.344, 
+        "PID": "41140507", 
+        "LANDMRKS_I": 182, 
+        "X_COORD": 916292.313, 
+        "TTRRSS": "544114", 
+        "MDC_LANDMR": 0.0, 
+        "ADDRESS": "3251 S MIAMI AV", 
+        "FOLIO": "0141140130010", 
+        "TYPE": "R", 
+        "ZIP5": "33129"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.21176517014706, 
+          25.74969652794437
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PERIMETER": 0.0, 
+        "LANDMRKS_": 183, 
+        "NAME": "Vizcaya Station", 
+        "DNAME": "METRO RAIL STATION", 
+        "Y_COORD": 515493.281, 
+        "PID": "41140104", 
+        "LANDMRKS_I": 183, 
+        "X_COORD": 915613.875, 
+        "TTRRSS": "534126", 
+        "MDC_LANDMR": 0.0, 
+        "ADDRESS": "3205 SW 1ST AV", 
+        "FOLIO": "0101000000022", 
+        "TYPE": "R", 
+        "ZIP5": "33129"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.15994926681392, 
+          25.708748814606455
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PERIMETER": 0.0, 
+        "LANDMRKS_": 0, 
+        "NAME": "Crandon Park Tennis Center", 
+        "DNAME": null, 
+        "Y_COORD": 500715.45475, 
+        "PID": "485564", 
+        "LANDMRKS_I": 0, 
+        "X_COORD": 932764.53975, 
+        "TTRRSS": "544229", 
+        "MDC_LANDMR": 0.0, 
+        "ADDRESS": "7300 Crandon Blvd", 
+        "FOLIO": "3042320010010", 
+        "TYPE": "R", 
+        "ZIP5": "33149"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.21145365117877, 
+          25.790606811712188
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PERIMETER": 0.0, 
+        "LANDMRKS_": 92, 
+        "NAME": "Jackson Memorial Hospital", 
+        "DNAME": null, 
+        "Y_COORD": 530363.375, 
+        "PID": "31350183", 
+        "LANDMRKS_I": 92, 
+        "X_COORD": 915627.438, 
+        "TTRRSS": "534135", 
+        "MDC_LANDMR": 0.0, 
+        "ADDRESS": "1638 NW 10TH AVE", 
+        "FOLIO": "0131350030030", 
+        "TYPE": "H", 
+        "ZIP5": "33136"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.16427457636965, 
+          25.8792274413147
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PERIMETER": 0.0, 
+        "LANDMRKS_": 93, 
+        "NAME": "Jockey Club", 
+        "DNAME": null, 
+        "Y_COORD": 562670.188, 
+        "PID": "22321967", 
+        "LANDMRKS_I": 93, 
+        "X_COORD": 930947.0, 
+        "TTRRSS": "524232", 
+        "MDC_LANDMR": 0.0, 
+        "ADDRESS": "11111 BISCAYNE BD", 
+        "FOLIO": "3022320090010", 
+        "TYPE": "R", 
+        "ZIP5": "33181"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.25064681517703, 
+          25.79968711942939
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PERIMETER": 0.0, 
+        "LANDMRKS_": 94, 
+        "NAME": "Jones Boat Yard", 
+        "DNAME": null, 
+        "Y_COORD": 533588.438, 
+        "PID": "31280947", 
+        "LANDMRKS_I": 94, 
+        "X_COORD": 902712.188, 
+        "TTRRSS": "534128", 
+        "MDC_LANDMR": 0.0, 
+        "ADDRESS": "3399 NW SOUTH RIVER DR", 
+        "FOLIO": "3031280090011", 
+        "TYPE": "R", 
+        "ZIP5": "33142"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.23331973548355, 
+          25.825190285952633
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PERIMETER": 0.0, 
+        "LANDMRKS_": 95, 
+        "NAME": "Joseph Caleb Center", 
+        "DNAME": null, 
+        "Y_COORD": 542890.813, 
+        "PID": "31152183", 
+        "LANDMRKS_I": 95, 
+        "X_COORD": 908359.188, 
+        "TTRRSS": "534115", 
+        "MDC_LANDMR": 0.0, 
+        "ADDRESS": "5400 NW 22ND AV", 
+        "FOLIO": "3031150000310", 
+        "TYPE": "H", 
+        "ZIP5": "33142"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.24059932319886, 
+          25.808828092204596
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PERIMETER": 0.0, 
+        "LANDMRKS_": 96, 
+        "NAME": "Juvenile Assessment Center", 
+        "DNAME": null, 
+        "Y_COORD": 536929.813, 
+        "PID": "31280002", 
+        "LANDMRKS_I": 96, 
+        "X_COORD": 905998.875, 
+        "TTRRSS": "534128", 
+        "MDC_LANDMR": 0.0, 
+        "ADDRESS": "2700 NW 36TH ST", 
+        "FOLIO": "0131270010450", 
+        "TYPE": "G", 
+        "ZIP5": "33142"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.42018863021019, 
+          25.686777120166212
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PERIMETER": 0.0, 
+        "LANDMRKS_": 97, 
+        "NAME": "Kendale Lakes Mall", 
+        "DNAME": null, 
+        "Y_COORD": 492269.188, 
+        "PID": "49341123", 
+        "LANDMRKS_I": 97, 
+        "X_COORD": 847110.063, 
+        "TTRRSS": "543934", 
+        "MDC_LANDMR": 0.0, 
+        "ADDRESS": "13929 SW 88TH ST", 
+        "FOLIO": "3049340210060", 
+        "TYPE": "R", 
+        "ZIP5": "33186"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.39111357232466, 
+          25.685710976188545
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PERIMETER": 0.0, 
+        "LANDMRKS_": 98, 
+        "NAME": "Kendall Gate Mall", 
+        "DNAME": null, 
+        "Y_COORD": 491924.75, 
+        "PID": "59010004", 
+        "LANDMRKS_I": 98, 
+        "X_COORD": 856687.063, 
+        "TTRRSS": "553901", 
+        "MDC_LANDMR": 0.0, 
+        "ADDRESS": "12000 SW 88 ST", 
+        "FOLIO": "3059010700040", 
+        "TYPE": "R", 
+        "ZIP5": "33186"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.37421874145244, 
+          25.694534270857496
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PERIMETER": 0.0, 
+        "LANDMRKS_": 99, 
+        "NAME": "Kendall Indian Hammocks Park", 
+        "DNAME": null, 
+        "Y_COORD": 495157.594, 
+        "PID": "40311213", 
+        "LANDMRKS_I": 99, 
+        "X_COORD": 862235.875, 
+        "TTRRSS": "544031", 
+        "MDC_LANDMR": 0.0, 
+        "ADDRESS": "11395 SW 79TH ST", 
+        "FOLIO": "3040310000170", 
+        "TYPE": "R", 
+        "ZIP5": "33173"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.36480232942205, 
+          25.68474215793426
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PERIMETER": 0.0, 
+        "LANDMRKS_": 100, 
+        "NAME": "Kendall Mall", 
+        "DNAME": null, 
+        "Y_COORD": 491613.406, 
+        "PID": "50050028", 
+        "LANDMRKS_I": 100, 
+        "X_COORD": 865353.875, 
+        "TTRRSS": "554005", 
+        "MDC_LANDMR": 0.0, 
+        "ADDRESS": "8831 SW 107TH AV", 
+        "FOLIO": "3050050041630", 
+        "TYPE": "R", 
+        "ZIP5": "33176"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.39448892651686, 
+          25.686546832678516
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PERIMETER": 0.0, 
+        "LANDMRKS_": 101, 
+        "NAME": "Kendall Village West", 
+        "DNAME": null, 
+        "Y_COORD": 492223.438, 
+        "PID": "49360432", 
+        "LANDMRKS_I": 101, 
+        "X_COORD": 855574.063, 
+        "TTRRSS": "543936", 
+        "MDC_LANDMR": 0.0, 
+        "ADDRESS": "12405 SW 88TH ST", 
+        "FOLIO": "3049360220010", 
+        "TYPE": "R", 
+        "ZIP5": "33183"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.16484527902807, 
+          25.690394099954247
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PERIMETER": 0.0, 
+        "LANDMRKS_": 102, 
+        "NAME": "Key Biscayne Station", 
+        "DNAME": null, 
+        "Y_COORD": 494033.938, 
+        "PID": "52050257", 
+        "LANDMRKS_I": 102, 
+        "X_COORD": 931194.563, 
+        "TTRRSS": "554205", 
+        "MDC_LANDMR": 0.0, 
+        "ADDRESS": "85 W ENID DR", 
+        "FOLIO": "2452050010020", 
+        "TYPE": "G", 
+        "ZIP5": "33149"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.19137789709718, 
+          25.771865098618427
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PERIMETER": 0.0, 
+        "LANDMRKS_": 103, 
+        "NAME": "Knight Center Mover Station", 
+        "DNAME": "METRO MOVER STATION", 
+        "Y_COORD": 523591.438, 
+        "PID": null, 
+        "LANDMRKS_I": 103, 
+        "X_COORD": 922275.188, 
+        "TTRRSS": null, 
+        "MDC_LANDMR": 0.0, 
+        "ADDRESS": "100 SE 2ND ST", 
+        "FOLIO": null, 
+        "TYPE": null, 
+        "ZIP5": null
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.49116319229036, 
+          25.754151234326102
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PERIMETER": 0.0, 
+        "LANDMRKS_": 104, 
+        "NAME": "Krome Detention Center", 
+        "DNAME": null, 
+        "Y_COORD": 516660.094, 
+        "PID": "48130003", 
+        "LANDMRKS_I": 104, 
+        "X_COORD": 823641.938, 
+        "TTRRSS": "543812", 
+        "MDC_LANDMR": 0.0, 
+        "ADDRESS": "18201 SW 12TH ST", 
+        "FOLIO": "3048120000020", 
+        "TYPE": "G", 
+        "ZIP5": "33194"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.4044910780783, 
+          25.599655673791744
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PERIMETER": 0.0, 
+        "LANDMRKS_": 105, 
+        "NAME": "Larry & Penny Thompson Park", 
+        "DNAME": null, 
+        "Y_COORD": 460627.875, 
+        "PID": "59350004", 
+        "LANDMRKS_I": 105, 
+        "X_COORD": 852422.125, 
+        "TTRRSS": "553935", 
+        "MDC_LANDMR": 0.0, 
+        "ADDRESS": "12451 SW 184TH ST", 
+        "FOLIO": "3059360000030", 
+        "TYPE": "R", 
+        "ZIP5": "33177"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.14501908138539, 
+          25.950034395629526
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PERIMETER": 0.0, 
+        "LANDMRKS_": 107, 
+        "NAME": "Loehmanns Fashion Island", 
+        "DNAME": null, 
+        "Y_COORD": 588447.625, 
+        "PID": "22030377", 
+        "LANDMRKS_I": 107, 
+        "X_COORD": 937110.5, 
+        "TTRRSS": "524203", 
+        "MDC_LANDMR": 0.0, 
+        "ADDRESS": "2711 NE 187TH ST", 
+        "FOLIO": "2822030300020", 
+        "TYPE": "G", 
+        "ZIP5": "33180"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.38130762224287, 
+          25.70288090925189
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PERIMETER": 0.0, 
+        "LANDMRKS_": 108, 
+        "NAME": "Loehmanns In Kendall", 
+        "DNAME": null, 
+        "Y_COORD": 498180.219, 
+        "PID": "40301677", 
+        "LANDMRKS_I": 108, 
+        "X_COORD": 859887.25, 
+        "TTRRSS": "544030", 
+        "MDC_LANDMR": 0.0, 
+        "ADDRESS": "6801 SW 117TH AV", 
+        "FOLIO": "3040300740010", 
+        "TYPE": "G", 
+        "ZIP5": "33183"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.32282045108168, 
+          25.773551245843333
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PERIMETER": 0.0, 
+        "LANDMRKS_": 109, 
+        "NAME": "Mall of the Americas", 
+        "DNAME": null, 
+        "Y_COORD": 523960.406, 
+        "PID": "40030002", 
+        "LANDMRKS_I": 109, 
+        "X_COORD": 879014.375, 
+        "TTRRSS": "544003", 
+        "MDC_LANDMR": 0.0, 
+        "ADDRESS": "7827 W FLAGLER ST", 
+        "FOLIO": "3040030080010", 
+        "TYPE": "R", 
+        "ZIP5": "33144"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.24119519896347, 
+          25.832386332685854
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PERIMETER": 0.0, 
+        "LANDMRKS_": 110, 
+        "NAME": "Martin L King Station", 
+        "DNAME": "METRO RAIL STATION", 
+        "Y_COORD": 545491.313, 
+        "PID": "31151059", 
+        "LANDMRKS_I": 110, 
+        "X_COORD": 905753.438, 
+        "TTRRSS": "534014", 
+        "MDC_LANDMR": 0.0, 
+        "ADDRESS": "6205 NW 27TH AV", 
+        "FOLIO": "3040350001052", 
+        "TYPE": "M", 
+        "ZIP5": "33147"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.24897506480349, 
+          25.830614862958164
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PERIMETER": 0.0, 
+        "LANDMRKS_": 111, 
+        "NAME": "Martin Luther King Park", 
+        "DNAME": null, 
+        "Y_COORD": 544832.75, 
+        "PID": "31160737", 
+        "LANDMRKS_I": 111, 
+        "X_COORD": 903198.063, 
+        "TTRRSS": "534116", 
+        "MDC_LANDMR": 0.0, 
+        "ADDRESS": "6160 NW 32ND CT", 
+        "FOLIO": "3031160090010", 
+        "TYPE": "R", 
+        "ZIP5": "33142"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.26430719966665, 
+          25.672097327515594
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PERIMETER": 0.0, 
+        "LANDMRKS_": 112, 
+        "NAME": "Matheson Hammock Park", 
+        "DNAME": null, 
+        "Y_COORD": 487189.156, 
+        "PID": "51050221", 
+        "LANDMRKS_I": 112, 
+        "X_COORD": 898476.188, 
+        "TTRRSS": "554108", 
+        "MDC_LANDMR": 0.0, 
+        "ADDRESS": "9610 OLD CUTLER RD", 
+        "FOLIO": "0351050000010", 
+        "TYPE": "R", 
+        "ZIP5": "33156"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.26430719966665, 
+          25.672097327515594
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PERIMETER": 0.0, 
+        "LANDMRKS_": 113, 
+        "NAME": "Matheson Marina", 
+        "DNAME": "MATHESON HAMMOCK PARK", 
+        "Y_COORD": 487189.156, 
+        "PID": "51080005", 
+        "LANDMRKS_I": 113, 
+        "X_COORD": 898476.188, 
+        "TTRRSS": "554108", 
+        "MDC_LANDMR": 0.0, 
+        "ADDRESS": "9610 OLD CUTLER RD", 
+        "FOLIO": "0351050000010", 
+        "TYPE": "R", 
+        "ZIP5": "33156"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.3744384047128, 
+          25.676388115612003
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PERIMETER": 0.0, 
+        "LANDMRKS_": 114, 
+        "NAME": "MDCC Kendall Campus", 
+        "DNAME": null, 
+        "Y_COORD": 488561.969, 
+        "PID": "50060597", 
+        "LANDMRKS_I": 114, 
+        "X_COORD": 862194.75, 
+        "TTRRSS": "554006", 
+        "MDC_LANDMR": 0.0, 
+        "ADDRESS": "11101 SW 104TH  ST", 
+        "FOLIO": "3050060000811", 
+        "TYPE": "C", 
+        "ZIP5": "33176"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.3441309756477, 
+          25.799285372531727
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PERIMETER": 0.0, 
+        "LANDMRKS_": 115, 
+        "NAME": "MDPD Headquarters", 
+        "DNAME": null, 
+        "Y_COORD": 533278.25, 
+        "PID": "30280054", 
+        "LANDMRKS_I": 115, 
+        "X_COORD": 871954.688, 
+        "TTRRSS": "534028", 
+        "MDC_LANDMR": 0.0, 
+        "ADDRESS": "9105 NW 25TH ST", 
+        "FOLIO": "3030280110010", 
+        "TYPE": "G", 
+        "ZIP5": "33172"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.31061128002415, 
+          25.77835079029556
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PERIMETER": 0.0, 
+        "LANDMRKS_": 116, 
+        "NAME": "Merchandise Mart", 
+        "DNAME": null, 
+        "Y_COORD": 525725.688, 
+        "PID": "30520032", 
+        "LANDMRKS_I": 116, 
+        "X_COORD": 883023.188, 
+        "TTRRSS": "534052", 
+        "MDC_LANDMR": 0.0, 
+        "ADDRESS": "777 NW 72ND AV", 
+        "FOLIO": "3030520000050", 
+        "TYPE": "R", 
+        "ZIP5": "33126"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.21251016884888, 
+          25.740664167000222
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PERIMETER": 0.0, 
+        "LANDMRKS_": 117, 
+        "NAME": "Mercy Hospital", 
+        "DNAME": null, 
+        "Y_COORD": 512208.875, 
+        "PID": "41140805", 
+        "LANDMRKS_I": 117, 
+        "X_COORD": 915388.25, 
+        "TTRRSS": "544114", 
+        "MDC_LANDMR": 0.0, 
+        "ADDRESS": "1620 S MIAMI AV", 
+        "FOLIO": "0141140270012", 
+        "TYPE": "H", 
+        "ZIP5": "33133"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.40160632122482, 
+          25.60672417139505
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PERIMETER": 0.0, 
+        "LANDMRKS_": 118, 
+        "NAME": "Metro Zoo", 
+        "DNAME": "ZOO MAIN GATE", 
+        "Y_COORD": 463201.188, 
+        "PID": "59250003", 
+        "LANDMRKS_I": 118, 
+        "X_COORD": 853361.25, 
+        "TTRRSS": "553935", 
+        "MDC_LANDMR": 0.0, 
+        "ADDRESS": "12400 SW 152ND ST", 
+        "FOLIO": "3059360000050", 
+        "TYPE": "R", 
+        "ZIP5": "33177"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.19481871287812, 
+          25.781288231283234
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PERIMETER": 0.0, 
+        "LANDMRKS_": 119, 
+        "NAME": "Miami Arena", 
+        "DNAME": "MIAMI ARENA", 
+        "Y_COORD": 527009.5, 
+        "PID": "31361476", 
+        "LANDMRKS_I": 119, 
+        "X_COORD": 921121.875, 
+        "TTRRSS": "534136", 
+        "MDC_LANDMR": 0.0, 
+        "ADDRESS": "50 NW 8TH ST", 
+        "FOLIO": "0131370250011", 
+        "TYPE": "R", 
+        "ZIP5": "33136"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.1935827013485, 
+          25.773390624052578
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PERIMETER": 0.0, 
+        "LANDMRKS_": 120, 
+        "NAME": "Miami Avenue Mover Station", 
+        "DNAME": "METRO MOVER STATION", 
+        "Y_COORD": 524141.469, 
+        "PID": null, 
+        "LANDMRKS_I": 120, 
+        "X_COORD": 921546.188, 
+        "TTRRSS": null, 
+        "MDC_LANDMR": 0.0, 
+        "ADDRESS": "90 S MIAMI AVE", 
+        "FOLIO": null, 
+        "TYPE": null, 
+        "ZIP5": null
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.13348037920932, 
+          25.7947331961116
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PERIMETER": 0.0, 
+        "LANDMRKS_": 121, 
+        "NAME": "Miami Beach Convention Ctr", 
+        "DNAME": null, 
+        "Y_COORD": 532024.438, 
+        "PID": "32340046", 
+        "LANDMRKS_I": 121, 
+        "X_COORD": 941274.813, 
+        "TTRRSS": "534234", 
+        "MDC_LANDMR": 0.0, 
+        "ADDRESS": "1901 CONVENTION CENTER DR", 
+        "FOLIO": "0232270000090", 
+        "TYPE": "R", 
+        "ZIP5": "33139"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.22837996112624, 
+          25.865234165626358
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PERIMETER": 0.0, 
+        "LANDMRKS_": 122, 
+        "NAME": "Miami Central High School", 
+        "DNAME": null, 
+        "Y_COORD": 557455.0, 
+        "PID": "31030003", 
+        "LANDMRKS_I": 122, 
+        "X_COORD": 909898.688, 
+        "TTRRSS": "534103", 
+        "MDC_LANDMR": 0.0, 
+        "ADDRESS": "1895 NW 95TH ST", 
+        "FOLIO": "3031030000020", 
+        "TYPE": "S", 
+        "ZIP5": "33147"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.2945259671638, 
+          25.741414743937767
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PERIMETER": 0.0, 
+        "LANDMRKS_": 123, 
+        "NAME": "Miami Childrens Hospital", 
+        "DNAME": null, 
+        "Y_COORD": 512328.906, 
+        "PID": "40130939", 
+        "LANDMRKS_I": 123, 
+        "X_COORD": 888388.375, 
+        "TTRRSS": "544013", 
+        "MDC_LANDMR": 0.0, 
+        "ADDRESS": "3100 SW 62ND AV", 
+        "FOLIO": "3040130090140", 
+        "TYPE": "H", 
+        "ZIP5": "33155"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.24701019320115, 
+          25.877632068567934
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PERIMETER": 0.0, 
+        "LANDMRKS_": 124, 
+        "NAME": "MDCC North Campus", 
+        "DNAME": "MIAMI DADE (N. CAMPUS)", 
+        "Y_COORD": 561925.688, 
+        "PID": "21330002", 
+        "LANDMRKS_I": 124, 
+        "X_COORD": 903746.438, 
+        "TTRRSS": "524133", 
+        "MDC_LANDMR": 0.0, 
+        "ADDRESS": "11380 NW 27TH AVE", 
+        "FOLIO": "3021330010020", 
+        "TYPE": "C", 
+        "ZIP5": "33167"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.3744384047128, 
+          25.676388115612003
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PERIMETER": 0.0, 
+        "LANDMRKS_": 125, 
+        "NAME": "MDCC South Campus", 
+        "DNAME": "MDCC SOUTH CAMPUS", 
+        "Y_COORD": 488561.969, 
+        "PID": "50060597", 
+        "LANDMRKS_I": 125, 
+        "X_COORD": 862194.75, 
+        "TTRRSS": "554006", 
+        "MDC_LANDMR": 0.0, 
+        "ADDRESS": "11101 SW 104TH ST", 
+        "FOLIO": "3050060000811", 
+        "TYPE": "C", 
+        "ZIP5": "33176"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.1909126647357, 
+          25.813526102049316
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PERIMETER": 0.0, 
+        "LANDMRKS_": 126, 
+        "NAME": "Miami Design District", 
+        "DNAME": null, 
+        "Y_COORD": 538734.813, 
+        "PID": "32190616", 
+        "LANDMRKS_I": 126, 
+        "X_COORD": 922335.25, 
+        "TTRRSS": "534219", 
+        "MDC_LANDMR": 0.0, 
+        "ADDRESS": "4001 NE 2ND AVE", 
+        "FOLIO": "0132190140011", 
+        "TYPE": "R", 
+        "ZIP5": "33137"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.28994026678981, 
+          25.79740725106681
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PERIMETER": 0.0, 
+        "LANDMRKS_": 127, 
+        "NAME": "Miami International Airport", 
+        "DNAME": "AIRPORT", 
+        "Y_COORD": 532688.125, 
+        "PID": "30250576", 
+        "LANDMRKS_I": 127, 
+        "X_COORD": 889788.25, 
+        "TTRRSS": "534025", 
+        "MDC_LANDMR": 0.0, 
+        "ADDRESS": "4200 NW 21ST ST", 
+        "FOLIO": "3030250010100", 
+        "TYPE": "A", 
+        "ZIP5": "33122"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.2574840540579, 
+          25.807743083630864
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PERIMETER": 0.0, 
+        "LANDMRKS_": 128, 
+        "NAME": "Miami Jai Alai", 
+        "DNAME": null, 
+        "Y_COORD": 536503.75, 
+        "PID": "31290001", 
+        "LANDMRKS_I": 128, 
+        "X_COORD": 900446.063, 
+        "TTRRSS": "534129", 
+        "MDC_LANDMR": 0.0, 
+        "ADDRESS": "3500 NW 37TH AV", 
+        "FOLIO": "0131290150010", 
+        "TYPE": "R", 
+        "ZIP5": "33142"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.16731068222379, 
+          25.73400340261135
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PERIMETER": 0.0, 
+        "LANDMRKS_": 129, 
+        "NAME": "Miami Seaquarium", 
+        "DNAME": "MIAMI SEAQUARIUM", 
+        "Y_COORD": 509879.281, 
+        "PID": "42200001", 
+        "LANDMRKS_I": 129, 
+        "X_COORD": 930282.688, 
+        "TTRRSS": "544220", 
+        "MDC_LANDMR": 0.0, 
+        "ADDRESS": "4400 RICKENBACKER CY", 
+        "FOLIO": "3042200000010", 
+        "TYPE": "R", 
+        "ZIP5": "33149"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.48429350596638, 
+          25.76339735552689
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PERIMETER": 0.0, 
+        "LANDMRKS_": 130, 
+        "NAME": "Miccosukee Indian Village", 
+        "DNAME": null, 
+        "Y_COORD": 520029.406, 
+        "PID": "48010007", 
+        "LANDMRKS_I": 130, 
+        "X_COORD": 825889.875, 
+        "TTRRSS": "543801", 
+        "MDC_LANDMR": 0.0, 
+        "ADDRESS": "500 SW 177TH AV", 
+        "FOLIO": "3048010000022", 
+        "TYPE": "R", 
+        "ZIP5": "33194"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.34869900958859, 
+          25.717082805391172
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PERIMETER": 0.0, 
+        "LANDMRKS_": 131, 
+        "NAME": "Miller Drive Park", 
+        "DNAME": null, 
+        "Y_COORD": 503393.594, 
+        "PID": "40211996", 
+        "LANDMRKS_I": 131, 
+        "X_COORD": 870599.313, 
+        "TTRRSS": "544021", 
+        "MDC_LANDMR": 0.0, 
+        "ADDRESS": "5510 SW 94TH CT", 
+        "FOLIO": "3040210181670", 
+        "TYPE": "R", 
+        "ZIP5": "33165"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.41753006309597, 
+          25.713090043763717
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PERIMETER": 0.0, 
+        "LANDMRKS_": 132, 
+        "NAME": "Miller Square Shoppes", 
+        "DNAME": null, 
+        "Y_COORD": 501836.531, 
+        "PID": "49270004", 
+        "LANDMRKS_I": 132, 
+        "X_COORD": 847943.438, 
+        "TTRRSS": "543927", 
+        "MDC_LANDMR": 0.0, 
+        "ADDRESS": "13898 SW 56TH ST", 
+        "FOLIO": "3049270100010", 
+        "TYPE": "R", 
+        "ZIP5": "33175"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.211631053142, 
+          25.744700903772387
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PERIMETER": 0.0, 
+        "LANDMRKS_": 133, 
+        "NAME": "Museum of Science", 
+        "DNAME": null, 
+        "Y_COORD": 513677.813, 
+        "PID": "41140481", 
+        "LANDMRKS_I": 133, 
+        "X_COORD": 915668.875, 
+        "TTRRSS": "544114", 
+        "MDC_LANDMR": 0.0, 
+        "ADDRESS": "50 SW 32ND AV", 
+        "FOLIO": "0141140050010", 
+        "TYPE": "R", 
+        "ZIP5": "33129"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.21807118691602, 
+          25.95218483262949
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PERIMETER": 0.0, 
+        "LANDMRKS_": 134, 
+        "NAME": "Norland High School", 
+        "DNAME": "SCHOOL", 
+        "Y_COORD": 589079.188, 
+        "PID": "21022148", 
+        "LANDMRKS_I": 134, 
+        "X_COORD": 913100.188, 
+        "TTRRSS": "524102", 
+        "MDC_LANDMR": 0.0, 
+        "ADDRESS": "1050 NW 195TH ST", 
+        "FOLIO": "3021020040010", 
+        "TYPE": "S", 
+        "ZIP5": "33169"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.21679227088258, 
+          25.919228298224358
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PERIMETER": 0.0, 
+        "LANDMRKS_": 135, 
+        "NAME": "North Dade Detention Center", 
+        "DNAME": null, 
+        "Y_COORD": 577102.875, 
+        "PID": "21140149", 
+        "LANDMRKS_I": 135, 
+        "X_COORD": 913592.063, 
+        "TTRRSS": "524114", 
+        "MDC_LANDMR": 0.0, 
+        "ADDRESS": "15801 N STATE RD", 
+        "FOLIO": "3021140000120", 
+        "TYPE": "G", 
+        "ZIP5": "33169"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.17527633398232, 
+          25.93122408964853
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PERIMETER": 0.0, 
+        "LANDMRKS_": 136, 
+        "NAME": "N Miami Beach High School", 
+        "DNAME": null, 
+        "Y_COORD": 581546.75, 
+        "PID": "22083907", 
+        "LANDMRKS_I": 136, 
+        "X_COORD": 927210.688, 
+        "TTRRSS": "524208", 
+        "MDC_LANDMR": 0.0, 
+        "ADDRESS": "1247 NE 167TH ST", 
+        "FOLIO": "3022080000042", 
+        "TYPE": "S", 
+        "ZIP5": "33162"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.18285233398669, 
+          25.90060219480915
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PERIMETER": 0.0, 
+        "LANDMRKS_": 137, 
+        "NAME": "N Miami High School", 
+        "DNAME": "SCHOOL", 
+        "Y_COORD": 570400.875, 
+        "PID": "22193054", 
+        "LANDMRKS_I": 137, 
+        "X_COORD": 924790.125, 
+        "TTRRSS": "524219", 
+        "MDC_LANDMR": 0.0, 
+        "ADDRESS": "800 NE 137TH ST", 
+        "FOLIO": "0622190070230", 
+        "TYPE": "S", 
+        "ZIP5": "33161"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.21445639519229, 
+          25.85907249551155
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PERIMETER": 0.0, 
+        "LANDMRKS_": 138, 
+        "NAME": "North Shore Hospital", 
+        "DNAME": null, 
+        "Y_COORD": 555242.563, 
+        "PID": "31021655", 
+        "LANDMRKS_I": 138, 
+        "X_COORD": 914490.75, 
+        "TTRRSS": "534102", 
+        "MDC_LANDMR": 0.0, 
+        "ADDRESS": "1100 NW  95TH ST", 
+        "FOLIO": "3031020310010", 
+        "TYPE": "H", 
+        "ZIP5": "33150"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.22610235642361, 
+          25.84709549756018
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PERIMETER": 0.0, 
+        "LANDMRKS_": 139, 
+        "NAME": "Northside Shopping Center", 
+        "DNAME": null, 
+        "Y_COORD": 550866.563, 
+        "PID": "31101681", 
+        "LANDMRKS_I": 139, 
+        "X_COORD": 910686.5, 
+        "TTRRSS": "534110", 
+        "MDC_LANDMR": 0.0, 
+        "ADDRESS": "7900 NW 27TH AV", 
+        "FOLIO": "3031100000350", 
+        "TYPE": "R", 
+        "ZIP5": "33147"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.24877923997683, 
+          25.845799206349877
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PERIMETER": 0.0, 
+        "LANDMRKS_": 140, 
+        "NAME": "Northside Station", 
+        "DNAME": "METRO RAIL STATION", 
+        "Y_COORD": 550352.125, 
+        "PID": "31090750", 
+        "LANDMRKS_I": 140, 
+        "X_COORD": 903230.938, 
+        "TTRRSS": "534014", 
+        "MDC_LANDMR": 0.0, 
+        "ADDRESS": "3150 NW 79TH ST", 
+        "FOLIO": "3040350001052", 
+        "TYPE": "M", 
+        "ZIP5": "33147"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.30156808975636, 
+          25.839806206319974
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PERIMETER": 0.0, 
+        "LANDMRKS_": 141, 
+        "NAME": "Okeechobee Station", 
+        "DNAME": "MERO RAIL STATION", 
+        "Y_COORD": 548078.125, 
+        "PID": "30130004", 
+        "LANDMRKS_I": 141, 
+        "X_COORD": 885880.563, 
+        "TTRRSS": "534014", 
+        "MDC_LANDMR": 0.0, 
+        "ADDRESS": "2005 OKEECHOBEE RD", 
+        "FOLIO": "3040350001052", 
+        "TYPE": "M", 
+        "ZIP5": "33147"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.18799832733963, 
+          25.789456351813733
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PERIMETER": 0.0, 
+        "LANDMRKS_": 142, 
+        "NAME": "OMNI Mover Station", 
+        "DNAME": "METRO MOVER STATION", 
+        "Y_COORD": 529992.125, 
+        "PID": null, 
+        "LANDMRKS_I": 142, 
+        "X_COORD": 923348.0, 
+        "TTRRSS": null, 
+        "MDC_LANDMR": 0.0, 
+        "ADDRESS": "1455 BISCAYNE BLVD", 
+        "FOLIO": null, 
+        "TYPE": null, 
+        "ZIP5": null
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.26796465692567, 
+          25.90510582507736
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PERIMETER": 0.0, 
+        "LANDMRKS_": 143, 
+        "NAME": "Opa Locka Airport", 
+        "DNAME": "AIRPORT", 
+        "Y_COORD": 571872.563, 
+        "PID": "21200016", 
+        "LANDMRKS_I": 143, 
+        "X_COORD": 896800.75, 
+        "TTRRSS": "524120", 
+        "MDC_LANDMR": 0.0, 
+        "ADDRESS": "14980 NW 44TH CT", 
+        "FOLIO": "0821200000010", 
+        "TYPE": "A", 
+        "ZIP5": "33054"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.21979415782431, 
+          25.77733915633727
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PERIMETER": 0.0, 
+        "LANDMRKS_": 144, 
+        "NAME": "Orange Bowl", 
+        "DNAME": "ORANGE BOWL", 
+        "Y_COORD": 525524.688, 
+        "PID": "41020273", 
+        "LANDMRKS_I": 144, 
+        "X_COORD": 912911.563, 
+        "TTRRSS": "544102", 
+        "MDC_LANDMR": 0.0, 
+        "ADDRESS": "1501 1503 NW 3RD ST", 
+        "FOLIO": "0141020040010", 
+        "TYPE": "R", 
+        "ZIP5": "33125"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.1962819827016, 
+          25.780994024950125
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PERIMETER": 0.0, 
+        "LANDMRKS_": 145, 
+        "NAME": "Overtown Station", 
+        "DNAME": "METRO RAIL STATION", 
+        "Y_COORD": 526899.625, 
+        "PID": "41010013", 
+        "LANDMRKS_I": 145, 
+        "X_COORD": 920641.0, 
+        "TTRRSS": "534126", 
+        "MDC_LANDMR": 0.0, 
+        "ADDRESS": "100 NW 7TH ST", 
+        "FOLIO": "0101000000022", 
+        "TYPE": "M", 
+        "ZIP5": "33136"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.2936127967084, 
+          25.77833838726318
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PERIMETER": 0.0, 
+        "LANDMRKS_": 146, 
+        "NAME": "Pan American Hospital", 
+        "DNAME": null, 
+        "Y_COORD": 525750.813, 
+        "PID": "30510013", 
+        "LANDMRKS_I": 146, 
+        "X_COORD": 888617.063, 
+        "TTRRSS": "534051", 
+        "MDC_LANDMR": 0.0, 
+        "ADDRESS": "5959 NW 7TH ST", 
+        "FOLIO": "0130510040010", 
+        "TYPE": "H", 
+        "ZIP5": "33126"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.19064349611452, 
+          25.782475971349452
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PERIMETER": 0.0, 
+        "LANDMRKS_": 147, 
+        "NAME": "Park West Mover Station", 
+        "DNAME": "METRO MOVER STATION", 
+        "Y_COORD": 527449.625, 
+        "PID": null, 
+        "LANDMRKS_I": 147, 
+        "X_COORD": 922493.188, 
+        "TTRRSS": null, 
+        "MDC_LANDMR": 0.0, 
+        "ADDRESS": "800 NE 2ND AVE", 
+        "FOLIO": null, 
+        "TYPE": null, 
+        "ZIP5": null
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.20333116932034, 
+          25.93080571009916
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PERIMETER": 0.0, 
+        "LANDMRKS_": 148, 
+        "NAME": "Parkway Regional Medical Ctr", 
+        "DNAME": null, 
+        "Y_COORD": 581337.625, 
+        "PID": "21121640", 
+        "LANDMRKS_I": 148, 
+        "X_COORD": 917991.063, 
+        "TTRRSS": "524112", 
+        "MDC_LANDMR": 0.0, 
+        "ADDRESS": "160 NW 170TH ST", 
+        "FOLIO": "0721120080010", 
+        "TYPE": "H", 
+        "ZIP5": "33169"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.1690287887162, 
+          25.77185380790735
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PERIMETER": 0.0, 
+        "LANDMRKS_": 149, 
+        "NAME": "Port of Miami", 
+        "DNAME": null, 
+        "Y_COORD": 523633.094, 
+        "PID": "42050156", 
+        "LANDMRKS_I": 149, 
+        "X_COORD": 929630.375, 
+        "TTRRSS": "544205", 
+        "MDC_LANDMR": 0.0, 
+        "ADDRESS": "1015 N AMERICA WY", 
+        "FOLIO": "0142050000010", 
+        "TYPE": "G", 
+        "ZIP5": "33132"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.2385425566436, 
+          25.958398912497138
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PERIMETER": 0.0, 
+        "LANDMRKS_": 150, 
+        "NAME": "Pro Player Stadium", 
+        "DNAME": null, 
+        "Y_COORD": 591298.188, 
+        "PID": "21030005", 
+        "LANDMRKS_I": 150, 
+        "X_COORD": 906360.125, 
+        "TTRRSS": "514134", 
+        "MDC_LANDMR": 0.0, 
+        "ADDRESS": "2269 NW 199TH ST", 
+        "FOLIO": "3011340110010", 
+        "TYPE": "R", 
+        "ZIP5": "33056"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.19255856990276, 
+          25.771051339716767
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PERIMETER": 0.0, 
+        "LANDMRKS_": 151, 
+        "NAME": "Riverwalk Mover Station", 
+        "DNAME": "METRO MOVER STATION", 
+        "Y_COORD": 523293.281, 
+        "PID": null, 
+        "LANDMRKS_I": 151, 
+        "X_COORD": 921888.438, 
+        "TTRRSS": null, 
+        "MDC_LANDMR": 0.0, 
+        "ADDRESS": "88 SE 4TH ST", 
+        "FOLIO": null, 
+        "TYPE": null, 
+        "ZIP5": null
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.35011725586315, 
+          25.667734828111374
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PERIMETER": 0.0, 
+        "LANDMRKS_": 152, 
+        "NAME": "Ron Ehman Park", 
+        "DNAME": null, 
+        "Y_COORD": 485455.531, 
+        "PID": "50090150", 
+        "LANDMRKS_I": 152, 
+        "X_COORD": 870220.563, 
+        "TTRRSS": "554009", 
+        "MDC_LANDMR": 0.0, 
+        "ADDRESS": "11200 SW 97TH AV", 
+        "FOLIO": "3050090000800", 
+        "TYPE": "R", 
+        "ZIP5": "33176"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.24740669700634, 
+          25.939408742237134
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PERIMETER": 0.0, 
+        "LANDMRKS_": 1, 
+        "NAME": "183rd Street Flea Market", 
+        "DNAME": "FLEA MARKET", 
+        "Y_COORD": 584378.938, 
+        "PID": "21090002", 
+        "LANDMRKS_I": 1, 
+        "X_COORD": 903487.188, 
+        "TTRRSS": "524109", 
+        "MDC_LANDMR": 0.0, 
+        "ADDRESS": "18200 NW 27TH AV", 
+        "FOLIO": "3021090010010", 
+        "TYPE": "R", 
+        "ZIP5": "33056"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.30910652667359, 
+          25.737659841566238
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PERIMETER": 0.0, 
+        "LANDMRKS_": 2, 
+        "NAME": "Ad Barnes Park", 
+        "DNAME": "PARK", 
+        "Y_COORD": 510938.75, 
+        "PID": "40140707", 
+        "LANDMRKS_I": 2, 
+        "X_COORD": 883595.875, 
+        "TTRRSS": "544014", 
+        "MDC_LANDMR": 0.0, 
+        "ADDRESS": "3401 SW 72ND  AV", 
+        "FOLIO": "3040140210010", 
+        "TYPE": "R", 
+        "ZIP5": "33155"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.21546218196221, 
+          25.808694785598842
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PERIMETER": 0.0, 
+        "LANDMRKS_": 3, 
+        "NAME": "Allapattah Station", 
+        "DNAME": "METRO RAIL STATION", 
+        "Y_COORD": 536929.875, 
+        "PID": "31260122", 
+        "LANDMRKS_I": 3, 
+        "X_COORD": 914269.25, 
+        "TTRRSS": "534126", 
+        "MDC_LANDMR": 0.0, 
+        "ADDRESS": "3501 NW 12TH  AV", 
+        "FOLIO": "0101000000022", 
+        "TYPE": "M", 
+        "ZIP5": "33127"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.27126403808388, 
+          25.88412699052936
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PERIMETER": 0.0, 
+        "LANDMRKS_": 4, 
+        "NAME": "Amelia Earhart Park", 
+        "DNAME": "PARK", 
+        "Y_COORD": 564241.375, 
+        "PID": "21290317", 
+        "LANDMRKS_I": 4, 
+        "X_COORD": 895758.5, 
+        "TTRRSS": "524129", 
+        "MDC_LANDMR": 0.0, 
+        "ADDRESS": "11900 NW 42ND AV", 
+        "FOLIO": "0821290000030", 
+        "TYPE": "R", 
+        "ZIP5": "33014"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.1877882391106, 
+          25.781428330056034
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PERIMETER": 0.0, 
+        "LANDMRKS_": 5, 
+        "NAME": "American Airlines Arena", 
+        "DNAME": null, 
+        "Y_COORD": 527074.625, 
+        "PID": "42060005", 
+        "LANDMRKS_I": 5, 
+        "X_COORD": 923435.125, 
+        "TTRRSS": "534231", 
+        "MDC_LANDMR": 0.0, 
+        "ADDRESS": "601 BISCAYNE BLVD", 
+        "FOLIO": "0132310550010", 
+        "TYPE": "R", 
+        "ZIP5": "33128"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.3869431987457, 
+          25.730425012411946
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PERIMETER": 0.0, 
+        "LANDMRKS_": 6, 
+        "NAME": "American Medical Plaza", 
+        "DNAME": null, 
+        "Y_COORD": 508182.594, 
+        "PID": "49131822", 
+        "LANDMRKS_I": 6, 
+        "X_COORD": 857985.063, 
+        "TTRRSS": "543913", 
+        "MDC_LANDMR": 0.0, 
+        "ADDRESS": "11880 SW 40TH ST", 
+        "FOLIO": "3049130210020", 
+        "TYPE": "H", 
+        "ZIP5": "33175"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.21948149384485, 
+          25.85102945409398
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PERIMETER": 0.0, 
+        "LANDMRKS_": 7, 
+        "NAME": "Arcola Lake Park", 
+        "DNAME": "PARK", 
+        "Y_COORD": 552309.313, 
+        "PID": "31110283", 
+        "LANDMRKS_I": 7, 
+        "X_COORD": 912855.563, 
+        "TTRRSS": "534111", 
+        "MDC_LANDMR": 0.0, 
+        "ADDRESS": "1301 NW 83RD ST", 
+        "FOLIO": "3031110590010", 
+        "TYPE": "R", 
+        "ZIP5": "33147"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.19534116716476, 
+          25.778815312228183
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PERIMETER": 0.0, 
+        "LANDMRKS_": 8, 
+        "NAME": "Arena/State Plaza Mover Station", 
+        "DNAME": "METRO MOVER STATION", 
+        "Y_COORD": 526109.625, 
+        "PID": null, 
+        "LANDMRKS_I": 8, 
+        "X_COORD": 920955.438, 
+        "TTRRSS": null, 
+        "MDC_LANDMR": 0.0, 
+        "ADDRESS": "90 NW 5TH ST", 
+        "FOLIO": null, 
+        "TYPE": null, 
+        "ZIP5": null
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.144930511302, 
+          25.95718646599833
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PERIMETER": 0.0, 
+        "LANDMRKS_": 9, 
+        "NAME": "Aventura Mall", 
+        "DNAME": "LORD & TAYLOR", 
+        "Y_COORD": 591047.438, 
+        "PID": "22030240", 
+        "LANDMRKS_I": 9, 
+        "X_COORD": 937122.625, 
+        "TTRRSS": "524203", 
+        "MDC_LANDMR": 0.0, 
+        "ADDRESS": "19501 BISCAYNE BD", 
+        "FOLIO": "2822030380010", 
+        "TYPE": "R", 
+        "ZIP5": "33180"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.3409952999529, 
+          25.68470241904632
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PERIMETER": 0.0, 
+        "LANDMRKS_": 10, 
+        "NAME": "Baptist Hospital", 
+        "DNAME": "HOSPITAL", 
+        "Y_COORD": 491637.344, 
+        "PID": "50040160", 
+        "LANDMRKS_I": 10, 
+        "X_COORD": 873194.438, 
+        "TTRRSS": "554004", 
+        "MDC_LANDMR": 0.0, 
+        "ADDRESS": "8940 SW 88TH ST", 
+        "FOLIO": "3050040000061", 
+        "TYPE": "H", 
+        "ZIP5": "33176"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.19615815191247, 
+          25.879077428975865
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PERIMETER": 0.0, 
+        "LANDMRKS_": 11, 
+        "NAME": "Barry University", 
+        "DNAME": "BARRY UNIVERSITY", 
+        "Y_COORD": 562550.188, 
+        "PID": "21362304", 
+        "LANDMRKS_I": 11, 
+        "X_COORD": 920463.813, 
+        "TTRRSS": "524136", 
+        "MDC_LANDMR": 0.0, 
+        "ADDRESS": "11300 NE 2ND AVE", 
+        "FOLIO": "1121360000050", 
+        "TYPE": "C", 
+        "ZIP5": "33161"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.18616621554644, 
+          25.775647428083705
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PERIMETER": 0.0, 
+        "LANDMRKS_": 12, 
+        "NAME": "Bay Front Park", 
+        "DNAME": null, 
+        "Y_COORD": 524976.75, 
+        "PID": "42060026", 
+        "LANDMRKS_I": 12, 
+        "X_COORD": 923981.875, 
+        "TTRRSS": "544206", 
+        "MDC_LANDMR": 0.0, 
+        "ADDRESS": "401 BISCAYNE BD", 
+        "FOLIO": "0101000000520", 
+        "TYPE": "R", 
+        "ZIP5": "33132"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.18732325942486, 
+          25.773099416210645
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PERIMETER": 0.0, 
+        "LANDMRKS_": 13, 
+        "NAME": "Bayfront Park Mover Station", 
+        "DNAME": "METRO MOVER STATION", 
+        "Y_COORD": 524048.281, 
+        "PID": null, 
+        "LANDMRKS_I": 13, 
+        "X_COORD": 923606.813, 
+        "TTRRSS": null, 
+        "MDC_LANDMR": 0.0, 
+        "ADDRESS": "150 BISCAYNE BLVD", 
+        "FOLIO": null, 
+        "TYPE": null, 
+        "ZIP5": null
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.18616621554644, 
+          25.775647428083705
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PERIMETER": 0.0, 
+        "LANDMRKS_": 14, 
+        "NAME": "Bayside", 
+        "DNAME": "BAYSIDE", 
+        "Y_COORD": 524976.75, 
+        "PID": "42060057", 
+        "LANDMRKS_I": 14, 
+        "X_COORD": 923981.875, 
+        "TTRRSS": "544206", 
+        "MDC_LANDMR": 0.0, 
+        "ADDRESS": "401 BISCAYNE BLVD", 
+        "FOLIO": "0101000000520", 
+        "TYPE": "R", 
+        "ZIP5": "33132"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.18793486442796, 
+          25.78591803043239
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PERIMETER": 0.0, 
+        "LANDMRKS_": 15, 
+        "NAME": "Bicentenial Park Mover Station", 
+        "DNAME": "METRO MOVER STATION", 
+        "Y_COORD": 528706.188, 
+        "PID": null, 
+        "LANDMRKS_I": 15, 
+        "X_COORD": 923376.813, 
+        "TTRRSS": null, 
+        "MDC_LANDMR": 0.0, 
+        "ADDRESS": "1191 BISCAYNE BLVD", 
+        "FOLIO": null, 
+        "TYPE": null, 
+        "ZIP5": null
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.34293050986851, 
+          25.467055030429922
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PERIMETER": 0.0, 
+        "LANDMRKS_": 16, 
+        "NAME": "Biscayne National Park", 
+        "DNAME": "PARK", 
+        "Y_COORD": 412530.344, 
+        "PID": "70160007", 
+        "LANDMRKS_I": 16, 
+        "X_COORD": 872948.75, 
+        "TTRRSS": "574016", 
+        "MDC_LANDMR": 0.0, 
+        "ADDRESS": "9700 SW 296TH ST", 
+        "FOLIO": "3070160010010", 
+        "TYPE": "R", 
+        "ZIP5": "33033"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.32989740162627, 
+          25.53953893193422
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PERIMETER": 0.0, 
+        "LANDMRKS_": 17, 
+        "NAME": "Black Point Marina", 
+        "DNAME": "BLACK POINT MARINA", 
+        "Y_COORD": 438895.781, 
+        "PID": "60220007", 
+        "LANDMRKS_I": 17, 
+        "X_COORD": 877116.125, 
+        "TTRRSS": "564022", 
+        "MDC_LANDMR": 0.0, 
+        "ADDRESS": "24775 SW 87TH AV", 
+        "FOLIO": "3060220000030", 
+        "TYPE": "R", 
+        "ZIP5": "33032"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.41903303589744, 
+          25.65859695045087
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PERIMETER": 0.0, 
+        "LANDMRKS_": 18, 
+        "NAME": "Boystown", 
+        "DNAME": null, 
+        "Y_COORD": 482028.75, 
+        "PID": "59101764", 
+        "LANDMRKS_I": 18, 
+        "X_COORD": 847535.625, 
+        "TTRRSS": "553910", 
+        "MDC_LANDMR": 0.0, 
+        "ADDRESS": "11400 SW 137TH AV", 
+        "FOLIO": "3059100000150", 
+        "TYPE": "R", 
+        "ZIP5": "33186"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.42990455304337, 
+          25.734922213798963
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PERIMETER": 0.0, 
+        "LANDMRKS_": 19, 
+        "NAME": "Braddock High School", 
+        "DNAME": "SENIOR HIGH SCHOOL", 
+        "Y_COORD": 509753.719, 
+        "PID": "49150975", 
+        "LANDMRKS_I": 19, 
+        "X_COORD": 843834.813, 
+        "TTRRSS": "543915", 
+        "MDC_LANDMR": 0.0, 
+        "ADDRESS": "3601 SW 147TH AV", 
+        "FOLIO": "3049150340010", 
+        "TYPE": "G", 
+        "ZIP5": "33185"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.19526132560617, 
+          25.76266396936614
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PERIMETER": 0.0, 
+        "LANDMRKS_": 20, 
+        "NAME": "Brickell Mover Station", 
+        "DNAME": "METRO MOVER STATION", 
+        "Y_COORD": 520239.313, 
+        "PID": null, 
+        "LANDMRKS_I": 20, 
+        "X_COORD": 921017.563, 
+        "TTRRSS": null, 
+        "MDC_LANDMR": 0.0, 
+        "ADDRESS": "1001 SW 1ST AVE", 
+        "FOLIO": null, 
+        "TYPE": null, 
+        "ZIP5": null
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.19546279845159, 
+          25.763820021406097
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PERIMETER": 0.0, 
+        "LANDMRKS_": 21, 
+        "NAME": "Brickell Station", 
+        "DNAME": "METRO RAIL STATION", 
+        "Y_COORD": 520659.094, 
+        "PID": "41120392", 
+        "LANDMRKS_I": 21, 
+        "X_COORD": 920948.688, 
+        "TTRRSS": "534126", 
+        "MDC_LANDMR": 0.0, 
+        "ADDRESS": "1001 SW 1ST AV", 
+        "FOLIO": "0101000000022", 
+        "TYPE": "M", 
+        "ZIP5": "33130"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.2407119209492, 
+          25.82206546614294
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PERIMETER": 0.0, 
+        "LANDMRKS_": 22, 
+        "NAME": "Brownsville Station", 
+        "DNAME": "METRO RAIL STATION", 
+        "Y_COORD": 541740.938, 
+        "PID": "31210269", 
+        "LANDMRKS_I": 22, 
+        "X_COORD": 905934.063, 
+        "TTRRSS": "534014", 
+        "MDC_LANDMR": 0.0, 
+        "ADDRESS": "5200 NW  27TH AV", 
+        "FOLIO": "3040350001052", 
+        "TYPE": "M", 
+        "ZIP5": "33142"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.23832820757306, 
+          25.96935662503892
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PERIMETER": 0.0, 
+        "LANDMRKS_": 23, 
+        "NAME": "Calder Track", 
+        "DNAME": "CALDER STABLES", 
+        "Y_COORD": 595281.438, 
+        "PID": "11340440", 
+        "LANDMRKS_I": 23, 
+        "X_COORD": 906407.375, 
+        "TTRRSS": "514134", 
+        "MDC_LANDMR": 0.0, 
+        "ADDRESS": "21001 NW 27TH AV", 
+        "FOLIO": "3011340000010", 
+        "TYPE": "R", 
+        "ZIP5": "33056"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.18612785641658, 
+          25.961496724790372
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PERIMETER": 0.0, 
+        "LANDMRKS_": 24, 
+        "NAME": "California Club Mall", 
+        "DNAME": "MALL", 
+        "Y_COORD": 592527.813, 
+        "PID": "12310794", 
+        "LANDMRKS_I": 24, 
+        "X_COORD": 923575.813, 
+        "TTRRSS": "514231", 
+        "MDC_LANDMR": 0.0, 
+        "ADDRESS": "850 IVES DAIRY RD", 
+        "FOLIO": "3012310150010", 
+        "TYPE": "R", 
+        "ZIP5": "33179"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.46763506976137, 
+          25.52329066448604
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PERIMETER": 0.0, 
+        "LANDMRKS_": 25, 
+        "NAME": "Camp Owaissa Bauer", 
+        "DNAME": "CAMP", 
+        "Y_COORD": 432785.0, 
+        "PID": "69300077", 
+        "LANDMRKS_I": 25, 
+        "X_COORD": 831723.313, 
+        "TTRRSS": "563930", 
+        "MDC_LANDMR": 0.0, 
+        "ADDRESS": "17001 SW 264TH ST", 
+        "FOLIO": "3069300000330", 
+        "TYPE": "G", 
+        "ZIP5": "33031"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.1598863910243, 
+          25.672796232229114
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PERIMETER": 0.0, 
+        "LANDMRKS_": 26, 
+        "NAME": "Cape Florida (Bill Baggs)", 
+        "DNAME": "PARK", 
+        "Y_COORD": 487648.094, 
+        "PID": "52080001", 
+        "LANDMRKS_I": 26, 
+        "X_COORD": 932868.313, 
+        "TTRRSS": "554208", 
+        "MDC_LANDMR": 0.0, 
+        "ADDRESS": "1200 CRANDON BD", 
+        "FOLIO": "3052040030010", 
+        "TYPE": "R", 
+        "ZIP5": "33149"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.24504117752483, 
+          25.944966665838216
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PERIMETER": 0.0, 
+        "LANDMRKS_": 27, 
+        "NAME": "Carol City Station", 
+        "DNAME": "FIRE & RESCUE  11", 
+        "Y_COORD": 586403.563, 
+        "PID": "21030973", 
+        "LANDMRKS_I": 27, 
+        "X_COORD": 904252.938, 
+        "TTRRSS": "524103", 
+        "MDC_LANDMR": 0.0, 
+        "ADDRESS": "18705 NW 27TH AV", 
+        "FOLIO": "3021030010700", 
+        "TYPE": "G", 
+        "ZIP5": "33056"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.30528600022741, 
+          25.623381825569798
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PERIMETER": 0.0, 
+        "LANDMRKS_": 28, 
+        "NAME": "Charles Deering Estate", 
+        "DNAME": null, 
+        "Y_COORD": 469410.281, 
+        "PID": "50260499", 
+        "LANDMRKS_I": 28, 
+        "X_COORD": 885071.813, 
+        "TTRRSS": "554026", 
+        "MDC_LANDMR": 0.0, 
+        "ADDRESS": "16701 SW 72ND AV", 
+        "FOLIO": "3050250040010", 
+        "TYPE": "R", 
+        "ZIP5": "33157"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.21503297701008, 
+          25.78967164928723
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PERIMETER": 0.0, 
+        "LANDMRKS_": 29, 
+        "NAME": "Civic Center Station", 
+        "DNAME": "METRO RAIL STATION", 
+        "Y_COORD": 530016.438, 
+        "PID": "34350305", 
+        "LANDMRKS_I": 29, 
+        "X_COORD": 914451.688, 
+        "TTRRSS": "534126", 
+        "MDC_LANDMR": 0.0, 
+        "ADDRESS": "1501 NW 12TH AV", 
+        "FOLIO": "0101000000022", 
+        "TYPE": "M", 
+        "ZIP5": "33136"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.23884884113797, 
+          25.739813887131668
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PERIMETER": 0.0, 
+        "LANDMRKS_": 30, 
+        "NAME": "Coconut Grove Station", 
+        "DNAME": "METRO RAIL STATION", 
+        "Y_COORD": 511848.938, 
+        "PID": "41162102", 
+        "LANDMRKS_I": 30, 
+        "X_COORD": 906719.688, 
+        "TTRRSS": "534126", 
+        "MDC_LANDMR": 0.0, 
+        "ADDRESS": "2780 SW 27TH AV", 
+        "FOLIO": "0101000000022", 
+        "TYPE": "M", 
+        "ZIP5": "33133"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.18991568834407, 
+          25.777583758508396
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PERIMETER": 0.0, 
+        "LANDMRKS_": 31, 
+        "NAME": "College Bayside Mover Station", 
+        "DNAME": "METRO MOVER STATION", 
+        "Y_COORD": 525672.938, 
+        "PID": null, 
+        "LANDMRKS_I": 31, 
+        "X_COORD": 922743.625, 
+        "TTRRSS": null, 
+        "MDC_LANDMR": 0.0, 
+        "ADDRESS": "225 NE 3RD ST", 
+        "FOLIO": null, 
+        "TYPE": null, 
+        "ZIP5": null
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.19208592123582, 
+          25.77892606912025
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PERIMETER": 0.0, 
+        "LANDMRKS_": 32, 
+        "NAME": "College North Mover Station", 
+        "DNAME": "METRO MOVER STATION", 
+        "Y_COORD": 526156.438, 
+        "PID": null, 
+        "LANDMRKS_I": 32, 
+        "X_COORD": 922026.438, 
+        "TTRRSS": null, 
+        "MDC_LANDMR": 0.0, 
+        "ADDRESS": "100 NE 5TH ST", 
+        "FOLIO": null, 
+        "TYPE": null, 
+        "ZIP5": null
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.3851995251505, 
+          25.731071374342157
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PERIMETER": 0.0, 
+        "LANDMRKS_": 33, 
+        "NAME": "Columbia Kendall Medical Ctr", 
+        "DNAME": "HOSPITAL", 
+        "Y_COORD": 508420.188, 
+        "PID": "49131695", 
+        "LANDMRKS_I": 33, 
+        "X_COORD": 858558.0, 
+        "TTRRSS": "543913", 
+        "MDC_LANDMR": 0.0, 
+        "ADDRESS": "11750 SW 40TH ST", 
+        "FOLIO": "3049130000011", 
+        "TYPE": "H", 
+        "ZIP5": "33175"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.37802150319531, 
+          25.73409294820707
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PERIMETER": 0.0, 
+        "LANDMRKS_": 34, 
+        "NAME": "Concord Shopping Center", 
+        "DNAME": null, 
+        "Y_COORD": 509529.469, 
+        "PID": "40181543", 
+        "LANDMRKS_I": 34, 
+        "X_COORD": 860915.875, 
+        "TTRRSS": "544018", 
+        "MDC_LANDMR": 0.0, 
+        "ADDRESS": "3878 SW 112TH AV", 
+        "FOLIO": "3040180940010", 
+        "TYPE": "R", 
+        "ZIP5": "33165"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.32812003145001, 
+          25.67653505766975
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PERIMETER": 0.0, 
+        "LANDMRKS_": 35, 
+        "NAME": "Continental Park", 
+        "DNAME": null, 
+        "Y_COORD": 488690.219, 
+        "PID": "50030821", 
+        "LANDMRKS_I": 35, 
+        "X_COORD": 877449.813, 
+        "TTRRSS": "554003", 
+        "MDC_LANDMR": 0.0, 
+        "ADDRESS": "10000 SW 82ND AV", 
+        "FOLIO": "3050030001000", 
+        "TYPE": "R", 
+        "ZIP5": "33156"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.32117914245143, 
+          25.631603204418354
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PERIMETER": 0.0, 
+        "LANDMRKS_": 36, 
+        "NAME": "Coral Reef Park", 
+        "DNAME": null, 
+        "Y_COORD": 472371.219, 
+        "PID": "50220857", 
+        "LANDMRKS_I": 36, 
+        "X_COORD": 879819.625, 
+        "TTRRSS": "554022", 
+        "MDC_LANDMR": 0.0, 
+        "ADDRESS": "7895 SW 152ND ST", 
+        "FOLIO": "3050220000750", 
+        "TYPE": "R", 
+        "ZIP5": "33157"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.41489975885126, 
+          25.6269362732542
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PERIMETER": 0.0, 
+        "LANDMRKS_": 37, 
+        "NAME": "Country Walk Plaza", 
+        "DNAME": "SHOPPING CENTER", 
+        "Y_COORD": 470527.688, 
+        "PID": "59221157", 
+        "LANDMRKS_I": 37, 
+        "X_COORD": 848948.0, 
+        "TTRRSS": "553922", 
+        "MDC_LANDMR": 0.0, 
+        "ADDRESS": "13701 SW 152ND ST", 
+        "FOLIO": "3059220280020", 
+        "TYPE": "R", 
+        "ZIP5": "33177"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.15123213229099, 
+          25.71745527984326
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PERIMETER": 0.0, 
+        "LANDMRKS_": 38, 
+        "NAME": "Crandon Park", 
+        "DNAME": "PARK AND MARINA", 
+        "Y_COORD": 503898.313, 
+        "PID": "42210010", 
+        "LANDMRKS_I": 38, 
+        "X_COORD": 935614.563, 
+        "TTRRSS": "544228", 
+        "MDC_LANDMR": 0.0, 
+        "ADDRESS": "4000 CRANDON BD", 
+        "FOLIO": "3042320010010", 
+        "TYPE": "R", 
+        "ZIP5": "33149"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.20754348333293, 
+          25.784555607876587
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PERIMETER": 0.0, 
+        "LANDMRKS_": 39, 
+        "NAME": "Culmer Station", 
+        "DNAME": "METRO RAIL STATION", 
+        "Y_COORD": 528171.688, 
+        "PID": "31350729", 
+        "LANDMRKS_I": 39, 
+        "X_COORD": 916927.313, 
+        "TTRRSS": "534126", 
+        "MDC_LANDMR": 0.0, 
+        "ADDRESS": "701 NW 11TH ST", 
+        "FOLIO": "0101000000022", 
+        "TYPE": "M", 
+        "ZIP5": "33136"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.3669171295329, 
+          25.575815947805065
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PERIMETER": 0.0, 
+        "LANDMRKS_": 40, 
+        "NAME": "Cutler Ridge Center", 
+        "DNAME": null, 
+        "Y_COORD": 452020.719, 
+        "PID": "60070615", 
+        "LANDMRKS_I": 40, 
+        "X_COORD": 864846.625, 
+        "TTRRSS": "564007", 
+        "MDC_LANDMR": 0.0, 
+        "ADDRESS": "20291 SW 112TH HY", 
+        "FOLIO": "3060070200030", 
+        "TYPE": "R", 
+        "ZIP5": "33189"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.3690638170136, 
+          25.576433454657533
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "PERIMETER": 0.0, 
+        "LANDMRKS_": 41, 
+        "NAME": "Cutler Ridge Mall", 
+        "DNAME": "CUTLER RIDGE MALL", 
+        "Y_COORD": 452241.781, 
+        "PID": "60070814", 
+        "LANDMRKS_I": 41, 
+        "X_COORD": 864137.938, 
+        "TTRRSS": "564007", 
+        "MDC_LANDMR": 0.0, 
+        "ADDRESS": "20505 S DIXIE HY", 
+        "FOLIO": "3060070200020", 
+        "TYPE": "R", 
+        "ZIP5": "33189"
+      }
+    }
+  ]
+}

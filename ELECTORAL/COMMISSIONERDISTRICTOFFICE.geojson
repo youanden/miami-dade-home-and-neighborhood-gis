@@ -1,0 +1,341 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.24522059441914, 
+          25.925567513554572
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "BUILDING": null, 
+        "CITY": "Opa-locka", 
+        "NAME": "Barbara J. Jordan", 
+        "ZIP": 33056, 
+        "CD": 1, 
+        "PHONE": "305-474-3011", 
+        "STATE": "Florida", 
+        "ADDRESS": "2780 NW 167th St", 
+        "SUITE": null
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.17984910437565, 
+          25.890119038250074
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "BUILDING": "City of North Miami", 
+        "CITY": "Miami", 
+        "NAME": "Jean Monestime", 
+        "ZIP": 33161, 
+        "CD": 2, 
+        "PHONE": "305-694-2779", 
+        "STATE": "Florida", 
+        "ADDRESS": "900 NE 125th St", 
+        "SUITE": "Suite 200"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.23326453586695, 
+          25.824722647991706
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "BUILDING": "Caleb Center", 
+        "CITY": "Miami", 
+        "NAME": "Audrey Edmonson", 
+        "ZIP": 33142, 
+        "CD": 3, 
+        "PHONE": "305-636-2331", 
+        "STATE": "Florida", 
+        "ADDRESS": "5400 NW 22nd Ave", 
+        "SUITE": "Suite 701"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.17779345520152, 
+          25.924989517372644
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "BUILDING": null, 
+        "CITY": "North Miami Beach", 
+        "NAME": "Sally A.Heyman", 
+        "ZIP": 33162, 
+        "CD": 4, 
+        "PHONE": "305-787-5999", 
+        "STATE": "Florida", 
+        "ADDRESS": "1100 NE 163rd St", 
+        "SUITE": "#303"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.14406470250286, 
+          25.794762811639863
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "BUILDING": null, 
+        "CITY": "Miami", 
+        "NAME": "Bruno A. Barreiro", 
+        "ZIP": 33139, 
+        "CD": 5, 
+        "PHONE": "305-673-7743", 
+        "STATE": "Florida", 
+        "ADDRESS": "1700 Convention Center Dr", 
+        "SUITE": null
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.21919471824462, 
+          25.77216553903585
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "BUILDING": null, 
+        "CITY": "Miami", 
+        "NAME": "Bruno A. Barreiro", 
+        "ZIP": 33135, 
+        "CD": 5, 
+        "PHONE": "305-643-8525", 
+        "STATE": "Florida", 
+        "ADDRESS": "1454 SW 1st St", 
+        "SUITE": "Suite 130"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.29208591422358, 
+          25.70328557341601
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "BUILDING": "South Miami City Hall", 
+        "CITY": "South Miami", 
+        "NAME": "Xavier L. Suarez", 
+        "ZIP": 33143, 
+        "CD": 7, 
+        "PHONE": "305-669-4003", 
+        "STATE": "Florida", 
+        "ADDRESS": "6130 Sunset Drive", 
+        "SUITE": null
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.35311353883121, 
+          25.74570014977454
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "BUILDING": null, 
+        "CITY": "Miami", 
+        "NAME": "Javier D. Souto", 
+        "ZIP": 33165, 
+        "CD": 10, 
+        "PHONE": "305-222-2116", 
+        "STATE": "Florida", 
+        "ADDRESS": "9766 Coral Way", 
+        "SUITE": "Suite One"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.33116795732856, 
+          25.783678662496023
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "BUILDING": null, 
+        "CITY": "Doral", 
+        "NAME": "Jose \"Pepe\" Diaz", 
+        "ZIP": 33126, 
+        "CD": 12, 
+        "PHONE": "305-599-1200", 
+        "STATE": "Florida", 
+        "ADDRESS": "8345 NW 12th St", 
+        "SUITE": null
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.32658601793338, 
+          25.934072488843686
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "BUILDING": null, 
+        "CITY": "Miami", 
+        "NAME": "Esteban Bovo, Jr.", 
+        "ZIP": 33015, 
+        "CD": 13, 
+        "PHONE": "305-820-8444", 
+        "STATE": "Florida", 
+        "ADDRESS": "17687 NW 78th Ave", 
+        "SUITE": null
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.28802950349376, 
+          25.761235457685014
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "BUILDING": null, 
+        "CITY": "Miami", 
+        "NAME": "Rebeca Sosa", 
+        "ZIP": 33144, 
+        "CD": 6, 
+        "PHONE": "305-267-6377", 
+        "STATE": "Florida", 
+        "ADDRESS": "1000 SW 57th Ave", 
+        "SUITE": "Suite 201"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.25436370843828, 
+          25.731676868629894
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "BUILDING": "Frankie Rolle Center", 
+        "CITY": "Miami", 
+        "NAME": "Xavier l. Suarez", 
+        "ZIP": 33133, 
+        "CD": 7, 
+        "PHONE": "305-336-3311", 
+        "STATE": "Florida", 
+        "ADDRESS": "3750 S. Dixie Hwy", 
+        "SUITE": null
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.33851534445988, 
+          25.633419774464308
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "BUILDING": null, 
+        "CITY": "Palmetto Bay", 
+        "NAME": "Lynda Bell", 
+        "ZIP": 33176, 
+        "CD": 8, 
+        "PHONE": "305-378-6677", 
+        "STATE": "Florida", 
+        "ADDRESS": "14707 S. Dixie Hwy", 
+        "SUITE": "Suite 101"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.36495801745501, 
+          25.571355618314442
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "BUILDING": "South Dade Government Center", 
+        "CITY": "Miami", 
+        "NAME": "Dennis C. Moss", 
+        "ZIP": 33189, 
+        "CD": 9, 
+        "PHONE": "305-234-4938", 
+        "STATE": "Florida", 
+        "ADDRESS": "10710 SW 211th St", 
+        "SUITE": "Suite 206"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.48569107025227, 
+          25.462327963811326
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "BUILDING": "Florida City Office", 
+        "CITY": "Florida City", 
+        "NAME": "Dennis C. Moss", 
+        "ZIP": 33034, 
+        "CD": 9, 
+        "PHONE": "305-245-4420", 
+        "STATE": "Florida", 
+        "ADDRESS": "1634 NW 6th Ave", 
+        "SUITE": null
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.45972864057951, 
+          25.684426895180415
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "BUILDING": null, 
+        "CITY": "Miami", 
+        "NAME": "Juan C. Zapata", 
+        "ZIP": 33193, 
+        "CD": 11, 
+        "PHONE": "305-375-5511", 
+        "STATE": "Florida", 
+        "ADDRESS": "8785 SW 165 Ave", 
+        "SUITE": "201A"
+      }
+    }
+  ]
+}
